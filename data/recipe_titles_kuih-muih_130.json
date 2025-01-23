@@ -1,27 +1,5 @@
 [
     {
-        "title": "Karipap Pusing Rangup Edisi Premium",
-        "page_url": "https://resepichenom.com/kategori/kuih-muih?page=1",
-        "recipe_url": "https://resepichenom.com/resepi/karipap-pusing-rangup-premium",
-        "details": {
-            "image_url": null,
-            "ingredients": {},
-            "instructions": {},
-            "tips_and_guides": []
-        }
-    },
-    {
-        "title": "Kuih Bakar Labu Premium",
-        "page_url": "https://resepichenom.com/kategori/kuih-muih?page=1",
-        "recipe_url": "https://resepichenom.com/resepi/kuih-bakar-labu-refined-premium",
-        "details": {
-            "image_url": null,
-            "ingredients": {},
-            "instructions": {},
-            "tips_and_guides": []
-        }
-    },
-    {
         "title": "Kuih Bakar Labu",
         "page_url": "https://resepichenom.com/kategori/kuih-muih?page=1",
         "recipe_url": "https://resepichenom.com/resepi/kuib-bakar-labu",
