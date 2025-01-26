@@ -36,7 +36,7 @@
             },
             "instructions": {
                 "Penyediaan Utama": [
-                    "Potong tauhu telur tebal anggaran 1 ½cm dan ketepikan",
+                    "Potong tauhu telur tebal anggaran 1 \u00c2\u00bdcm dan ketepikan",
                     "Potong brokoli. Kalau nak tukar sayur lain pon boleh macam sayur sawi ke, ikutlah sayur yang anda suka.",
                     "Lobak merah kupas kulit dan potong mancis.",
                     "Bawang putih cincang kasar.",
@@ -66,6 +66,25 @@
             "tips_and_guides": [
                 "Tauhu telur sangan lembut, hati-hati masa nak keluarkan tauhu telur dari plastic jangan ganas takut hancur.",
                 "Pastikan salut tauhu telur dengan tepung jagung masa dekat-dekat nak goreng."
+            ],
+            "main_ingredients": [
+                "cili merah",
+                "cili padi",
+                "tauhu telur",
+                "tepung jagung",
+                "air",
+                "telur",
+                "minyak masak",
+                "bawang putih",
+                "daun bawang",
+                "sos tiram",
+                "lobak merah",
+                "cendawan shitake",
+                "cendawan shimeji",
+                "serbuk lada hitam/putih",
+                "kiub pati ayam",
+                "garam",
+                "brokoli"
             ]
         }
     },
@@ -116,6 +135,19 @@
                 "Masa goreng bawang putih, api jangan besar sangat takut nanti bawang cepat hangit dan pahit.",
                 "Untuk ikan bilis yang garing, goreng dengan api sederhana besar dan kerap kacau.",
                 "Gaul pucuk ubi dengan kesemua bahan tumisan dengan cara kaup naik atas (gunakan 2 senduk) dan jatuhkan. Dengan cara ini bahan tak terlebih hancur dan lebih cepat sejuk."
+            ],
+            "main_ingredients": [
+                "daun pucuk ubi",
+                "bawang besar",
+                "bawang putih",
+                "ikan bilis",
+                "tepung beras",
+                "asam gelugor",
+                "cili kering",
+                "belacan",
+                "garam",
+                "gula",
+                "serbuk perasa"
             ]
         }
     },
@@ -153,7 +185,7 @@
             "instructions": {
                 "Untuk Acar Rampai": [
                     "Potong timun (bahagian biji jangan ambik) dan carrot memanjang seperti batang mancis.",
-                    "Rendam timun dan carrot dalam air kapur ½ jam (supaya sayur rangup). Kemudian tapis dan bilas dengan air.",
+                    "Rendam timun dan carrot dalam air kapur \u00c2\u00bd jam (supaya sayur rangup). Kemudian tapis dan bilas dengan air.",
                     "Cili merah buang tangkai dan biji kemudian racik halus (jangan terlalu nipis).",
                     "Bawang putih dan bawang merah belah dua atau tiga (pastikan bawang masih tebal).",
                     "Potong kasar bawang besar dan halia.",
@@ -172,6 +204,25 @@
             "tips_and_guides": [
                 "Untuk senang potong carrot, trim sikit bahagian tepi carrot menjadi bentuk 4 segi. Potongan akan jadi sama dan carrot tak bergerak masa potong.",
                 "Petua untuk rangupkan sayur, rendam sayur dalam air kapur. Kalau tak ada kapur, boleh rendam dalam air sejuk (tapi hasil selepas masak mungkin berbeza)."
+            ],
+            "main_ingredients": [
+                "kapur makan",
+                "lobak merah",
+                "timun",
+                "cili merah",
+                "bawang putih",
+                "bawang merah",
+                "cili kering",
+                "bawang besar",
+                "halia",
+                "udang kering",
+                "biji sawi",
+                "rempah kari",
+                "gula",
+                "serbuk kunyit",
+                "cuka",
+                "garam",
+                "bijan"
             ]
         }
     },
@@ -223,6 +274,22 @@
             "tips_and_guides": [
                 "Untuk salad Che Nom rendam dalam air ais kejap, nanti salad akan jadi lebih segar dan crunchy. Untuk lebih sedap boleh ganti salad iceberg.",
                 "Kena guna api perlahan untuk goreng telur dan ratakan telur dengan cepat."
+            ],
+            "main_ingredients": [
+                "Roti burger",
+                "Bawang holland",
+                "Timun",
+                "Daun salad",
+                "Marjerin",
+                "Sos Worcestershire",
+                "Sos perasa Maggi",
+                "Daging burger lembu Ramly",
+                "Telur",
+                "Serbuk lada sulah",
+                "Keju Cheddar",
+                "Sos lada hitam",
+                "Mayonis",
+                "Sos cili"
             ]
         }
     },
@@ -286,6 +353,29 @@
             "tips_and_guides": [
                 "Untuk tahu udang dah masak atau belum, udang akan bertukar warna oren dan kepala bengkok bertemu ekor.",
                 "Bilas maggi dengan air sejuk untuk hentikan proses masak, jadi meggi tak kembang sangat nanti."
+            ],
+            "main_ingredients": [
+                "pek mi segera",
+                "bawang putih",
+                "tomato",
+                "sos ikan",
+                "kicap cair",
+                "limau nipis",
+                "serai",
+                "cili padi",
+                "ketumbar",
+                "bawang holland",
+                "gula perang",
+                "garam",
+                "bunga kantan",
+                "cili merah",
+                "ayam",
+                "sotong",
+                "udang",
+                "lobak merah",
+                "timun",
+                "kacang panjang",
+                "minyak bawang putih"
             ]
         }
     },
@@ -316,7 +406,7 @@
                     "2-3 sudu besar kerisik",
                     "1/2 cawan santan pekat",
                     "Garam secukup rasa",
-                    "Nota : Kalau guna santan kotak, cuma guna ½ kotak sahaja dan campur air"
+                    "Nota : Kalau guna santan kotak, cuma guna \u00c2\u00bd kotak sahaja dan campur air"
                 ]
             },
             "instructions": {
@@ -336,6 +426,25 @@
                 "Jika menggunakan santan perahan sendiri, perahan yang kedua adalah santan cair manakala perahan pertama adalah santan pekat.",
                 "Jika menggunakan santan kotak, boleh ditambah air dahulu atau tambah santan sedikit sampur dengan air.",
                 "Pastikan rasa dahulu masakan sebelum ditambah garam, kerana takut terlebih masin akibat ikan bilis yang sudah masin."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "ikan bilis",
+                "rempah daging",
+                "terung panjang",
+                "minyak masak",
+                "kayu manis",
+                "pelaga",
+                "bunga lawang",
+                "cengkih",
+                "daun kari",
+                "santan cair",
+                "gula",
+                "kerisik",
+                "santan pekat",
+                "garam"
             ]
         }
     },
@@ -356,8 +465,8 @@
                     "1 inci halia",
                     "3-4 tangkai cili padi",
                     "1 inci lengkuas",
-                    "½ cawan kecil ikan bilis",
-                    "½ cawan air"
+                    "\u00c2\u00bd cawan kecil ikan bilis",
+                    "\u00c2\u00bd cawan air"
                 ],
                 "Bahan Untuk Goreng": [
                     "2 ketul tauhu",
@@ -392,6 +501,29 @@
             "tips_and_guides": [
                 "Cili merah boleh digantikan dengan cili kering jika mahu.",
                 "Jika nak elakkan cepat basi, masak santan sekejap sebelum dimasukkan dalam sambal goreng jawa."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "cili padi",
+                "lengkuas",
+                "ikan bilis",
+                "air",
+                "tauhu",
+                "garam",
+                "kentang",
+                "tempe",
+                "serbuk kunyit",
+                "serai",
+                "kacang panjang",
+                "cili merah",
+                "fucuk",
+                "suhun",
+                "air asam jawa",
+                "udang",
+                "santan",
+                "gula"
             ]
         }
     },
@@ -406,20 +538,20 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk  Peria Goreng": [
+                "Bahan Untuk \u00c2\u00a0Peria Goreng": [
                     "sedikit garam",
                     "1 biji telur",
                     "4-5 biji peria katak",
-                    "1 ½ sudu besar tepung beras",
-                    "1 ½ sudu besar serbuk cili",
-                    "¼ sudu kecil garam",
+                    "1 \u00c2\u00bd sudu besar tepung beras",
+                    "1 \u00c2\u00bd sudu besar serbuk cili",
+                    "\u00c2\u00bc sudu kecil garam",
                     "2 sudu besar tepung gandum",
                     "1 sudu besar tepung jagung atau tepung ubi",
-                    "¼ kiub ayam",
-                    "½ sudu kecil lada hitam",
+                    "\u00c2\u00bc kiub ayam",
+                    "\u00c2\u00bd sudu kecil lada hitam",
                     "1 sudu besar santan pekat",
                     "air sejuk,  secukupnya untuk kepekatan salutan",
-                    "¼ sudu kecil baking powder"
+                    "\u00c2\u00bc sudu kecil baking powder"
                 ]
             },
             "instructions": {
@@ -437,6 +569,21 @@
             "tips_and_guides": [
                 "Bagi mengurangkan rasa pahit peria, gaulkan ia dengan sedikit garam selama 10-15minit. Kemudian, bilas dengan air dan keringkan peria.",
                 "Peria goreng yang rangup adalah daripada cara gorengan yang betul dengan api yang sederhana dan kerap kacau. Jika menggunakan api yang kuat ia mengakibatkan peria masak perang di luar tapi dalam masih lembik dan erangupan juga tak bertahan lama."
+            ],
+            "main_ingredients": [
+                "garam",
+                "telur",
+                "peria katak",
+                "tepung beras",
+                "serbuk cili",
+                "tepung gandum",
+                "tepung jagung",
+                "tepung ubi",
+                "kiub ayam",
+                "lada hitam",
+                "santan pekat",
+                "air",
+                "baking powder"
             ]
         }
     },
@@ -451,16 +598,16 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk Kalian  Ikan Masin": [
+                "Bahan Untuk Kalian \u00c2\u00a0Ikan Masin": [
                     "2-3 sudu besar minyak masak",
                     "3 ulas bawang putih",
                     "4-5 biji cili padi",
-                    "½ mangkuk kecil ikan masin",
+                    "\u00c2\u00bd mangkuk kecil ikan masin",
                     "3 sudu besar sos tiram",
                     "1 sudu kecil kicap manis",
-                    "¼ biji hirisan bawang holland",
+                    "\u00c2\u00bc biji hirisan bawang holland",
                     "3-4 pokok sayur kailan",
-                    "½ sudu besar tepung jagung + ¼ cawan air",
+                    "\u00c2\u00bd sudu besar tepung jagung + \u00c2\u00bc cawan air",
                     "sedikit air untuk kuah"
                 ]
             },
@@ -479,7 +626,10 @@
                 ]
             },
             "tips_and_guides": [
-                "Che Nom akan basuh bersih sayur dan rendam dalam air sejuk selama lebih kurang ½ jam sebelum dimasak untuk dapatkan sayur kalian yang segar dan rangup."
+                "Che Nom akan basuh bersih sayur dan rendam dalam air sejuk selama lebih kurang \u00c2\u00bd jam sebelum dimasak untuk dapatkan sayur kalian yang segar dan rangup."
+            ],
+            "main_ingredients": [
+                "minyak masak\nbawang putih\ncili padi\nikan masin\nsos tiram\nkicap manis\nbawang holland\nsayur kailan\ntepung jagung"
             ]
         }
     },
@@ -527,7 +677,7 @@
                     "Masak sehingga kering dan berulang tambah sedikit air. Ulang langkah yang sama 3-4 kali.",
                     "Masukkan nenas dan gaul rata.",
                     "Taburkan gula dan masak nenas sehingga sebati dengan rempah-rempah tumis iaitu dalam anggaran 10-15 minit. Tambah air jika mahukan lebih kuah pajeri.",
-                    "Bila nenas sudah masak lembut, masukkan ½ cawan santan dan 3 sudu besar kerisik.  Tambah sedikit garam dan gula secukup rasa.",
+                    "Bila nenas sudah masak lembut, masukkan \u00c2\u00bd cawan santan dan 3 sudu besar kerisik.  Tambah sedikit garam dan gula secukup rasa.",
                     "Sambung masak sehingga mendidih dan gaul kesemua bahan sehingga sekata. Boleh ditambah jika ada rasa yang kurang. Kemudian, pajeri nenas siap untuk dihidang."
                 ]
             },
@@ -535,6 +685,26 @@
                 "Untuk menghilangkan masam nenas, nenas boleh dicelur terlebih dahulu sebelum dimasak bersama kuah pajeri.",
                 "Tidak perlu letak terlalu banyak santan. Jika menggunakan santan kotak, anggaran setengah kotak kecil sudah mencukupi.",
                 "Bagi mendapatkan kuah yang pekat dan wangi, masukkan lebih kerisik kedalam masakan. Pilihan kerisik juga penting iaitu memilih yang elok dan tidak berbau hapak kerana ia dapat mempengaruhi rasa pajeri nenas tersebut."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "nenas",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kayu manis",
+                "bunga lawang",
+                "bunga cengkih",
+                "buah pelaga",
+                "daun kari",
+                "serbuk kari daging",
+                "air",
+                "ikan bilis",
+                "udang kering",
+                "santan",
+                "kerisik",
+                "gula",
+                "garam"
             ]
         }
     },
@@ -559,6 +729,9 @@
             },
             "tips_and_guides": [
                 "Tujuan santan cair dimasukkan dahulu dan santan pekat dimasukkan kemudian ialah supaya kuah masak lemak tidak berketul dan masak sekata di akhirnya. Jika santan pekat dimasak terlalu lama, kuah menjadi tidak elok dan sekata."
+            ],
+            "main_ingredients": [
+                "I'm missing the main ingredients from your request. Please provide the list so I can assist you."
             ]
         }
     },
@@ -596,6 +769,15 @@
             },
             "tips_and_guides": [
                 "Pastikan bendi dilap kering dahulu sebelum menggoreng kerana nanti bendi akan menjadi berair dan tidak rangup."
+            ],
+            "main_ingredients": [
+                "bendi",
+                "cili",
+                "sos tiram",
+                "minyak",
+                "bawang merah",
+                "bawang putih",
+                "ikan bilis"
             ]
         }
     },
@@ -640,6 +822,22 @@
             },
             "tips_and_guides": [
                 "Kalau nak masukkan jenis cendawan jenis yang lain pun boleh juga. Pastikan cendawan dicuci dengan air dan di lap sehingga kering sebelum masak supaya kesegaran cendawan dapat dikekalkan."
+            ],
+            "main_ingredients": [
+                "ikan",
+                "udang",
+                "cendawan tiram",
+                "karot",
+                "jagung muda atau baby corn",
+                "sayur sawi",
+                "pati ayam",
+                "garam",
+                "lada sulah",
+                "daun sup",
+                "bawang goreng",
+                "halia",
+                "bawang putih",
+                "bawang merah"
             ]
         }
     },
@@ -675,6 +873,14 @@
             },
             "tips_and_guides": [
                 "Untuk basuh sayur bayam supaya betul-betul bersih, rendam dalam air seketika supaya pasir yang melekat di bayam mudah hilang jika dicuci."
+            ],
+            "main_ingredients": [
+                "bayam",
+                "bawang putih",
+                "sos tiram",
+                "kicap",
+                "tepung jagung",
+                "cili padi"
             ]
         }
     },
@@ -712,6 +918,19 @@
             },
             "tips_and_guides": [
                 "Sayur ni sedap jika kobis nya dimasak sehingga lembut dan layu. Che Nom lebih suka gunakan kobis Cameron berbanding Kobis Beijing yang nipis."
+            ],
+            "main_ingredients": [
+                "sayur kobis",
+                "karot",
+                "biji sawi",
+                "daun kari",
+                "cili kering",
+                "cili hidup",
+                "serbuk kunyit",
+                "garam",
+                "gula",
+                "bawang putih",
+                "halia"
             ]
         }
     },
@@ -748,6 +967,9 @@
             },
             "tips_and_guides": [
                 "Che Nom tidak masukkan garam ke dalam kuah sos tiram kerana sos tiram dan serbuk pati ayam sudah masin rasanya."
+            ],
+            "main_ingredients": [
+                "- sayur Pak Choy\n- sos tiram\n- bawang putih\n- halia\n- serbuk pati ayam atau pati ikan bilis\n- tepung jagung\n- bawang goreng\n- cili api "
             ]
         }
     },
@@ -787,6 +1009,15 @@
             "tips_and_guides": [
                 "Semasa menggoreng terung, jangan masukkan terlalu banyak terung ke dalam minyak kerana nanti terung akan masak tidak sekata dan tak cantik warna kulitnya.",
                 "Terung harus digoreng di dalam minyak yang banyak."
+            ],
+            "main_ingredients": [
+                "terung panjang",
+                "minyak masak",
+                "cili merah",
+                "cili melaka",
+                "ikan bilis",
+                "bawang besar",
+                "bawang putih"
             ]
         }
     },
@@ -823,6 +1054,16 @@
             },
             "tips_and_guides": [
                 "Jangan masak terlalu lama kerana sayur akan melecur dan kurang khasiatnya."
+            ],
+            "main_ingredients": [
+                "bayam",
+                "bawang merah",
+                "bawang putih",
+                "sos tiram",
+                "udang",
+                "cili merah",
+                "garam",
+                "minyak masak"
             ]
         }
     },
@@ -848,6 +1089,10 @@
             },
             "tips_and_guides": [
                 "Masakan sayur kangkung harus dimasak dengan pantas. Pastikan bahan-bahan semua sudah tersedia sebelum anda mula memasak. Jika terlebih masak, sayur akan lembik dan tak sedap lagi."
+            ],
+            "main_ingredients": [
+                "I'm sorry",
+                "but it looks like you haven't provided any text for me to extract the main ingredients from. Could you please provide some text or a list of ingredients for me to work with?"
             ]
         }
     },
@@ -881,7 +1126,16 @@
                     "Angkat dan hidang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sayur kailan",
+                "bawang putih",
+                "cili padi",
+                "ikan masin",
+                "sos tiram",
+                "minyak",
+                "garam,l gula"
+            ]
         }
     },
     {
@@ -914,6 +1168,12 @@
             },
             "tips_and_guides": [
                 "Garam tidak digunakan di dalam resipi ini kerana kebanyakan tepung goreng berempah segera sudah mempunyai rasa masin secukupnya. Jadi hati-hati jika anda mahu masukkan garam."
+            ],
+            "main_ingredients": [
+                "cendawan tiram",
+                "telur",
+                "tepung goreng berempah segera",
+                "minyak"
             ]
         }
     },
@@ -949,6 +1209,15 @@
             },
             "tips_and_guides": [
                 "Kuah haruslah dimasak di atas api yang perlahan dan kerap dikacau supaya kuah santan tidak berketul."
+            ],
+            "main_ingredients": [
+                "pucuk paku",
+                "santan",
+                "ikan bilis",
+                "bawang merah",
+                "cili padi",
+                "kunyit hidup",
+                "garam"
             ]
         }
     },
@@ -983,6 +1252,15 @@
             },
             "tips_and_guides": [
                 "Jangan tambah air di dalam acar kerana dengan perlahan air dari buah nenas dan timun akan keluar sendiri selepas dibancuh bersama cuka dan bahan2 lain."
+            ],
+            "main_ingredients": [
+                "nenas",
+                "timun",
+                "bawang besar",
+                "cili merah",
+                "cuka",
+                "gula",
+                "garam"
             ]
         }
     },
@@ -1017,6 +1295,12 @@
             },
             "tips_and_guides": [
                 "Bawang putih dimasukkan agak lambat sedikit kerana jika digoreng agak lama ia mudah hangus dan memberikan rasa pahit yang tidak enak."
+            ],
+            "main_ingredients": [
+                "terung panjang",
+                "cili padi",
+                "bawang putih",
+                "bawang besar"
             ]
         }
     },
@@ -1054,6 +1338,15 @@
             },
             "tips_and_guides": [
                 "Apabila labu sudah lembut dimasak dalam kuah yang mendidih, untuk memudahkan proses mengacau kuah supaya labu tidak hancur, saya cuma angkat sedikit periuk dan goyangkan beberapa saat supaya kuah tidak berketul. Diulang beberapa kali sehingga masak. Boleh juga kalau nak kacau dengan senduk :)"
+            ],
+            "main_ingredients": [
+                "labu",
+                "serai",
+                "udang kering",
+                "santan",
+                "cili merah",
+                "bawang merah",
+                "kunyit"
             ]
         }
     },
@@ -1096,6 +1389,21 @@
             },
             "tips_and_guides": [
                 "Kalau tak ada daun selom, boleh juga masukan daun ulaman lain seperti daun pegaga, pucuk paku atau daun putat. Ikut mana yang anda suka lah."
+            ],
+            "main_ingredients": [
+                "taugeh",
+                "daun selom",
+                "isi kerang",
+                "bawang besar",
+                "cili padi",
+                "air limau nipis",
+                "lada hitam",
+                "ikan bilis",
+                "bawang merah",
+                "santan pekat",
+                "serai",
+                "kerisik",
+                "air asam jawa"
             ]
         }
     },
@@ -1128,7 +1436,17 @@
                     "Sejukkan di dalam peti ais sebelum menghidang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sayur kobis",
+                "mayonis",
+                "jus lemon",
+                "lobak merah",
+                "susu",
+                "gula putih",
+                "garam",
+                "serbuk lada hitam"
+            ]
         }
     },
     {
@@ -1168,11 +1486,27 @@
                     "Masukkan udang kering dan kacau seketika. Masukkan sedikit air jika rempah terlalu kering untuk elakkan dari cepat hangus.",
                     "Masukkan nenas, masak sehingga nenas lembut.",
                     "Masukkan pati santan, kerisik, garam dan gula secukup rasa.",
-                    "Masak sehingga  kuah menjadi pekat."
+                    "Masak sehingga \u00c2\u00a0kuah menjadi pekat."
                 ]
             },
             "tips_and_guides": [
                 "Lebihkan gula kerana pajeri lebih sedap jika manis."
+            ],
+            "main_ingredients": [
+                "nenas",
+                "sebuk kari",
+                "bawang merah",
+                "bawang putih",
+                "udang kering/ikan bilis",
+                "kerisik",
+                "santan",
+                "halia",
+                "minyak",
+                "gula",
+                "garam",
+                "kulit kayu manis",
+                "bunga lawang",
+                "halba campur"
             ]
         }
     },
@@ -1197,7 +1531,7 @@
                     "Udang kering,digoreng tanpa minyak,sampai naik bau dan ditumbuk separa hancur.",
                     "Kacang tanah,digoreng tanpa minyak,dibuang kulit dan tumbuk separa hancur.",
                     "3 sudu besar jus limau nipis",
-                    "2 sudu besar sos  ikan",
+                    "2 sudu besar sos \u00c2\u00a0ikan",
                     "Gula dan garam secukup rasa"
                 ]
             },
@@ -1211,7 +1545,18 @@
                     "Sedia untuk dihidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "mangga",
+                "epal",
+                "bunga kantan",
+                "bawang besar",
+                "cili padi",
+                "udang kering",
+                "kacang tanah",
+                "jus limau nipis",
+                "sos ikan"
+            ]
         }
     },
     {
@@ -1247,7 +1592,21 @@
                     "Masukkan terung, kacau seketika. Tuang santan pekat dan kerisik. Masak sehingga kuah menjadi pekat.Perasakan dengan garam dan gula secukup rasa. Lebihkan sedkit gula kerana pajeri adalah kari terung yang berkuah lemak manis."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "santan pekat",
+                "terung panjang",
+                "minyak",
+                "rempah kari daging",
+                "kerisik",
+                "kulit kayu manis",
+                "bunga lawang",
+                "buah pelaga",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "udang kering"
+            ]
         }
     },
     {
@@ -1279,7 +1638,17 @@
                     "Gaulkan pucuk paku bersama bahan tumbuk, cili api, kerisik, dan santan serta garam secukup rasa."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "paku",
+                "udang",
+                "cili",
+                "belacan",
+                "kerisik",
+                "bawang kecil",
+                "santan",
+                "Garam"
+            ]
         }
     },
     {
@@ -1301,14 +1670,14 @@
                     "2 ulas bawang putih",
                     "6 tangkai cili padi",
                     "2 btg serai",
-                    "1 sudu teh  belacan",
+                    "1 sudu teh \u00c2\u00a0belacan",
                     "300gm Kerang - dikukus dan diambil isinya",
                     "200gm Taugeh-dikukus 3minit",
                     "6 tangkai pucuk gajus - dimayang halus",
                     "1 bijj tomato - dipotong dadu",
                     "Bahan-bahan lain",
                     "1 1/2 sudu makan kerisik",
-                    "2 sudu makan  kelapa parut",
+                    "2 sudu makan \u00c2\u00a0kelapa parut",
                     "Garam & gula secukup rasa"
                 ]
             },
@@ -1321,7 +1690,22 @@
                     "Siap & sedia utk dimakan"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "asam jawa",
+                "bawang merah",
+                "bawang putih",
+                "cili padi",
+                "serai",
+                "belacan",
+                "Kerang",
+                "Taugeh",
+                "pucuk gajus",
+                "tomato",
+                "kerisik",
+                "kelapa parut",
+                "Garam & gula"
+            ]
         }
     }
 ]

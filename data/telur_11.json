@@ -61,6 +61,28 @@
             "tips_and_guides": [
                 "Kalau nak beli buah pelaga yang good quality cari yang hijau, baru fresh.",
                 "Kalau nak kupas kulit telur dengan mudah, masa rebus tu tambah cuka sikit."
+            ],
+            "main_ingredients": [
+                "telur",
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "daun kari",
+                "cili kisar",
+                "serbuk kari daging",
+                "serbuk kunyit",
+                "kentang",
+                "tomato",
+                "air asam jawa",
+                "santan",
+                "garam",
+                "cili padi",
+                "daun ketumbar",
+                "buah pelaga",
+                "cengkih",
+                "bunga lawang",
+                "kulit kayu manis"
             ]
         }
     },
@@ -134,6 +156,27 @@
             },
             "tips_and_guides": [
                 "Tauhu telur kalau nak senang keluarkan dari plastic, belah 2 di tengah dan baru picit keluar tauhu dari tepi."
+            ],
+            "main_ingredients": [
+                "tauhu telur",
+                "tepung jagung",
+                "isi ayam",
+                "garam",
+                "serbuk lada sulah",
+                "kicap manis",
+                "bawang holland",
+                "bawang putih",
+                "cili merah",
+                "cili padi",
+                "lada sulah",
+                "sos tiram",
+                "kicap cair",
+                "cendawan King Oyster",
+                "air",
+                "tepung jagung",
+                "daun bawang",
+                "cili merah",
+                "telur"
             ]
         }
     },
@@ -193,6 +236,23 @@
                 "Kuali jangan guna yang nipis sangat takut nanti cepat hangus.",
                 "Minyak jangan sikit sangat, kalau tak nanti tak rangup la hasilnya.",
                 "Sebelum goreng, kena pastikan minyak betul-betul panas."
+            ],
+            "main_ingredients": [
+                "serbuk seasoning",
+                "garam",
+                "minyak",
+                "telur",
+                "udang",
+                "bawang merah",
+                "cili padi merah",
+                "cili padi hijau",
+                "daun bawang",
+                "sos ikan",
+                "daun selasih",
+                "bawang putih",
+                "jus limau nipis",
+                "gula thai",
+                "sos ikan"
             ]
         }
     },
@@ -259,6 +319,19 @@
                 "Sebelum masak cili kering, kita kena tahu tahap kepedasan cili kering yang digunakan, ada yang jenis pedas tak boleh bawak bincang, hati-hati!",
                 "Kalau nak ada kulit, biar je kulit masa belah. Sbb ada org x suka kulit udiang masa masak kan, susah nk makan kataya.",
                 "Minyak kena lebih sebab kita nak tumis sambal. Kalau sikit nanti kurang cantik kejadiannya."
+            ],
+            "main_ingredients": [
+                "garam",
+                "udang",
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "cili kering",
+                "sos tiram",
+                "sos cili",
+                "air asam jawa",
+                "gula merah/gula perang"
             ]
         }
     },
@@ -274,7 +347,7 @@
             "hidangan": "? orang",
             "ingredients": {
                 "Bahan Kisar Halus": [
-                    "½ inci halia",
+                    "\u00c2\u00bd inci halia",
                     "3 ulas bawang merah",
                     "1 biji bawang besar",
                     "5-6 tangkai cili kering",
@@ -289,7 +362,7 @@
                     "1 sudu besar sos tiram",
                     "2 sudu besar air asam jawa",
                     "Garam secukup rasa",
-                    "½ sudu kecil gula",
+                    "\u00c2\u00bd sudu kecil gula",
                     "3 biji telur"
                 ]
             },
@@ -311,6 +384,23 @@
             },
             "tips_and_guides": [
                 "Jika tiada cili kering, boleh digantikan dengan cili kisar."
+            ],
+            "main_ingredients": [
+                "halia",
+                "bawang merah",
+                "bawang besar",
+                "cili kering",
+                "bawang putih",
+                "minyak masak",
+                "kentang",
+                "cili padi",
+                "sardin",
+                "sos tomato",
+                "sos tiram",
+                "air asam jawa",
+                "garam",
+                "gula",
+                "telur"
             ]
         }
     },
@@ -326,13 +416,13 @@
             "hidangan": "? orang",
             "ingredients": {
                 "Bahan Kisar Halus": [
-                    "½ biji bawang besar",
+                    "\u00c2\u00bd biji bawang besar",
                     "4 ulas bawang putih",
                     "4-6 biji bawang merah kecil"
                 ],
                 "Bahan Lain": [
-                    "1 mangkuk  minyak masak",
-                    "½ biji bawang besar",
+                    "1 mangkuk \u00c2\u00a0minyak masak",
+                    "\u00c2\u00bd biji bawang besar",
                     "7 biji telur (saiz B)",
                     "15-20 biji cili kering",
                     "2 sb sos tiram",
@@ -340,7 +430,7 @@
                     "Sedikit air asam jawa",
                     "1 sb gula melaka",
                     "Garam secukup rasa",
-                    "½ sb serbuk seasoning",
+                    "\u00c2\u00bd sb serbuk seasoning",
                     "1 biji bawang merah",
                     "Sedikit air, untuk berkuah",
                     "1 sb cuka"
@@ -366,6 +456,9 @@
                 "Untuk elakkkan telur meletup bila goreng, kelar sikit telur rebus sebelum goreng.",
                 "Minyak jangan sikit sangat, takut lambat masak atau masak tak sekata.",
                 "Minyak yang lebih (minyak yang terapung dalam sambal) Che Nom senduk keluar, dan boleh guna untuk tumis sayur atau nasi goreng."
+            ],
+            "main_ingredients": [
+                "- bawang besar\n- bawang putih\n- bawang merah\n- minyak masak\n- telur\n- cili kering\n- sos tiram\n- sos cili\n- air asam jawa\n- gula melaka\n- garam\n- serbuk seasoning\n- bawang merah\n- cuka"
             ]
         }
     },
@@ -386,7 +479,7 @@
                     "4 ulas bawang putih",
                     "3 biji bawang merah kecil",
                     "1/2 - 1 biji bawang besar",
-                    "2 biji  tomato"
+                    "2 biji \u00c2\u00a0tomato"
                 ],
                 "Bahan Untuk Lain": [
                     "6 biji telur rebus",
@@ -419,6 +512,21 @@
             },
             "tips_and_guides": [
                 "Biasanya Che Nom akan buang tulang daun limau purut sebab takut pahit."
+            ],
+            "main_ingredients": [
+                "cili merah",
+                "cili padi",
+                "bawang putih",
+                "bawang merah",
+                "bawang besar",
+                "tomato",
+                "telur rebus",
+                "daun limau purut",
+                "asam keping",
+                "santan",
+                "garam",
+                "gula",
+                "belacan"
             ]
         }
     },
@@ -457,6 +565,18 @@
             },
             "tips_and_guides": [
                 "Bersihkan peria dan potong dua. Buang biji dan hiris nipis kemudian rendam di dalam air bergaram selama 15 minit (anggran 1 sudu besar garam). Setelah direndam, bilas dengan air bersih dan toskan."
+            ],
+            "main_ingredients": [
+                "peria",
+                "cili",
+                "telur",
+                "kunyit",
+                "garam",
+                "gula",
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "ikan bilis"
             ]
         }
     },
@@ -509,6 +629,22 @@
             },
             "tips_and_guides": [
                 "Kalau tak ada sayur campur atau mixed vege frozen boleh juga digantikan dengan sayur lain. Kalau boleh masukkan sayur yang berlainan warna supaya nampak menarik dan berkhasiat."
+            ],
+            "main_ingredients": [
+                "bawang besar",
+                "bawang putih",
+                "cili merah",
+                "ayam",
+                "sayur campur",
+                "sos cili",
+                "sos tomato",
+                "sos tiram",
+                "garam",
+                "air",
+                "daun bawang",
+                "telur",
+                "mayonis",
+                "lada hitam"
             ]
         }
     },
@@ -562,6 +698,27 @@
             "tips_and_guides": [
                 "Petua untuk senang kupas kulit telur rebus ialah masukkan sedikit cuka semasa merebus telur, ATAU satu lagi cara yang mudah ialah rendam seketika telur yang baru sahaja di rebus ke dalam air sejuk. Kulit akan mudah dikupas.",
                 "Boleh juga gunakan santan kotak. Anggaran 1 kotak santan bersama 1 mangkuk air untuk resepi ini."
+            ],
+            "main_ingredients": [
+                "telur",
+                "rempah kurma",
+                "santan pekat",
+                "santan cair",
+                "karot",
+                "kentang",
+                "asam gelugor",
+                "cili",
+                "tomato",
+                "bawang besar",
+                "minyak masak",
+                "daun ketumbar",
+                "bawang goreng",
+                "kayu manis",
+                "bunga lawang",
+                "buah pelaga",
+                "bawang merah",
+                "bawang putih",
+                "halia"
             ]
         }
     },
@@ -603,6 +760,17 @@
             },
             "tips_and_guides": [
                 "Cara mudah untuk kupas telur rebus ialah dengan rendamkan telur yg baru mendidih di dalam sejuk (air paip) dan kemudian kupas seperti biasa."
+            ],
+            "main_ingredients": [
+                "Telur",
+                "Ubi kentang",
+                "Serbuk kari daging",
+                "Santan",
+                "Halba campur",
+                "Daun kari",
+                "Bawang kecil",
+                "Bawang putih",
+                "Halia"
             ]
         }
     }

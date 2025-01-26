@@ -12,7 +12,7 @@
             "ingredients": {
                 "Bahan Kisar Halus": [
                     "6 ulas bawang putih",
-                    "1 ½ inci halia",
+                    "1 \u00c2\u00bd inci halia",
                     "10 tangkai cili kering"
                 ],
                 "Bahan Rempah 4 Sekawan": [
@@ -26,15 +26,15 @@
                     "1 sudu kecil jintan putih",
                     "1 sudu besar serbuk ketumbar",
                     "1 sudu kecil jintan manis",
-                    "½ cawan minyak masak",
-                    "1 ½ sudu besar minyak sapi",
+                    "\u00c2\u00bd cawan minyak masak",
+                    "1 \u00c2\u00bd sudu besar minyak sapi",
                     "1 batang serai",
                     "2 helai daun pandan",
                     "1 biji bawang besar (hiris nipis)",
                     "1 tangkai daun kari",
                     "2 sudu besar serbuk kari daging",
                     "2 biji tomato",
-                    "½ cawan kicap manis",
+                    "\u00c2\u00bd cawan kicap manis",
                     "1 biji bawang besar (kisar kasar)",
                     "2 sudu besar bawang goreng",
                     "garam secukup rasa",
@@ -49,7 +49,7 @@
                     "Kisar halus bawang putih, halia dan cili kering.",
                     "Kisar kasar bawang besar dengan sedikit air.",
                     "Potong daging sederhana besar, potong arah lawan urat.",
-                    "Gaul daging dengan jintan putih, serbuk ketumbar, serbuk jintan manis dan sedikit air. Perap anggaran ½ jam dalam peti sejuk.",
+                    "Gaul daging dengan jintan putih, serbuk ketumbar, serbuk jintan manis dan sedikit air. Perap anggaran \u00c2\u00bd jam dalam peti sejuk.",
                     "Panaskan minyak masak dan minyak sapi (boleh ganti dengan butter).",
                     "Tumis rempah 4 sekawan, daun serai (dititik), daun pandan, daun kari dan hirisan bawang besar. Tumis sekadari bawang lembut.",
                     "Masukkan bahan kisar halus dan serbuk kari daging.",
@@ -63,6 +63,31 @@
             "tips_and_guides": [
                 "Selain tomato fresh, boleh ganti dengan tomato puree atau sos tomato.",
                 "Siapa ada pressure cooker boleh guna untuk masak daging ni sampai lembut."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "halia",
+                "cili kering",
+                "kayu manis",
+                "bunga lawang",
+                "buah pelaga",
+                "cengkih",
+                "daging",
+                "jintan putih",
+                "serbuk ketumbar",
+                "jintan manis",
+                "minyak masak",
+                "minyak sapi",
+                "serai",
+                "daun pandan",
+                "bawang besar",
+                "daun kari",
+                "serbuk kari daging",
+                "tomato",
+                "kicap manis",
+                "bawang besar",
+                "bawang goreng",
+                "garam"
             ]
         }
     },
@@ -143,7 +168,7 @@
                     "Hiris nipis bawang besar.",
                     "Panaskan minyak masak dan minyak sapi. Tumis daun pandan, rempah 4 sekawan dan hirisan bawang besar. Tumis sampai bawang layu.",
                     "Masukkan pes bawang putih dan pes halia, tumis sampai kekuningan.",
-                    "Masukkan kismis hitam dan  beras basmathi. Goreng anggaran 3-4 minit.",
+                    "Masukkan kismis hitam dan \u00c2\u00a0beras basmathi. Goreng anggaran 3-4 minit.",
                     "Masukkan air, F&N Krimer Sejat, garam dan sedikit pewarna kuning.",
                     "Pindah masuk dalam rice cooker dan masak macam biasa."
                 ],
@@ -156,6 +181,35 @@
             "tips_and_guides": [
                 "Untuk dapat nasi minyak yang sedap kita kena tumis pes halia dan pes bawang putih sampai kekuningan dan hilang bau mentah bawang putih dan halia.",
                 "Daging hitam kalau dah masak 1 jam tapi tak lembut lagi, boleh tambah air dan sambung reneh sampai lembut."
+            ],
+            "main_ingredients": [
+                "daging",
+                "cili kering",
+                "serbuk jintan manis",
+                "serbuk jintan putih",
+                "serbuk ketumbar",
+                "kicap pekat manis",
+                "kicap pekat karamel",
+                "minyak masak",
+                "Rempah 4 sekawan",
+                "daun pandan",
+                "serai",
+                "bawang besar",
+                "bawang putih",
+                "halia",
+                "tomato",
+                "kismis",
+                "F&N Krimer Sejat",
+                "garam",
+                "beras basmathi",
+                "air",
+                "minyak sapi",
+                "pewarna kuning",
+                "gula",
+                "nenas",
+                "timun",
+                "cili merah",
+                "cuka makan"
             ]
         }
     },
@@ -216,6 +270,21 @@
             "tips_and_guides": [
                 "Kalau daging masih liat, tambah sikit air dan tutup kuali, sambung masa katas api perlahan sampai lembut kemudian keringkan air.",
                 "Kalau suka berkuah, boleh tambah air"
+            ],
+            "main_ingredients": [
+                "daging",
+                "sos tiram",
+                "kicap cair",
+                "serbuk lada hitam",
+                "kicap manis",
+                "minyak masak",
+                "bawang putih",
+                "halia",
+                "air",
+                "bawang holland",
+                "lada bengala",
+                "daun bawang",
+                "tepung jagung."
             ]
         }
     },
@@ -279,6 +348,27 @@
                 "Atau boleh guna Chinese style perap sekejap dengan baking soda, kaedah ni dipangil velveting. Sukatan baking soda 1% daripada jumlah berat daging. Kalau daging 300g baking soda 3g je.",
                 "Buang biji limau sebab kita nak kisar semua sekali dengan sambal belacan, kalau ada tertinggal biji nanti sambal jadi pahit.",
                 "Lepas dah perap daging dengan baking soda, pastikan basuh sampai hilang kesan baking soda, jangan tak basuh nanti payau rasa dia."
+            ],
+            "main_ingredients": [
+                "daging lembu",
+                "baking soda",
+                "air",
+                "garam",
+                "minyak masak",
+                "serbuk kunyit",
+                "bawang putih",
+                "halia",
+                "sos tiram",
+                "sayur kacang panjang",
+                "bawang besar",
+                "cili padi",
+                "cili merah besar",
+                "limau kasturi",
+                "belacan",
+                "air asam jawa",
+                "garam",
+                "gula",
+                "serbuk perasa"
             ]
         }
     },
@@ -331,7 +421,7 @@
                     "Bila paru dah masak boleh bilas dengan air dan sejukkan.",
                     "Hiris paru nipis-nipis kemudian gaul dengan dengan garam, serbuk ketumbar dan serbuk kunyit.",
                     "Goreng paru dan asam keping sampai garing dan ranggup (Che Nom goreng anggaran 30 minit lebih).",
-                    "Gaul paru dengan cili kering kisar tadi,  ¼ minyak goreng dan bawang goreng.",
+                    "Gaul paru dengan cili kering kisar tadi,  \u00c2\u00bc minyak goreng dan bawang goreng.",
                     "Dah siap bolehlah hidang dengan nasi panas."
                 ]
             },
@@ -342,6 +432,19 @@
                 "Macam mana nak tau paru dah masak, bila kita gunting tu dalam dia dah tak berdarah dan merah. Kalau merah atau pink lagi sambung rebus.",
                 "Paru ni kalau kita simpan lama dalam peti sejuk akan jadi lagi keras dan senang nak potong. Kalau panas dia jadi macam gummy sikit.",
                 "Petua untuk ranggupkan paru, kita kena goreng sekali dengan asam keping."
+            ],
+            "main_ingredients": [
+                "halia",
+                "garam",
+                "paru lembu",
+                "serbuk ketumbar",
+                "serbuk kunyit",
+                "asam gelugor",
+                "bawang merah",
+                "tepung beras",
+                "gula",
+                "cili kering",
+                "seasoning"
             ]
         }
     },
@@ -405,6 +508,28 @@
             "tips_and_guides": [
                 "Che Nom guna daging potongan agak keras, potongan four quarters, ada banyak connective tissue. Gulai daging ni kurang sesuai kalau kita pakai bahagian yang lembut macam batang pinang.",
                 "Api perlahan sebab taknak daging terkejut, nanti connective tissue akan jadi keras dan lambat nak lembut"
+            ],
+            "main_ingredients": [
+                "daging",
+                "minyak masak",
+                "Rempah 4 sekawan",
+                "daun kari",
+                "daun pandan",
+                "bawang besar",
+                "serbuk kari daging",
+                "cili kisar",
+                "santan cair",
+                "asam gelugor",
+                "kerisik",
+                "kentang",
+                "gula melaka",
+                "Garam",
+                "santan",
+                "bawang merah",
+                "bawang putih",
+                "kunyit hidup",
+                "halia",
+                "lengkuas"
             ]
         }
     },
@@ -462,6 +587,21 @@
             "tips_and_guides": [
                 "Che Nom guna daging bahagian chuck tender (bahagian bahu), kalau bahagian cheap cut yang lain pon sesuai. Kalau daging bahagian batang pinang Che Nom tak guna untuk masak-masak yang heavy, untuk stir fry okey la.",
                 "Kalau masak banyak-banyak, boleh pek dalam bekas kecil-kecil dan simpand dalam freezer."
+            ],
+            "main_ingredients": [
+                "daging",
+                "kicap pekat manis",
+                "serai",
+                "bawang besar",
+                "bawang merah kecil",
+                "bawang putih",
+                "halia",
+                "cili kering",
+                "minyak masak",
+                "daun limau purut",
+                "gula melaka",
+                "garam",
+                "serbuk perasa"
             ]
         }
     },
@@ -517,6 +657,23 @@
                 "Kalau guna daging keras, boleh rebus dulu sampai lembut.",
                 "Masak goreng, kalau air dah kering tapi daging masih liat, boleh tambah air dan sambung masak sampai lembut.",
                 "Masuk jus limau sikit-sikit dulu, adjust kalau kurang masam."
+            ],
+            "main_ingredients": [
+                "biji ketumbar",
+                "daging",
+                "lada hitam",
+                "majerin/mentega",
+                "sos ikan",
+                "gula perang",
+                "gula kabung thai",
+                "air asam jawa",
+                "sos tiram",
+                "bawang putih",
+                "bawang merah",
+                "beras sangai",
+                "serbuk cili kasar",
+                "jus limau nipis",
+                "daun ketumbar"
             ]
         }
     },
@@ -587,7 +744,7 @@
                     "Dah dekat nak tutup api, boleh tabur dengan daun limau purut dan jus limau. Bau dan rasa, sangat lah refreshing.",
                     "Last sekali, masuk potongan tomato, taburan daun ketumbar, dan cili padi.",
                     "Lepas tu rasa lah, masin masam semua tu cukup ke tak, dan adjust ikut cita rasa anda.",
-                    "Dah siap pun sup Tulang ala Thai. Boleh lah hidang panas-panas, makan dengan nasi putih, ulam dan sambal  belacan."
+                    "Dah siap pun sup Tulang ala Thai. Boleh lah hidang panas-panas, makan dengan nasi putih, ulam dan sambal \u00c2\u00a0belacan."
                 ]
             },
             "tips_and_guides": [
@@ -595,6 +752,28 @@
                 "Sisa yang melekat tepi periuk masa kita rebus daging buang je.",
                 "Tulang yang Che Nom beli ni tak bayang lemak, kaut sikit-sikit je keluar part berminyak tu. Kalau banyak, elok tunggu biar beku dan keluarkan lemak.",
                 "Minyak masak jangan banyak sangat, nak bagi bahan tumisan naik bau je"
+            ],
+            "main_ingredients": [
+                "tulang lembu",
+                "serai",
+                "bawang putih",
+                "minyak masak",
+                "bawang merah",
+                "halia",
+                "sup bunjut",
+                "rempah 4 sekawan",
+                "daun ketumbar",
+                "sos tiram",
+                "kiub pati lembu atau ayam",
+                "sos ikan",
+                "garam",
+                "serbuk lada putih",
+                "saderi",
+                "bawang holland",
+                "daun limau purut",
+                "jus limau nipis",
+                "tomato",
+                "cili padi"
             ]
         }
     },
@@ -654,14 +833,34 @@
                     "Masukkan kerisik. Sambung masak atas api perlahan.",
                     "Selepas sejam setengah kuah dah kering dan pecah minyak, kuah pon dah makin gelap warnanya.",
                     "Kalau daging masih kurang lembut, tambah lagi masa memasak dan air (takut hangus pulak nanti).",
-                    "Che Nom tambah garam sikit dan serbuk  perasa (pilihan).",
+                    "Che Nom tambah garam sikit dan serbuk \u00c2\u00a0perasa (pilihan).",
                     "Boleh tutup api dan sejukkan untuk hidang.",
                     "Tabur hirisan daun kunyit sebagai hiasan kalau suka."
                 ]
             },
             "tips_and_guides": [
-                "Kita kena guna  daging bahagian isi pejal. Che Nom guna bahagian knuckle. Kalau ada urat-urat sikit lagi bagus. Jangan guna daging batang pinang untuk rendang, tak sesuai dan rugi guna daging mahal untuk masak rendang. Kalau nak guna daging import pon boleh.",
+                "Kita kena guna \u00c2\u00a0daging bahagian isi pejal. Che Nom guna bahagian knuckle. Kalau ada urat-urat sikit lagi bagus. Jangan guna daging batang pinang untuk rendang, tak sesuai dan rugi guna daging mahal untuk masak rendang. Kalau nak guna daging import pon boleh.",
                 "Kalau simpan rendang dalam peti ais elok-elok setahun pon tahan."
+            ],
+            "main_ingredients": [
+                "halia",
+                "lengkuas",
+                "serai",
+                "ketumbar",
+                "daging",
+                "kelapa",
+                "bawang merah kecil",
+                "bawang putih",
+                "biji jintan putih",
+                "biji jintan manis",
+                "lada hitam",
+                "buah keras",
+                "serbuk kari daging",
+                "serbuk cili",
+                "rempah 3 sekawan",
+                "gula melaka",
+                "garam",
+                "kerisik"
             ]
         }
     },
@@ -686,7 +885,7 @@
                     "3 akar ketumbar",
                     "1 batang karot",
                     "1 biji tomato",
-                    "2 biji  kentang",
+                    "2 biji \u00c2\u00a0kentang",
                     "1-2 biji bawang merah besar",
                     "1-2 sb air asam jawa",
                     "3 biji cili merah",
@@ -724,8 +923,30 @@
                 "Potong kentang dan lobak merah pada ketulan besar supaya tak mudah hancur bila masak nanti.",
                 "Untuk beli daun ketumbar, cari yang ada akar dan bersihkan akar bersih-bersih.",
                 "Che Nom rebus daging dengna pressure cooker jadi daging cepat sikit masak.",
-                "Che Nom selalunya akan buat kerisik dalam 3 biji kelapa. Bila dan siap boleh pek nipis – nipis dan simpan dalam chiller. Bila nak guna boleh patahkan je.",
+                "Che Nom selalunya akan buat kerisik dalam 3 biji kelapa. Bila dan siap boleh pek nipis \u00e2\u20ac\u201c nipis dan simpan dalam chiller. Bila nak guna boleh patahkan je.",
                 "Kalau tak suka daun ketumbar boleh ganti dengan daun sup."
+            ],
+            "main_ingredients": [
+                "halia",
+                "rempah kurma",
+                "daging",
+                "bunga lawang",
+                "pelaga",
+                "kayu manis",
+                "cengkih",
+                "bawang putih",
+                "bawang merah",
+                "ketumbar",
+                "karot",
+                "tomato",
+                "kentang",
+                "bawang merah besar",
+                "air asam jawa",
+                "cili merah",
+                "cili hijau",
+                "daun ketumbar",
+                "kerisik",
+                "santan"
             ]
         }
     },
@@ -802,6 +1023,20 @@
                 "Boleh kaut keluar kalau banyak sangat minyak (dari lemak daging yang cair).",
                 "Boleh masakkan dalam pressure cooker untuk daging cepat masak.",
                 "Boleh tambah kerisik dalam air asam jika suka."
+            ],
+            "main_ingredients": [
+                "Limau nipis",
+                "Daun bawang",
+                "Tulang daging",
+                "Air",
+                "Rempah 4 sekawan (bunga lawang",
+                "pelaga",
+                "kayu manis",
+                "cengkih)",
+                "Bawang putih",
+                "Bawang merah",
+                "Gula",
+                "Garam"
             ]
         }
     },
@@ -822,8 +1057,8 @@
                     "2 sudu besar kicap pekat manis",
                     "2 sudu besar sos tomato",
                     "1 sudu kecil serbuk Allspice (boleh guna rosemary, thyme, Italian herbs)",
-                    "1 ½ sudu besar serbuk lada hitam",
-                    "½ sudu kecil garam",
+                    "1 \u00c2\u00bd sudu besar serbuk lada hitam",
+                    "\u00c2\u00bd sudu kecil garam",
                     "3 ulas bawang putih",
                     "2-3 sudu besar yoghurt",
                     "2 sudu besar minyak zaitun",
@@ -839,11 +1074,11 @@
                 "Bahan Untuk Sos Perang": [
                     "2 sudu besar mentega",
                     "1-2 sudu besar serbuk lada hitam",
-                    "½ biji bawang holland",
+                    "\u00c2\u00bd biji bawang holland",
                     "2 ulas bawang putih",
                     "1 tin sup krim cendawan",
                     "1 tin air",
-                    "½-1 sudu besar kicap pekat manis"
+                    "\u00c2\u00bd-1 sudu besar kicap pekat manis"
                 ],
                 "Bahan Side Dish": [
                     "Brokoli",
@@ -881,6 +1116,31 @@
             "tips_and_guides": [
                 "Bahan penting yang membantu untuk proses melembutkan daging semasa perapan adalah yoghurt manakala bahan bagi mengelakkan daging tidak kering apabila dipanggang adalah minyak. Jika tiada minyak zaitun, boleh saja gunakan minyak masak yang lain.",
                 "Pastikan tempat panggang betul-betul panas sebelum mula untuk memanggang daging."
+            ],
+            "main_ingredients": [
+                "daging biri-biri",
+                "sos tiram",
+                "kicap pekat manis",
+                "sos tomato",
+                "serbuk Allspice",
+                "serbuk lada hitam",
+                "garam",
+                "bawang putih",
+                "yoghurt",
+                "minyak zaitun",
+                "gula",
+                "perahan jus lemon",
+                "kentang",
+                "susu penuh krim",
+                "mentega",
+                "bawang holland",
+                "sup krim cendawan",
+                "air",
+                "kicap pekat manis",
+                "brokoli",
+                "kubis bunga",
+                "karot",
+                "daun salad"
             ]
         }
     },
@@ -953,12 +1213,31 @@
             },
             "tips_and_guides": [
                 "Roti berfungsi untuk kekalkan bentuk meatball dan lembabkan isi dalam. Biasanya isi meatball akan letak breadcrumb atau roti putih. Che Nom pilih yang mana senang dapat bahan.",
-                "Daging kisar kalau terlebih lemak meatball akan mengecut terlalu banyak, kalau tak ada lemak langsung nanti  daging akan jadi kering.",
+                "Daging kisar kalau terlebih lemak meatball akan mengecut terlalu banyak, kalau tak ada lemak langsung nanti \u00c2\u00a0daging akan jadi kering.",
                 "Untuk bulatkan, uli daging dengan 2 tapak tangan dan tekan biar padat dan bulatkan semula.",
                 "Garam dalam air celur penting untuk rasa dan kekalkan warna hijau sayur.",
                 "Air sejuk akan hentikan proses masak dan warna kekal hijau.",
-                "Tepung gandum dalam sos perang adalah cara untuk buat Roux fungsi untuk pekatkan  kuah.",
+                "Tepung gandum dalam sos perang adalah cara untuk buat Roux fungsi untuk pekatkan \u00c2\u00a0kuah.",
                 "Bila nak simpan sos perang, tutup rapat takut lapisan atas keras masa menyejuk."
+            ],
+            "main_ingredients": [
+                "daging kisar",
+                "bawang holland",
+                "roti putih",
+                "susu full cream",
+                "telur",
+                "serbuk lada hitam",
+                "serbuk lada putih",
+                "bawang putih",
+                "rempah mixed spice",
+                "garam",
+                "mentega",
+                "tepung gandum",
+                "air",
+                "kiub pati daging",
+                "krim masakan",
+                "kicap",
+                "cuka"
             ]
         }
     },
@@ -974,7 +1253,7 @@
             "hidangan": "5 orang",
             "ingredients": {
                 "Bahan": [
-                    "1/2 cawan  minyak masak",
+                    "1/2 cawan \u00c2\u00a0minyak masak",
                     "2 biji bawang merah kecil",
                     "3 ulas bawang putih",
                     "1 inci halia",
@@ -1023,6 +1302,25 @@
                 "Goreng kentang api besar, biar perang di luar tapi dalam tak terlalu lembut.",
                 "Selepas masukkan daging, masak dengan api perlahan supaya daging masak lembut.",
                 "Kalau kurang gelap boleh tambah kicap dan kering boleh tambah air."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kentang",
+                "garam",
+                "rempah",
+                "cili kisar",
+                "serai",
+                "cili padi",
+                "daun bawang",
+                "bawang holland",
+                "daging",
+                "kunyit",
+                "ketumbar",
+                "sos tiram",
+                "kicap manis"
             ]
         }
     },
@@ -1063,6 +1361,9 @@
                 "Kunyi segar akan buat rendang lebih wangi dan lebih sedap.",
                 "Untuk tahu arah lawan urat, tengok arah selari urat dan potong arah yang bertentangan.",
                 "Lebihkan sikit minyak bila memasak sebab kita nak bagi naik bau bahan kisar dan masak garing, lebihan minyak boleh dikeluarkan nanti."
+            ],
+            "main_ingredients": [
+                "Sure! Please provide me with the list of ingredients so I can identify the main ingredients for you."
             ]
         }
     },
@@ -1111,6 +1412,21 @@
             "tips_and_guides": [
                 "Berapa lama daging lembut bergantung kepada jenis daging yang digunakan. Kalau daging batang pinang lebih cepat lembut bila direbus.",
                 "Daun limau purut harus dibuang tulang tengahnya untuk elakkan pahit. Carik-carikkan supaya lebih beraroma bila dimasak bersama daging."
+            ],
+            "main_ingredients": [
+                "cili padi",
+                "daging lembu",
+                "bawang putih",
+                "cili kisar",
+                "sos cili",
+                "sos tomato",
+                "sos tiram",
+                "karot",
+                "sos ikan",
+                "air rebusan daging",
+                "tomato",
+                "bawang holland",
+                "daun limau purut"
             ]
         }
     },
@@ -1126,7 +1442,7 @@
             "hidangan": "5 orang",
             "ingredients": {
                 "Bahan  Untuk Perapan": [
-                    "½ kilo daging",
+                    "\u00c2\u00bd kilo daging",
                     "5 ulas bawang putih - tumbuk halus",
                     "4 biji bawang merah - tumbuk halus",
                     "2 inci halia - tumbuk halus",
@@ -1164,6 +1480,21 @@
             "tips_and_guides": [
                 "Rendam kentang dalam air sekejap sementara tunggu nak masak. Kalau tak rendam dalam air, kentang jadi hitam nanti sebab getahnya keluar terdedah kepada udara.",
                 "Che Nom tak tambah garam ataupun gula, sebab sos tiram dan kicap tadi dah cukup semua rasanya."
+            ],
+            "main_ingredients": [
+                "daging",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "sos tiram",
+                "kicap manis",
+                "serbuk lada hitam",
+                "serbuk black pepper",
+                "tepung jagung",
+                "air",
+                "ubi kentang",
+                "capsicum hijau",
+                "cili merah"
             ]
         }
     },
@@ -1216,6 +1547,25 @@
             },
             "tips_and_guides": [
                 "Lagi lama diperap daging, makin sedap rasanya kerana bahan perapan meresap ke dalam daging dan menjadikannya lembut."
+            ],
+            "main_ingredients": [
+                "daging",
+                "serai",
+                "daun pandan",
+                "kayu manis",
+                "buah pelaga",
+                "bunga lawang",
+                "bunga cengkih",
+                "cili kisar",
+                "tomato",
+                "kicap manis",
+                "sos tiram",
+                "ketumbar",
+                "serbuk jintan putih",
+                "serbuk jintan manis",
+                "bawang putih",
+                "bawang merah",
+                "halia"
             ]
         }
     },
@@ -1260,6 +1610,20 @@
             },
             "tips_and_guides": [
                 "Supaya daging tidak liat apabila dimasak nanti, pastikan daging dipotong mengikut arah yg bertentangan dengan garisan urat daging. Jika tidak daging akan liat dan susah empuk."
+            ],
+            "main_ingredients": [
+                "daging",
+                "minyak",
+                "bawang putih",
+                "carrot",
+                "capsicum hijau",
+                "cili merah",
+                "bawang besar",
+                "daun bawang",
+                "serbuk kunyit",
+                "serbuk ketumbar",
+                "serbuk jintan putih",
+                "garam"
             ]
         }
     },
@@ -1304,7 +1668,22 @@
                     "Masakkan sehingga kuah agak pekat dan perasakannya dengan sedikit gula. Garam boleh ditambah jika perlu."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "gula",
+                "daging",
+                "air asam jawa",
+                "garam",
+                "kulit kayu manis",
+                "bunga lawang",
+                "kicap pekat",
+                "sos tiram",
+                "kicap manis",
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "halia."
+            ]
         }
     },
     {
@@ -1339,6 +1718,16 @@
             },
             "tips_and_guides": [
                 "Rebus daging sehingga empuk, dan cara untuk melembutkan daging mengikut petua orang-orang tua ialah dengan rebus daging bersama sebatang sudu, atau boleh juga dimasukkan daun nangka atau daun betik."
+            ],
+            "main_ingredients": [
+                "daging",
+                "bawang besar",
+                "serai",
+                "tomato",
+                "cili padi",
+                "sos ikan",
+                "limau nipis",
+                "daun limau purut"
             ]
         }
     },
@@ -1392,7 +1781,31 @@
                     "Masukkan pula gula melaka dan garam secukup rasa. Angkat dan hidangkan bersama nasi."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "daging kambing",
+                "minyak",
+                "santan",
+                "cili hijau",
+                "cili merah",
+                "kentang",
+                "karot",
+                "bawang besar",
+                "air asam jawa",
+                "gula melaka",
+                "garam",
+                "rempah daging kurma",
+                "jintan manis",
+                "serbuk ketumbar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kayu manis",
+                "buah pelaga",
+                "bunga lawang",
+                "cengkih",
+                "daun kari"
+            ]
         }
     },
     {
@@ -1444,6 +1857,26 @@
             },
             "tips_and_guides": [
                 "Rempah haruslah dimasak di atas api perlahan sehingga betul pecah minyak dan warna bertukar sedikit gelap. Tambah sedikit air jika rempah terlalu kering kerana takut hangus."
+            ],
+            "main_ingredients": [
+                "daging",
+                "rempah kari daging",
+                "santan cair",
+                "santan pekat",
+                "kacang dhal",
+                "kentang",
+                "cili hijau",
+                "kacang panjang",
+                "terung bulat",
+                "tomato",
+                "karot",
+                "daun kari",
+                "bawang putih",
+                "halia",
+                "bawang besar",
+                "kayu manis",
+                "bunga lawang",
+                "buah pelaga"
             ]
         }
     },
@@ -1490,6 +1923,22 @@
             },
             "tips_and_guides": [
                 "Kuah kerutub sepatutnya dihidangkan pekat dan pecah minyaknya."
+            ],
+            "main_ingredients": [
+                "daging",
+                "rempah kerutub",
+                "cili giling",
+                "santan",
+                "kerisik",
+                "gula melaka",
+                "garam",
+                "minyak",
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kayu manis",
+                "bunga lawang"
             ]
         }
     },
@@ -1516,7 +1965,11 @@
                     "Sebelum angkat masukkan tomato dan tutup api."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "I'm sorry",
+                "but you haven't provided any text for me to extract main ingredients from. Could you please provide me with a recipe or list of ingredients to work with?"
+            ]
         }
     },
     {
@@ -1573,6 +2026,30 @@
             },
             "tips_and_guides": [
                 "Rebus daging sehingga lembut dan sejukkan kuah rebusan, kemudian kuah boleh dimasukkan ke dalam peti ais. Jika anda tidak suka gulai yang terlalu berlemak, buang lemak sejuk yang beku di permukaan."
+            ],
+            "main_ingredients": [
+                "daging",
+                "rebung",
+                "kerisik",
+                "minyak sapi",
+                "minyak masak",
+                "santan",
+                "daun kari",
+                "gula melaka",
+                "garam",
+                "bawang besar",
+                "bawang putih",
+                "halia",
+                "kayu manis",
+                "bunga lawang",
+                "cengkih",
+                "buah pelaga",
+                "lada hitam",
+                "rempah kari daging",
+                "serbuk cili",
+                "serbuk jintan manis",
+                "serbuk ketumbar",
+                "serbuk jintan putih"
             ]
         }
     },
@@ -1606,7 +2083,17 @@
                     "after that add cornstarch mixture and onions. When it thickens remove the fire and serve. Garnish with a sprinkling of onion leaves"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "meat",
+                "garlic",
+                "oyster sauce",
+                "sweet soy sauce",
+                "black pepper",
+                "red chillies",
+                "onion",
+                "cornstarch"
+            ]
         }
     },
     {
@@ -1641,6 +2128,16 @@
             },
             "tips_and_guides": [
                 "Untuk mendapatkan daging yang lembut pastikan ianya tidak di masak terlalu lama di atas api yang besar."
+            ],
+            "main_ingredients": [
+                "daging",
+                "bawang putih",
+                "sos tiram",
+                "Kicap manis",
+                "lada hitam",
+                "cili merah",
+                "Bawang besar holland",
+                "tepung jagung"
             ]
         }
     },
@@ -1678,6 +2175,17 @@
             },
             "tips_and_guides": [
                 "Masa menggoreng, jangan alih begedil sehingga bahagian bawah betul-betul masak supaya begedil tidak menjadi hancur semasa menggoreng."
+            ],
+            "main_ingredients": [
+                "ubi kentang",
+                "daging kisar",
+                "bawang besar",
+                "cili merah",
+                "daun sup",
+                "bawang goreng",
+                "lada sulah",
+                "telur ayam",
+                "garam"
             ]
         }
     },
@@ -1693,8 +2201,8 @@
             "hidangan": "2 orang",
             "ingredients": {
                 "Bahan Utama": [
-                    "3 biji  telur",
-                    "3 sudu besar  susu Full Cream",
+                    "3 biji \u00c2\u00a0telur",
+                    "3 sudu besar \u00c2\u00a0susu Full Cream",
                     "sedikit garam",
                     "keju parmesan/mozarella (optional)",
                     "minyak zaitun"
@@ -1717,6 +2225,18 @@
             },
             "tips_and_guides": [
                 "Cara untuk mengalihkan telur supaya tidak terkoyak atau hancur ialah dengan menelangkupkan pinggan di permukaan kuali. Terbalikkan telur di dalam pinggan, kemudian dengan perlahan longsorkan kembali telur ke dalam kuali panas di sebelah permukaan yang satu lagi."
+            ],
+            "main_ingredients": [
+                "telur",
+                "susu",
+                "garam",
+                "keju",
+                "minyak zaitun",
+                "kentang",
+                "daging kisar",
+                "capsicum",
+                "bawang",
+                "serbuk lada hitam"
             ]
         }
     },
@@ -1732,7 +2252,7 @@
             "hidangan": "10 orang",
             "ingredients": {
                 "Bahan Utama": [
-                    "1 kg  daging salai",
+                    "1 kg \u00c2\u00a0daging salai",
                     "15 biji belimbing buluh",
                     "4 batang serai dititik",
                     "Semangkuk santan segar",
@@ -1754,7 +2274,19 @@
                     "Apabila mendidih, masukkan pula belimbing dan kacau rata. Masak diatas api perlahan sehingga belimbing lembut"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "daging salai",
+                "belimbing buluh",
+                "serai",
+                "santan",
+                "asam gelugor",
+                "bawang merah",
+                "cili padi kampung",
+                "belacan",
+                "halia",
+                "kunyit hidup"
+            ]
         }
     },
     {
@@ -1791,7 +2323,18 @@
                     "Sedap dimakan bersama nasi panas\""
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "daging",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "air asam jawa",
+                "kicap",
+                "sos tiram",
+                "lada hitam",
+                "daun bawang"
+            ]
         }
     },
     {
@@ -1806,7 +2349,7 @@
             "hidangan": "10 orang",
             "ingredients": {
                 "Bahan Utama": [
-                    "1 kg  daging lembu, dipotong",
+                    "1 kg \u00c2\u00a0daging lembu, dipotong",
                     "3 ulas bawang besar, dihiris nipis",
                     "3 sudu besar minyak sapi, atau boleh gantikan dengan minyak masak",
                     "4 sudu besar rempah briyani",
@@ -1836,7 +2379,25 @@
                     "Masukkan sedikit air dan tairu ataupun susu cair dan serbuk badam. Masak sehingga empuk dan kuah menjadi pekat."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "daging lembu",
+                "bawang besar",
+                "minyak sapi",
+                "rempah briyani",
+                "bawang goreng",
+                "tomato puree",
+                "tomato",
+                "serbuk badam",
+                "tairu",
+                "bawang putih",
+                "halia",
+                "cili hijau",
+                "cili merah",
+                "bunga cengkih",
+                "buah pelaga",
+                "kayu manis"
+            ]
         }
     }
 ]

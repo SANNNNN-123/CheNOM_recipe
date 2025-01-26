@@ -46,7 +46,24 @@
                     "Akhir sekali tabur hirisan daun sup dan sedia untuk dihidang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "spaghetti",
+                "mentega",
+                "minyak masak",
+                "sosej",
+                "bawang putih",
+                "bawang merah",
+                "tomato",
+                "lobak merah",
+                "cili flakes",
+                "sos tomato",
+                "sos cili",
+                "kiub pati ayam",
+                "gula",
+                "serbuk parsley",
+                "daun sup"
+            ]
         }
     },
     {
@@ -97,7 +114,7 @@
                 "Ayam Fillet": [
                     "Trim lemak atau ayam, kemudian potong kepada fillet panjang.",
                     "Gaul ayam dengan serbuk kari, serbuk cili, serbuk lada hitam, bawang putih parut, garam, serbuk seasoning, Anchor Whipping cream dan jus lemon.",
-                    "Perap selama ½-1 jam dalam peti sejuk.",
+                    "Perap selama \u00c2\u00bd-1 jam dalam peti sejuk.",
                     "Untuk tepung salutan campurkan tepung gandum, tepung jagung, serbuk lada hitam, serbuk seasoning dan garam.",
                     "Keluarkan ayam perap tadi dan tambah 1-2 sb air dan salut isi ayam dalam tepung.",
                     "Panaskan minyak dan goreng sampai goreng keemasan."
@@ -117,6 +134,26 @@
                 "Tepung salutan kering ayam goreng tu kalau banyak ketul-ketul boleh ayak buang. Kalau tak cukup buat lagi adunan kering.",
                 "Lepas dah rebus spaghetti drizzle sikit olive oil untuk elak melekat.",
                 "Kuah ni cepat kering, boleh tambah air rebusan spaghetti kalau nak lebih berkuah."
+            ],
+            "main_ingredients": [
+                "ulas bawang putih",
+                "mentega",
+                "tangkai cili padi",
+                "bawang holland",
+                "cendawan butang",
+                "serbuk kari",
+                "tomato ceri",
+                "whipping cream",
+                "keju cheddar",
+                "garam",
+                "jus lemon",
+                "daun parsley",
+                "dada ayam",
+                "serbuk cili",
+                "serbuk lada hitam",
+                "bawang putih",
+                "tepung gandum",
+                "tepung jagung"
             ]
         }
     },
@@ -186,6 +223,24 @@
                 "Berapa lama rebus pasta tu kita tengok arahan dekat peket. Kalau tulis 12 minit, Che Nom akan rebus 7-8 minit untuk dapat texture al dente, sebab nanti kita akan gaul dengan kuah panas kan, biar keras sikit tak pe.",
                 "Kalau nak ganti udang dengan ayam pon boleh, seeloknya pan fry dulu ayam barulah sedap.",
                 "Anchor cooking cream tak mudah pecah kalau kita masak atas api besar pon, stabil je."
+            ],
+            "main_ingredients": [
+                "spaghetti",
+                "garam",
+                "air",
+                "minyak zaitun",
+                "bawang merah",
+                "bawang putih",
+                "kunyit hidup",
+                "cili padi merah",
+                "cili padi hijau",
+                "minyak masak",
+                "udang",
+                "ceri tomato",
+                "serai",
+                "Cooking Cream Anchor",
+                "Daun kunyit",
+                "lemon"
             ]
         }
     },
@@ -279,9 +334,12 @@
             },
             "tips_and_guides": [
                 "Lepas masukkan minyak zaitun dalam spaghetti gaul sebati dan buat tossing untuk cepat sejukkan spaghetti dan elak spaghetti jadi lembut sangat.",
-                "Ketuk-ketuk lebihan  tepung selepas salut ayam, kalau tak ketuk nanti banyak keladak tepung dalam  minyak goreng.",
+                "Ketuk-ketuk lebihan \u00c2\u00a0tepung selepas salut ayam, kalau tak ketuk nanti banyak keladak tepung dalam \u00c2\u00a0minyak goreng.",
                 "Minyak kena banyak dan cukup tengelam ayam, barulah ayam goreng masak sekata.",
                 "Tepung salut ayam goreng kalau banyak sangat sisa ketulan, tapis buang dan guna semula."
+            ],
+            "main_ingredients": [
+                "isi ayam\ntepung goreng serbaguna\nserbuk kari\nminyak masak\nbawang putih\ncili kisar\nkicap manis\nsos tomato\ngula\ngaram\nbijan\nbrokoli\npasta\nminyak zaitun\nsosej\nair rebus spaghetti\nkiub pati ayam\npasli daun rata\npasli itali\nparsli kering\norigano kering\nherba campuran itali\ntomato\nlada benggala\ndaun salad\nkeju parmesan"
             ]
         }
     },
@@ -298,7 +356,7 @@
             "ingredients": {
                 "Bahan Sos Bolognese": [
                     "3-3.5kg tomato segar",
-                    "¼ cawan minyak zaitun",
+                    "\u00c2\u00bc cawan minyak zaitun",
                     "1 labu bawang putih",
                     "2 biji bawang holland",
                     "400g daging kisar",
@@ -311,7 +369,7 @@
                     "2 sk parseli kering",
                     "2 sk oregano kering",
                     "1 kiub pati lembu",
-                    "½ cawan susu full cream",
+                    "\u00c2\u00bd cawan susu full cream",
                     "Gula, secukup rasa",
                     "8-10 cendawan butang",
                     "Garam secukup rasa"
@@ -319,13 +377,13 @@
                 "Bahan Spaghetti": [
                     "1 pek spaghetti kering",
                     "2liter air",
-                    "½ sb garam",
+                    "\u00c2\u00bd sb garam",
                     "Serbuk cheese parmesan"
                 ]
             },
             "instructions": {
                 "Untuk Sos Bolognese": [
-                    "Kelar dibahagian bawah tomato berbentuk ‘X’.",
+                    "Kelar dibahagian bawah tomato berbentuk \u00e2\u20ac\u02dcX\u00e2\u20ac\u2122.",
                     "Rebus atau celur tomato sehingga kulit tomato kelihatan merekah, lalu angkat dan rendam dalam air sejuk.",
                     "Kupas buang kulit dan buang biji tomato beserta air tomato.",
                     "Kisar sederhana halus tomato.",
@@ -344,6 +402,9 @@
             },
             "tips_and_guides": [
                 "Air tomato tidak diperlukan untuk memasak sos kerana air tomato akan melambatkan proses memasak sos Bolognese."
+            ],
+            "main_ingredients": [
+                "tomato\nminyak zaitun\nbawang putih\nbawang holland\ndaging kisar\nserbuk lada hitam\nkarot\nlada benggala\ntomato puree\npes tomato\nherba Itali\nparseli kering\noregano kering\nkiub pati lembu\nsusu full cream\ncendawan butang\ngaram\nspaghetti kering\nair\ncheese parmesan"
             ]
         }
     },
@@ -419,7 +480,7 @@
                     "Masukkan susu full cream dan terus tutup api.",
                     "Masukkan makaroni rebus dan gaul sekata.",
                     "Sendukkan makaroni dalam 6 bekas (tray aluminium 3 inci x 7 inci).",
-                    "Tabur serbuk  keju parmesan, tuang sos putih, tabur parutan keju mozzarella, serbuk keju parmesan, serbuk parseli kering dan hirisan capsicum",
+                    "Tabur serbuk \u00c2\u00a0keju parmesan, tuang sos putih, tabur parutan keju mozzarella, serbuk keju parmesan, serbuk parseli kering dan hirisan capsicum",
                     "Boleh tutup kemas untuk simpan frozen",
                     "Kalau nak makan boleh bakar dalam over 200 C anggaran 15 minit atau sehingga permukaan perang."
                 ]
@@ -427,7 +488,35 @@
             "tips_and_guides": [
                 "Untuk lebih manis boleh guna cherry tomato dalam 8-10 biji.",
                 "Untuk yang vegetarian boleh lebihkan cendawan, campur pelbagai jenis cendawan atau tambah sayur zucchini/courgette.",
-                "Jangan buang air rebusan  pasta, tambah dalam kuah bolognese untuk adjust kepekatan kuah."
+                "Jangan buang air rebusan \u00c2\u00a0pasta, tambah dalam kuah bolognese untuk adjust kepekatan kuah."
+            ],
+            "main_ingredients": [
+                "minyak zaitun",
+                "bawang holland",
+                "bawang putih",
+                "daging kisar",
+                "daging burger",
+                "lobak merah",
+                "tomato",
+                "capsicum",
+                "puri tomato",
+                "sos pasta tomato",
+                "pasta",
+                "herba itali",
+                "kiub ayam",
+                "serbuk kasar cili",
+                "cendawan",
+                "susu penuh krim",
+                "mentega",
+                "tepung gandum",
+                "serbuk keju parmesan",
+                "keju cheddar",
+                "makaroni kering",
+                "garam",
+                "air",
+                "keju mozarella",
+                "capsicum",
+                "parseli kering"
             ]
         }
     },
@@ -444,18 +533,18 @@
             "ingredients": {
                 "Bahan Untuk Sos Bolognese": [
                     "3-4 sudu besar minyak zaitun",
-                    "½ biji bawang holland",
+                    "\u00c2\u00bd biji bawang holland",
                     "3-4 ulas bawang putih",
                     "400g daging atau ayam kisar",
-                    "½-1 sudu kecil serbuk lada hitam",
-                    "½ batang lobak merah",
+                    "\u00c2\u00bd-1 sudu kecil serbuk lada hitam",
+                    "\u00c2\u00bd batang lobak merah",
                     "1 biji capsicum",
                     "2 tin / 800g tomato pomodori atau whole tomato",
                     "2 keping daun bay kering",
-                    "½-1 sudu besar Italian Herbs",
+                    "\u00c2\u00bd-1 sudu besar Italian Herbs",
                     "2-3 sudu besar pes tomato",
-                    "½ kiub stok lembu atau ayam",
-                    "¼ cawan susu full cream",
+                    "\u00c2\u00bd kiub stok lembu atau ayam",
+                    "\u00c2\u00bc cawan susu full cream",
                     "gula dan garam secukup rasa",
                     "8-12 cendawan butang",
                     "**NOTA: Kalau tak ada tomato pomodori atau whole peel, boleh ganti tomato puree anggaran 300g-400g. Boleh letak sikit-sikit dulu dan rasa tahap masam kuah."
@@ -463,10 +552,10 @@
                 "Bahan Untuk Sos Bechamel": [
                     "3 sudu besar / 43g mentega tak bergaram",
                     "2 sudu besar tepung gandum",
-                    "2 ½ cawan susu full cream",
+                    "2 \u00c2\u00bd cawan susu full cream",
                     "1 sudu besar serbuk cheese parmesan",
                     "2 keping keju cheddar (**kalau tak guna cheddar, boleh tambah lagi 2 sudu besar serbuk parmesan)",
-                    "¼ sudu kecil serbuk lada hitam"
+                    "\u00c2\u00bc sudu kecil serbuk lada hitam"
                 ],
                 "Bahan Untuk Lapisan Lasagna": [
                     "cheese mozarella secukupnya",
@@ -496,15 +585,41 @@
                     "Letak dan ratakan sederhana sos bolognese sebagai lapisan pertama.",
                     "Susun kepingan lasagna sehingga tutup kesemua permukaan lalu diikuti lapisan sos bolognese, sos bechamel, serbuk cheese parmesan, cheese mozzarella dan kepingan lasagna.",
                     "Kemudian, ulang mengikut turutan yang sama sehingga penuh bekas dan lapisan terakhir adalah cheese mozzarella.",
-                    "Bakar dengan suhu 170˚, 30-40 minit.",
+                    "Bakar dengan suhu 170\u00cb\u0161, 30-40 minit.",
                     "Pada 10 minit terakhir, bakar lasagna tanpa kepingan aluminium dan sambung bakar.",
                     "Lasagna kemudian sudah siap dan boleh dihidang."
                 ]
             },
             "tips_and_guides": [
-                "Masak kedua-dua sos bolognese dan  bechamel dengan api yang sedarhana atau perlahan.",
+                "Masak kedua-dua sos bolognese dan \u00c2\u00a0bechamel dengan api yang sedarhana atau perlahan.",
                 "Jika menggunakan mentega bergaram, tidak perlu letak garam tetapi kalau rasanya masih kurang masin, boleh saja tambah garam.",
                 "Balut bekas lasagna dengan kepingan aluminium supaya bahagian dalam lasagna masak dahulu dan bahagian atas terlebih masak."
+            ],
+            "main_ingredients": [
+                "minyak zaitun",
+                "bawang holland",
+                "bawang putih",
+                "daging/ayam kisar",
+                "serbuk lada hitam",
+                "lobak merah",
+                "capsicum",
+                "tomato pomodori/whole tomato",
+                "daun bay kering",
+                "Italian Herbs",
+                "pes tomato",
+                "kiub stok lembu/ayam",
+                "susu full cream",
+                "gula",
+                "garam",
+                "cendawan butang",
+                "mentega tak bergaram",
+                "tepung gandum",
+                "serbuk cheese parmesan",
+                "keju cheddar",
+                "serbuk lada hitam",
+                "cheese mozarella",
+                "serbuk cheese parmesan",
+                "kepingan lasagna."
             ]
         }
     },
@@ -595,8 +710,8 @@
                 "Untuk Topping Beef Pepperoni": [
                     "Sapu sos pasta tomato dengan sekata.",
                     "Tuang sedikit minyak zaitun extra virgin.",
-                    "Tabur sedikit serbuk  cheese Parmesan dan cheese mozzarella.",
-                    "Susun hirisan beef  pepperoni.",
+                    "Tabur sedikit serbuk \u00c2\u00a0cheese Parmesan dan cheese mozzarella.",
+                    "Susun hirisan beef \u00c2\u00a0pepperoni.",
                     "Tabur sekali lagi cheese Parmesan.",
                     "Bakar pizza sehingga kedua-dua permukkan atas dan bawah masak keperangan dan bahagian bawah bertukar kepada lapisan yang ranggup.",
                     "Bila dah masak, keluarkan dan potong dengan pizza roller atau pisau."
@@ -604,6 +719,32 @@
             },
             "tips_and_guides": [
                 "Tekstur kasar tepung semolina akan membantu berikan kerak pizza yang lebih rangup."
+            ],
+            "main_ingredients": [
+                "tepung Italian 00",
+                "tepung roti",
+                "garam halus",
+                "air suam",
+                "serbuk yis",
+                "gula",
+                "minyak zaitun extra virgin",
+                "tepung semolina",
+                "sos pasta tomato",
+                "minyak zaitun extra virgin olive",
+                "daging kisar",
+                "capsicum",
+                "cheese pasmesan",
+                "cendawan butang",
+                "bawang",
+                "cheese mozzarella",
+                "black olive",
+                "bawang putih",
+                "black pepper",
+                "Italian herbs",
+                "sos pasta tomato",
+                "cheese parmesan",
+                "hirisan beef pepperoni",
+                "daun basil"
             ]
         }
     },
@@ -681,6 +822,9 @@
             },
             "tips_and_guides": [
                 "Jangan masukkan pasta ketika air belum mendidih kerana pasta akan jadi lembik di luar dan tak masak dengan sempurna di dalam."
+            ],
+            "main_ingredients": [
+                "- spaghetti\n- garam\n- minyak zaitun\n- bawang Holland\n- bawang putih\n- capsicum hijau\n- karot\n- tomato\n- cendawan\n- daging kisar\n- sos Bolognese\n- tomato puree\n- Italian herbs\n- air pasta\n- parmesan\n- susu full cream"
             ]
         }
     },
@@ -703,7 +847,7 @@
                 ],
                 "Bahan Untuk Kuah Carbonara": [
                     "Sedikit minyak zaitun",
-                    "½ biji bawang Holland, potong dadu kecil",
+                    "\u00c2\u00bd biji bawang Holland, potong dadu kecil",
                     "2 ulas bawang putih, cincang halus",
                     "4 batang sosej, hiris nipis",
                     "capsicum merah dan hijau, hiris nipis",
@@ -737,6 +881,24 @@
             "tips_and_guides": [
                 "Jangan masukkan minyak zaitun semasa rebus spaghetti kerana ianya akan membazir bila kita tapis air nanti. Cukup sekadar tuang sedikit minyak semasa spaghetti lembut dan sudah ditapis.",
                 "Boleh ganti dengan seafoos lain seperti sotong"
+            ],
+            "main_ingredients": [
+                "spaghetti",
+                "garam",
+                "minyak zaitun",
+                "bawang Holland",
+                "bawang putih",
+                "sosej",
+                "capsicum merah",
+                "capsicum hijau",
+                "udang",
+                "serbuk black pepper",
+                "cendawan",
+                "sos carbonara",
+                "susu full cream",
+                "keju cheddar",
+                "Italian herbs",
+                "daun parsley"
             ]
         }
     },
@@ -779,6 +941,22 @@
             },
             "tips_and_guides": [
                 "Tips untuk merebus spaghetti dengan betul ialah masak air yang banyak di dalam periuk sehingga mendidih. Masukkan garam dan spaghetti kering. Tunggu sehingga bahagian bawah sedikit lembut dan kemudian tekan supaya semua spaghetti tenggelam sepenuhnya. Rebus sehingga spaghetti mencapai tahap \"al dente\" atau masih sedikit keras. Toskan air dan cepat-cepat tuangkan sedikit minyak zaitun kemudian gaul sebati supaya spaghetti tidak melekat bila sejuk nanti."
+            ],
+            "main_ingredients": [
+                "spaghetti",
+                "minyak zaitun",
+                "bawang putih",
+                "bawang besar Holland (bawang besar)",
+                "chilli flakes",
+                "serbuk lada hitam",
+                "kiub ayam",
+                "udang",
+                "sotong",
+                "capsicum hijau",
+                "capsicum merah",
+                "tomato",
+                "daun ketumbar",
+                "daun parsley."
             ]
         }
     },
@@ -817,6 +995,18 @@
             "tips_and_guides": [
                 "Gunakan serbuk lada hitam yang baru dikisar supaya rasa lebih fresh dan sedap.",
                 "Anda boleh gantikan cendawan butang dari tin jika tiada cendawan butang segar. Tetapi rasa akan lebih sedap jika gunakan cendawan butang segar."
+            ],
+            "main_ingredients": [
+                "fettucine",
+                "minyak zaitun",
+                "bawang putih",
+                "udang",
+                "whipping cream",
+                "susu",
+                "lada hitam",
+                "cendawan",
+                "parmesan cheese",
+                "daun ketumbar"
             ]
         }
     },
@@ -860,6 +1050,21 @@
             },
             "tips_and_guides": [
                 "Bila rebus makaroni, agak-agak supaya makaroni sedikit kurang lembut (al-dente) sebab nanti nak goreng lagi takut makaroni jadi lembik."
+            ],
+            "main_ingredients": [
+                "makaroni",
+                "minyak",
+                "daging kisar",
+                "bawang putih",
+                "bawang besar",
+                "herba oregano",
+                "Italian herbs",
+                "capsicum",
+                "lada sulah",
+                "tomato puree",
+                "sos cili",
+                "tomato",
+                "karot"
             ]
         }
     },
@@ -912,14 +1117,36 @@
                     "Angkat dan sejukkan"
                 ],
                 "Untuk Membuat Lasagna": [
-                    "Panaskan oven kepada suhu 180°C.",
+                    "Panaskan oven kepada suhu 180\u00c2\u00b0C.",
                     "Sapu bekas caserole mentega supaya tidak melekat. Susun kepingan lasagna rapat-rapat.",
                     "Kemudian tuang sos bolognese, ratakan. Sendukkan pula sos putih diikuti mozarella dan parmesan cheese.",
                     "Ulang semula dengan menyusun kepingan lasagna, sos bolognese, sos putih, mozarella cheese dan sedikit parmesan cheese. Tutup bahagian atas dengan aluminium foil.",
                     "Bakar di dalam oven selama 25minit. Kemudian buka aluminium foil dan teruskan membakar sehingga bahagian atas keperangan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "lasagna segera",
+                "keju mozarella",
+                "keju parmesan",
+                "saus bolognese",
+                "cendawan butang",
+                "carot",
+                "daging/ayam kisar",
+                "sos prego traditional",
+                "minyak zaitun extra virgin",
+                "bawang besar kuning",
+                "bawang putih",
+                "capsicum hijau",
+                "serbuk lada hitam",
+                "garam",
+                "gula",
+                "mentega",
+                "tepung gandum",
+                "keju cheddar cheesedale",
+                "serbuk parmesan cheese",
+                "fresh milk/susu full cream"
+            ]
         }
     },
     {
@@ -934,7 +1161,7 @@
             "hidangan": "? orang",
             "ingredients": {
                 "Bahan Utama": [
-                    "1 bungkus  pasta Spaghetti (rebus dan tos)",
+                    "1 bungkus \u00c2\u00a0pasta Spaghetti (rebus dan tos)",
                     "Udang/Sotong/Lala (1 jenis seafood sudah memadai)",
                     "1 tin button mushroom (potong belah 4)",
                     "2 biji lada benggala berlainan warna (potong dadu)",
@@ -964,6 +1191,9 @@
             "tips_and_guides": [
                 "Cili kering jangan dikisar.",
                 "Jika tiada olive oil boleh sahaja diganti dengan minyak masak."
+            ],
+            "main_ingredients": [
+                "- Pasta spaghetti\n- Udang/Sotong/Lala\n- Button mushroom\n- Lada benggala\n- Bawang holland\n- Lada hitam\n- Bawang putih\n- Cili kering\n- Sos tiram\n- Cuka\n- Knorr ikan bilis\n- Serbuk Cajun\n- Italian herbs"
             ]
         }
     },
@@ -1011,11 +1241,30 @@
                     "Tuang air ke dalam daging da masukkan kiub daging dan daun bay. Teruskan memasak di atas api yang perlahan sehingga kuah menjadi pekat selama lebih kurang 1 jam (tapi Che Nom masak 1/2 jam sahaja kerana tak cukup masa). Angkat keluar daun bay.",
                     "Tuang daging ke dalam mangkuk pie seramik atau kaca (Che Nom gunakan seramik pie dish berdiameter 26 cm. Ratakan daging dan taburkan sekata karot yang telah direbus di atas permukaan inti daging.",
                     "Sendukkan kentang putar dan letakkan di beberapa bahagian atas pie dengan sekata dan ratakan menggunakan spatula. Tekan supaya kemas dan corak bahagian atas kentang menggunakan garfu dengan cara melorek atau doleh gunakan spatula untuk tekan menjadi seperti sisik ikan.",
-                    "Bakar pada suhu 220°C selama lebih kurang 20 minit atau sehingga bahagian atas keperangan.",
+                    "Bakar pada suhu 220\u00c2\u00b0C selama lebih kurang 20 minit atau sehingga bahagian atas keperangan.",
                     "Sejukkan Shephard's pie dan potong untuk menghidang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "daging",
+                "ayam",
+                "kambing",
+                "minyak zaitun",
+                "bawang kuning",
+                "bawang putih",
+                "tepung gandum",
+                "Worcestershire sauce",
+                "tomato puree",
+                "kiub daging",
+                "daun bay",
+                "celeri",
+                "air",
+                "kentang",
+                "garam",
+                "susu",
+                "butter"
+            ]
         }
     },
     {
@@ -1029,9 +1278,9 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk  Doh Pizza": [
+                "Bahan Untuk \u00c2\u00a0Doh Pizza": [
                     "1 sudu besar gula kastor",
-                    "3 1/2 cawan tepung  roti",
+                    "3 1/2 cawan tepung \u00c2\u00a0roti",
                     "1 1/2 cawan air suam",
                     "2 1/2 sudu teh yis kering",
                     "2 sudu besar minyak zaitun extra virgin",
@@ -1058,10 +1307,26 @@
                     "Letakkan doh ke dalam mangkuk yang bersih dan tutup dengan plastik wrap. Biarkan doh sehingga ia naik dua kali ganda.",
                     "Setelah adunan siap, bahagikan kepada beberapa bahagian dan uli kepada bentuk bola, kemudian uli sehingga nipis anggaran 1/2 cm. Gunakan campuran tepung semolina dan tepung gandum untuk debu . Semolina akan menjadika pizza berkerak rangup..",
                     "Berus bahagian atas doh pizza dengan minyak zaitun , untuk mengelakkan bahagian atas basah. Lapiskan dengan sos tomato, daging atau sosej, capsicum hjau, buah zaitun hitam, keju Parmesan, keju Mozzarella dan hirisan bawang.",
-                    "Bakar di dalam ketuhar yang sudah dipanaskan pada tahap tertinggi ketuhar anda kira-kira 7-8 minit. Ia bergantung kepada suhu ketuhar anda (Suhu oven tertinggi saya adalah 350 ° C dan mengambil kira-kira 7-8 minit untuk memasak)."
+                    "Bakar di dalam ketuhar yang sudah dipanaskan pada tahap tertinggi ketuhar anda kira-kira 7-8 minit. Ia bergantung kepada suhu ketuhar anda (Suhu oven tertinggi saya adalah 350 \u00c2\u00b0 C dan mengambil kira-kira 7-8 minit untuk memasak)."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "gula kastor",
+                "tepung \u00c2\u00a0roti",
+                "yis kering",
+                "minyak zaitun extra virgin",
+                "garam",
+                "Keju Mozarella",
+                "Keju Pamesan",
+                "Cendawan butang",
+                "Bawang merah",
+                "Lada loceng hijau",
+                "Sosej Itali",
+                "Daging lembu cincang",
+                "Buah zaitun hitam",
+                "Tomato sos pesto"
+            ]
         }
     }
 ]

@@ -44,6 +44,19 @@
                 "Masa asingkan isi ikan dan kuah, bilas sikit isi ikan dengan air untuk kurangkan effect meletup masa goreng nanti.",
                 "Goreng kentang dengan api sederhana. Luar kentang biar perang tapi dalam kentang keras sikit takpa sebab kita akan masak lagi sekali.",
                 "Masa goreng ikan, tunggu garing sebelah bawah baru alih, kalau alih cepat sangat nanti isi ikan jadi mudah hancur."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "cili merah",
+                "cili padi",
+                "bawang merah",
+                "kentang",
+                "sos tiram",
+                "sos cili",
+                "bawang besar",
+                "garam",
+                "jus limau nipis",
+                "sardin"
             ]
         }
     },
@@ -102,6 +115,23 @@
             },
             "tips_and_guides": [
                 "Che Nom lebih suka ikan tongkol putih sebab lebih sedap, lembut, manis dan kurang hanyir."
+            ],
+            "main_ingredients": [
+                "air",
+                "bawang besar",
+                "lengkus",
+                "cili padi",
+                "bawang putih",
+                "asam keping",
+                "ikan tongkol",
+                "garam",
+                "gula",
+                "cili besar",
+                "bendi",
+                "budu",
+                "limau kasturi",
+                "air pati asam jawa",
+                "belacan"
             ]
         }
     },
@@ -161,6 +191,23 @@
                 "Rempah Kari Cap O pilihan orang utara.",
                 "Masak masuk ikan, api perlahan je takut hangit.",
                 "Ikan jangan kerap balik-balikkan atau terlebih kacau takut nanti ikan hancur."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "halba",
+                "daun kari",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "serbuk kari ikan",
+                "serbuk cili",
+                "air asam jawa",
+                "garam",
+                "ikan kembung",
+                "santan cair",
+                "santan pekat",
+                "tomato",
+                "bendi"
             ]
         }
     },
@@ -239,7 +286,7 @@
                 "Untuk Air Asam": [
                     "Hiris kasar bawang besar, tomato, cili padi (kalau nak kurang pedas boleh campur cili besar).",
                     "Masuk semua bahan potong tadi dalam mangkuk.",
-                    "Masukkan sekali  belacan bakar, air  asam jawa, gula, garam, serbuk perasa kalau suka dan jus limau kasturi (limau nipis pon boleh).",
+                    "Masukkan sekali \u00c2\u00a0belacan bakar, air \u00c2\u00a0asam jawa, gula, garam, serbuk perasa kalau suka dan jus limau kasturi (limau nipis pon boleh).",
                     "Gaul dah ramas sebati kesemua bahan.",
                     "Masukkan sedikit air dan sedikit kicap.",
                     "Gaul sebati dan siap untuk dihidang."
@@ -248,6 +295,31 @@
             "tips_and_guides": [
                 "Resepi untuk pes sambal cukup untuk masak 2 esok ikan siakap.",
                 "Che Nom tak letak pes bahagian bawah / sisik ikan siakap. Bahagian sisik akan jadi lapisan tebal yang jaga ikan tu untuk jadi lebih moist."
+            ],
+            "main_ingredients": [
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "serai",
+                "kunyit hidup",
+                "belacan bakar",
+                "cili kisar",
+                "gula melaka",
+                "air asam jawa",
+                "ikan siakap",
+                "bawang besar",
+                "tomato",
+                "cili padi",
+                "belacan bakar",
+                "air asam jawa",
+                "gula",
+                "garam",
+                "perasa",
+                "limau kasturi",
+                "air",
+                "kicap"
             ]
         }
     },
@@ -316,6 +388,26 @@
                 "Kalau dah masukkan nenas Che Nom tak masukkan dah sos tomato. Rasa masam manis dari nenas dah cukup.",
                 "Ikan ni memang Che nom kelar banyak-banyak dan dalam-dalam sampai kena tulang, baru ikan mudah garing.",
                 "Kalau guna kuali kecil boleh potong dua ikan untuk mudah goreng."
+            ],
+            "main_ingredients": [
+                "cili kisar",
+                "Ikan Bawal",
+                "garam",
+                "serbuk kunyit",
+                "Tepung jagung",
+                "minyak masak",
+                "bawang holland",
+                "bawang putih",
+                "halia",
+                "tomato",
+                "Lada benggala",
+                "Nenas",
+                "sos cili",
+                "sos tiram",
+                "gula",
+                "garam",
+                "cili merah",
+                "Daun sup"
             ]
         }
     },
@@ -385,8 +477,8 @@
                 ],
                 "Untuk Sambal Belacan": [
                     "Potong kasar cili merah besar dan cili padi.",
-                    "Limau kasturi belah dua dan perah ambil jus. Kemudian kulit limau hiris halus (pastikan tak ada biji limau kalau tak  sambal pahit).",
-                    "Masukkan ke dalam blender cili merah, cili padi, kulit limau kasturi,  belacan bakar, jus limau kasturi, air asam jawa, gula, garam dan perasa kalau suka.",
+                    "Limau kasturi belah dua dan perah ambil jus. Kemudian kulit limau hiris halus (pastikan tak ada biji limau kalau tak \u00c2\u00a0sambal pahit).",
+                    "Masukkan ke dalam blender cili merah, cili padi, kulit limau kasturi, \u00c2\u00a0belacan bakar, jus limau kasturi, air asam jawa, gula, garam dan perasa kalau suka.",
                     "Kisar kasar kesemua bahan.",
                     "Bila dah siap kisar boleh adjust kalau nak lebih masin atau manis."
                 ]
@@ -395,6 +487,30 @@
                 "Biji lada hitam pastikan guna yang biji jangan yang serbuk. Kalau yang serbuk nanti kuah tak berapa wangi la.",
                 "Lebihkan minyak untuk tumisan sebab kita nak pastikan bahan tumisan masak betul-betul.",
                 "Penting untuk masuk ikan selepas kuah dah masak, jangan masuk awal nanti ikan hancur."
+            ],
+            "main_ingredients": [
+                "ikan kembung",
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lada hitam",
+                "belacan bakar",
+                "cili kering",
+                "kunyit",
+                "air asam jawa",
+                "bunga kantan",
+                "daun kesum",
+                "daun limau purut",
+                "serai",
+                "tomato",
+                "bendi",
+                "garam",
+                "serbuk perasa",
+                "cili merah besar",
+                "cili padi",
+                "limau kasturi",
+                "gula"
             ]
         }
     },
@@ -459,14 +575,37 @@
                     "Bila dah garing, masukkan santan dan asam keping kemudian masak sampai kuah mendidih.",
                     "Masukkan semua air rebusan ikan dan garam.",
                     "Bila gulai dah mendidih (anggaran 10 minit) masukkan kerisik dan terus reneh sampai minyak terapung di permukaan.",
-                    "Masukkan  ikan tongkol rebus dan masak lagi anggaran 10 minit biar sebati.",
+                    "Masukkan \u00c2\u00a0ikan tongkol rebus dan masak lagi anggaran 10 minit biar sebati.",
                     "Bila dah mendidih tabur cili padi (cili padi tak perlu buang tangkai) dan tutup api."
                 ]
             },
             "tips_and_guides": [
-                "Kalau nak  kuah pekat boleh tunggu kepala santan naik dan kaut yang pekat (yang terapung di atas). Yang cair di bawah boleh tambah untuk lebihkan kuah.",
+                "Kalau nak \u00c2\u00a0kuah pekat boleh tunggu kepala santan naik dan kaut yang pekat (yang terapung di atas). Yang cair di bawah boleh tambah untuk lebihkan kuah.",
                 "Tips untuk sukatan untuk 1kg ikan kita guna santan dari 1 biji kelapa dan lauk untuk 1kg beras nasi dagang.",
                 "Tips untuk lebih sedap masak lauk sehari awal. Kalau kita nak makan untuk esok, hari ni kita dah masak siap-siap dan esok kita panaskan. Rasanya lebih sedap dan pecah minyak elok."
+            ],
+            "main_ingredients": [
+                "air",
+                "halba",
+                "cili padi",
+                "ikan tongkol",
+                "air asam jawa",
+                "bawang putih",
+                "lengkuas",
+                "asam gelugor",
+                "garam",
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kunyit hidup",
+                "rempah gulai",
+                "santan",
+                "cili kisar",
+                "air rebusan ikan",
+                "gula nisan",
+                "asam gelugor",
+                "kerisik"
             ]
         }
     },
@@ -521,6 +660,9 @@
                 "Tips untuk goreng ikan, kalau mata ikan bertukar warna putih maknanya ikan dah boleh alih.",
                 "Untuk tak nak ikan melekat, pastikan minyak betul-betul panas ataupun percik dengan sedikit garam atau masukkan asam keping sebelum goreng. Tapi yang paling penting periuk perlu well season sebelum guna.",
                 "Untuk tumis sambal pastikan minyak lebih sikit barulah sambal tumis masak elok."
+            ],
+            "main_ingredients": [
+                "- ikan kembung\n- garam halus\n- serbuk kunyit\n- bawang merah kecil\n- bawang putih\n- halia\n- cili kering\n- minyak masak\n- bawang besar\n- sos tiram\n- air asam jawa\n- gula putih\n- sos ikan\n- sos cili\n- Daun bawang"
             ]
         }
     },
@@ -575,7 +717,10 @@
             "tips_and_guides": [
                 "Kalau guna lengkuas tua / keras ketuk dengan lesung biar pecah sikit, tak perlu hancur takut berserat pulak kuah nanti.",
                 "Biasanya untuk sayur orang letak bendi tapi boleh ganti kundur dan labu air.",
-                "Selepas masukkan ikan, perlahankan api supaya ikan masak perlahan – lahan dan tak hancur."
+                "Selepas masukkan ikan, perlahankan api supaya ikan masak perlahan \u00e2\u20ac\u201c lahan dan tak hancur."
+            ],
+            "main_ingredients": [
+                "- Serbuk perasa\n- Ikan kembung\n- Kunyit\n- Garam\n- Air\n- Serai\n- Halia\n- Kunyit hidup\n- Lengkuas\n- Asam gelugor\n- Bawang putih\n- Bawang merah\n- Cili padi\n- Tomato\n- Ikan bilis\n- Sayur bendi"
             ]
         }
     },
@@ -638,6 +783,27 @@
                 "Boleh ganti dengan ikan bawal, ikan tongkol, ikan merah, ikan kembung, ikan kerisi atau kekekek.",
                 "Ikan goreng tak perlu garing, cukup sekadar bertukar warna perang.",
                 "Lauk ni jangan terus hidang, biar kuah meresap kedalam ikan dulu barulah sedap."
+            ],
+            "main_ingredients": [
+                "ikan tenggiri",
+                "garam",
+                "serbuk kunyit",
+                "air",
+                "minyak masak",
+                "cuka makan",
+                "biji sawi",
+                "bawang besar",
+                "halia",
+                "bawang merah kecil",
+                "bawang putih",
+                "serai",
+                "timun",
+                "tomato",
+                "cili merah",
+                "cili padi",
+                "gula",
+                "serbuk perasa",
+                "Garam"
             ]
         }
     },
@@ -666,8 +832,8 @@
                     "2 biji bawang merah besar",
                     "5-7 biji cili merah",
                     "6-10 tangkai cili padi merah",
-                    "½ biji tomato",
-                    "½ inci belacan",
+                    "\u00c2\u00bd biji tomato",
+                    "\u00c2\u00bd inci belacan",
                     "2 sb sos tiram",
                     "1-2 sb air asam jawa",
                     "3 helai daun limau purut",
@@ -700,6 +866,27 @@
                 "Jika tidak mahu masukkan belacan, boleh masukkan sos tiram sahaja.",
                 "Tepung beras adalah petua bagi mengelakkan minyak meletup ketika menggoreng ikan keli dan ikan keli goreng akan menjadi lebih rangup. Selain tepung beras, boleh juga gaulkan cuka untuk rangupkan tekstur ikan keli goreng.",
                 "Petua lain supaya minyak tidak meletup adalah dengan memasukkan asam keping, hirisan halia ataupun sedikit taburan tepung beras kedalam minyak panas sebelum menggoreng ikan keli."
+            ],
+            "main_ingredients": [
+                "ikan keli",
+                "serbuk kunyit",
+                "garam",
+                "tepung beras",
+                "tepung gandum",
+                "limau kasturi",
+                "asam gelugor",
+                "bawang putih",
+                "bawang merah",
+                "cili merah",
+                "cili padi merah",
+                "tomato",
+                "belacan",
+                "sos tiram",
+                "air asam jawa",
+                "daun limau purut",
+                "gula",
+                "garam",
+                "perasa"
             ]
         }
     },
@@ -755,6 +942,23 @@
             "tips_and_guides": [
                 "Untuk pilih nenas yang segar, tengok pangkal bawah (tempat cantas) elok atau tak, takut nenas lembik dan cepat busuk.",
                 "Guna nenas muda untuk masak kengsom, boleh jugak ganti betik muda dan rebung segar."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "kunyit hidup",
+                "cili padi",
+                "cili merah",
+                "belacan",
+                "nenas",
+                "lengkuas",
+                "serai",
+                "ikan siakap",
+                "sos ikan Thai",
+                "garam",
+                "gula melaka",
+                "kangkung",
+                "limau nipis"
             ]
         }
     },
@@ -828,6 +1032,35 @@
             "tips_and_guides": [
                 "Boleh tambah cili padi dalam sambal kelapa untuk lebih pedas.",
                 "Pastikan bahagian dicucuk dengan lidi berada di sebelah bawah semasa menggoreng supaya daun pandan tak terbuka."
+            ],
+            "main_ingredients": [
+                "ikan cencaru",
+                "daun pandan",
+                "tepung gandum",
+                "garam",
+                "kunyit",
+                "cili merah",
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "kunyit hidup",
+                "serai",
+                "garam",
+                "serbuk perasa",
+                "gula",
+                "kelapa parut",
+                "air asam jawa",
+                "bawang holland",
+                "tomato",
+                "kerisik",
+                "cili padi",
+                "cili merah",
+                "belacan",
+                "kicap manis",
+                "garam",
+                "gula",
+                "jus limau nipis",
+                "air"
             ]
         }
     },
@@ -873,6 +1106,15 @@
             "tips_and_guides": [
                 "Seeloknya bagi salutan tepung pada bahagian dibuat apabila hendak digoreng dan minyak mulai panas.",
                 "Jika tiada minyak cili, boleh digantikan dengan cili kisar untuk bahan kuah 3 rasa."
+            ],
+            "main_ingredients": [
+                "ikan siakap",
+                "garam",
+                "serbuk kunyit",
+                "tepung jagung",
+                "daun ketumbar",
+                "daun salad",
+                "nenas"
             ]
         }
     },
@@ -896,23 +1138,23 @@
                     "3 biji bawang merah",
                     "2 ulas bawang putih",
                     "1 ketul kunyit hidup",
-                    "½ inci halia",
+                    "\u00c2\u00bd inci halia",
                     "1 batang serai",
-                    "½ inci lengkuas",
+                    "\u00c2\u00bd inci lengkuas",
                     "2-3 sudu besar cili kisar",
-                    "½ sudu besar serbuk kari ikan",
+                    "\u00c2\u00bd sudu besar serbuk kari ikan",
                     "2 sudu besar air asam jawa",
-                    "½ - 1 sudu kecil garam",
+                    "\u00c2\u00bd - 1 sudu kecil garam",
                     "sedikit air",
                     "1 senduk minyak masak",
-                    "½ - 1 sudu kecil gula"
+                    "\u00c2\u00bd - 1 sudu kecil gula"
                 ],
                 "Bahan Untuk Air Asam": [
                     "10-15 biji cili padi",
                     "1 biji cili merah",
                     "1 mangkuk air asam jawa",
                     "1 inci belacan",
-                    "½ biji bawang besar",
+                    "\u00c2\u00bd biji bawang besar",
                     "1-2 biji tomato",
                     "gula dan garam secukup rasa",
                     "sedikit perahan jus limau nipis"
@@ -944,6 +1186,29 @@
             "tips_and_guides": [
                 "Jika menggunakan asam jawa asli, rendamkan dengan air panas dahulu dan ramas sehingga menjadi pes yang pekat.",
                 "Jika tiada daun pisang, boleh digantikan dengan daun kunyit."
+            ],
+            "main_ingredients": [
+                "ikan mabong",
+                "daun pisang",
+                "minyak",
+                "bawang merah",
+                "bawang putih",
+                "kunyit hidup",
+                "halia",
+                "serai",
+                "lengkuas",
+                "cili kisar",
+                "serbuk kari ikan",
+                "air asam jawa",
+                "garam",
+                "minyak masak",
+                "gula",
+                "cili padi",
+                "cili merah",
+                "belacan",
+                "bawang besar",
+                "tomato",
+                "jus limau nipis"
             ]
         }
     },
@@ -993,6 +1258,21 @@
                 "Jika anda tidak suka tergigit halia semasa makan, tidak perlu cincang halus dan boleh dicincang secara kepingan agar senang boleh diasingkan.",
                 "Daun ketumbar boleh digantikan sama ada dengan daun sup ataupun daun bawang.",
                 "Jika sebiji perahan jus lemon cukup masam, anda boleh menambahnya lagi mengikut cita rasa anda."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "halia",
+                "bawang besar",
+                "cili padi",
+                "tomato",
+                "daun ketumbar",
+                "lemon",
+                "ikan siakap",
+                "garam",
+                "sos ikan",
+                "tepung jagung",
+                "air",
+                "kiub ayam"
             ]
         }
     },
@@ -1046,6 +1326,24 @@
             },
             "tips_and_guides": [
                 "Kari kepala ikan jika dimasak awal dan lagi lama dipanaskan, kuahnya akan menjadi lebih sedap."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "halba",
+                "bawang merah",
+                "cili hijau",
+                "bawang putih",
+                "halia",
+                "daun kari",
+                "tomato",
+                "rempah kari ikan",
+                "serbuk cili",
+                "air pati asam jawa",
+                "ikan",
+                "santan",
+                "garam",
+                "sayur bendi",
+                "daun ketumbar"
             ]
         }
     },
@@ -1113,6 +1411,9 @@
                 "Gunakan kuali yang tebal, jika tidak rempah cepat hangus.",
                 "Basuh ikan dengan asam jawa supaya hilang bau hanyir.",
                 "Santan pekat diletakkan lambat sebab takut kari pecah minyak dan kuah berketul- ketul."
+            ],
+            "main_ingredients": [
+                "- Bawang merah\n- Bawang putih\n- Halia\n- Serbuk kari ikan\n- Serbuk cili\n- Air asam jawa\n- Minyak masak\n- Halba campur\n- Daun kari\n- Ikan merah\n- Rempah\n- Santan cair\n- Cili merah besar\n- Santan pekat\n- Garam\n- Bendi\n- Tomato"
             ]
         }
     },
@@ -1151,6 +1452,15 @@
                 "Jangan masukkan kicap banyak dan berkuah sangat kerana nanti ikan bilis cepat jadi lembik, memadai cukup sekadar kicap menyaluti ikan bilis dan sedikit sahaja kuahnhya.",
                 "Kalau anda suka lebih pedas boleh lebihkan cili padi.",
                 "Bawang besar tak perlu dikacau lama sangat supaya rasanya sedikit rangup bila dimakan nanti."
+            ],
+            "main_ingredients": [
+                "ikan bilis",
+                "minyak",
+                "cili kisar",
+                "bawang",
+                "cili padi",
+                "kicap manis",
+                "limau nipis"
             ]
         }
     },
@@ -1196,6 +1506,19 @@
                 "Kunyit hidup boleh digantikan dengan serbuk kunyit, tapi kalau guna kunyit hidup lagi sedap lah.",
                 "Kalau tak ada cili hidup, boleh juga kalau nak masukkan sedikit cili kisar atau cili boh sebagai ganti.",
                 "Anda boleh masukkan serbuk perasa jika suka."
+            ],
+            "main_ingredients": [
+                "ikan kembung",
+                "betik muda",
+                "serai",
+                "daun kesum",
+                "asam keping/gelugor",
+                "garam",
+                "bawang putih",
+                "bawang merah",
+                "kunyit",
+                "cili merah",
+                "belacan"
             ]
         }
     },
@@ -1241,6 +1564,18 @@
                 "Jika air kukusan ikan banyak sangat, boleh buang tinggal sedikit sahaja sebelum dituang kuah. Jangan bimbang, rasa tetap akan sedap nanti.",
                 "Kalau kurang masin, tambah sos ikan. Kalau kurang manis, tambah lagi parutan gula melaka.",
                 "Macam mana nak tau ikan kukus dah masak, tolak isi ikan dekat bahagian tulang yang dikelar tadi dengan menggunakan garfu. Jika isi mudah tertanggal dari tulang maksudnya ikan dan betul-betul masak."
+            ],
+            "main_ingredients": [
+                "ikan siakap",
+                "serai",
+                "air",
+                "kiub ayam",
+                "bawang putih",
+                "limau nipis",
+                "gula melaka",
+                "cili padi",
+                "daun ketumbar",
+                "sos ikan"
             ]
         }
     },
@@ -1289,6 +1624,21 @@
             "tips_and_guides": [
                 "Jangan banyak sangat masukkan garam kerana ikan cencaru yang digoreng sudah sedikit masin rasanya.",
                 "Tambah air banyak kali semasa masak sambal supaya sambal masak sempurna dan sedap."
+            ],
+            "main_ingredients": [
+                "ikan cencaru",
+                "garam",
+                "kunyit",
+                "minyak",
+                "air asam jawa",
+                "sos ikan Thai",
+                "sos tiram",
+                "gula",
+                "bawang",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "cili kering"
             ]
         }
     },
@@ -1338,6 +1688,26 @@
             },
             "tips_and_guides": [
                 "Bahan tumisan bercili hendaklah dimasak sehingga betul-betul pecah minyak di dalam minyak yang banyak. Kalau terlebih minyak jangan risau, selepas masak boleh sendukkan keluar minyak dari kuah asam pedas."
+            ],
+            "main_ingredients": [
+                "ikan pari",
+                "Minyak",
+                "halba",
+                "serai",
+                "daun limau purut",
+                "cili kisar",
+                "air asam jawa",
+                "Air",
+                "Kacang bendi",
+                "tomato",
+                "daun kesum",
+                "garam",
+                "gula",
+                "kunyit hidup",
+                "halia",
+                "bawang putih",
+                "bawang merah",
+                "belacan."
             ]
         }
     },
@@ -1388,6 +1758,24 @@
             },
             "tips_and_guides": [
                 "Untuk masak kari yang sedap, rempah harus ditumis sehingga betul-betul masak. Cara untuk pastikan rempak masak ialah dengan tumis sehingga rempah pecah minyak, kemudian tambah air beberapa kali dan masak sehingga rempah pecah minyak pada setiap kali selepas tambah air."
+            ],
+            "main_ingredients": [
+                "ikan bawal",
+                "serbuk kari ikan",
+                "serbuk cili",
+                "daun kari",
+                "air asam jawa",
+                "santan",
+                "tomato",
+                "sayur bendi",
+                "cili merah",
+                "garam",
+                "halia",
+                "bawang merah",
+                "bawang putih",
+                "kayu manis",
+                "halba campur",
+                "bunga lawang"
             ]
         }
     },
@@ -1440,6 +1828,24 @@
                 "Anda boleh juga gunakan santan kotak. Tapi haruslah pandai mengagak banyak mana air yang hendak dimasukkan supaya dapat kepekatan kuah kari seperti yang anda suka.",
                 "Gunakan periuk yang tebal permukaannya supaya rempah kari tidak cepat hangus semasa proses menumis.",
                 "Semasa proses memasak kari ikan, hati hati semasa mengacau kuah supaya ikan tidak hancur."
+            ],
+            "main_ingredients": [
+                "minyak",
+                "ikan siakap",
+                "serbuk kari ikan",
+                "serbuk cili",
+                "daun kari",
+                "air asam jawa",
+                "santan cair",
+                "santan pekat",
+                "tomato",
+                "bendi",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "halba campur",
+                "kulit kayu manis",
+                "bunga lawang"
             ]
         }
     },
@@ -1477,6 +1883,17 @@
             },
             "tips_and_guides": [
                 "Boleh juga gunakan asam gelugor sebagai ganti kepada air asam jawa."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "ikan sardin",
+                "cili kisar",
+                "kentang",
+                "bawang putih",
+                "halia",
+                "air asam jawa",
+                "bawang besar",
+                "cili padi"
             ]
         }
     },
@@ -1501,6 +1918,9 @@
             },
             "tips_and_guides": [
                 "Cili ditambah kemudian dan dikacau dengan sudu supaya panas cili tak melekat ditangan"
+            ],
+            "main_ingredients": [
+                "Could you please provide me with the list of ingredients you have in mind?"
             ]
         }
     },
@@ -1543,6 +1963,20 @@
             },
             "tips_and_guides": [
                 "Dalam resepi ni Che Nom tidak masukkan garam kerana sos tiram, dan sos ikan sudah masin. Ikan goreng juga sudah diletakkan garam semasa menggoreng."
+            ],
+            "main_ingredients": [
+                "ikan kembung",
+                "cili",
+                "sos cili",
+                "sos ikan",
+                "sos tiram",
+                "air asam jawa",
+                "bawang besar",
+                "gula",
+                "minyak",
+                "bawang putih",
+                "bawang merah",
+                "halia"
             ]
         }
     },
@@ -1580,6 +2014,18 @@
             },
             "tips_and_guides": [
                 "Hati-hati jika hendak menambah garam kerana taucu sudah masin dan ikan bawal goreng juga rasanya masin kerana digaul dengan garam terlebih dahulu sebelum digoreng."
+            ],
+            "main_ingredients": [
+                "ikat bawal",
+                "halia",
+                "bawang putih",
+                "bawang merah",
+                "taucu",
+                "air asam jawa",
+                "bawang besar",
+                "cili padi",
+                "daun bawang",
+                "minyak"
             ]
         }
     },
@@ -1631,7 +2077,30 @@
                     "Hiasakan dengan daun bawang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan siakap",
+                "tepung jagung",
+                "garam",
+                "kunyit",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "bawang besar",
+                "tomato",
+                "bunga kantan",
+                "serai",
+                "cili padi",
+                "cili merah",
+                "cili kisar",
+                "sos cili",
+                "sos tomato",
+                "sos tiram",
+                "sos ikan",
+                "daun limau purut",
+                "garam",
+                "gula"
+            ]
         }
     },
     {
@@ -1669,7 +2138,21 @@
                     "Selepas 15 minit, buka kukusan dan tabur daun ketumbar bersama tomato. Sambung kukus selama 5 minit. Angkat dan hidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "siakap",
+                "asam boi",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "karot",
+                "sos ikan Thai",
+                "tepung jagung",
+                "kimau nipis",
+                "air",
+                "tomato",
+                "daun ketumbar"
+            ]
         }
     },
     {
@@ -1713,7 +2196,10 @@
                     "Tuang kuah sos plum di atas ikan siakap goreng dan tabur dengan daun ketumbar atau daun bawang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan siakap\ntepung jagung\ngaram\ndaun ketumbar\ndaun bawang\nsos plum\nsos cili Thai\nsos ikan\nbawang merah\nbawang putih\nhalia muda\nbawang besar\ncili padi\nlimau nipis"
+            ]
         }
     },
     {
@@ -1746,7 +2232,19 @@
                     "Masukkan ikan tenggiri, asam gelugor, cili padi dan diikuti sayur bendi di akhir sekali. Rebus sehingga ikan betul-betul masak. Perasakan dengan gula dan garam secukupnya. Sedap jika dihidangkan bersama nasi panas dan budu."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan tenggiri",
+                "lengkuas",
+                "bawang merah",
+                "bawang putih",
+                "asam gelugor",
+                "cili padi",
+                "sayur bendi",
+                "garam",
+                "gula",
+                "serbuk perasa"
+            ]
         }
     },
     {
@@ -1790,7 +2288,22 @@
                     "Panaskan minyak dan tumis bahan kisar sehingga pekat dan pecah minyak. Angkat dan sejulkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan cencaru",
+                "garam",
+                "kunyit",
+                "minyak",
+                "minyak masak",
+                "cili kering",
+                "bawang putih",
+                "bawang merah",
+                "belacan",
+                "halia",
+                "jus pekat asam jawa",
+                "serai",
+                "gula pasir"
+            ]
         }
     },
     {
@@ -1834,6 +2347,23 @@
             },
             "tips_and_guides": [
                 "Jangan masak bendi dan tomato terlalu lama nanti sayur jadi lembik dan pecah di dalam kuah"
+            ],
+            "main_ingredients": [
+                "ikan tenggiri",
+                "kacang bendi",
+                "tomato",
+                "daun kesum atau daun laksa",
+                "air asam jawa",
+                "bunga kantan",
+                "cili kering",
+                "cili kisar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "serai",
+                "buah keras",
+                "belacan",
+                "lada hitam"
             ]
         }
     },
@@ -1859,7 +2389,7 @@
                 "Bahan Kisar Halus": [
                     "3 biji cili merah",
                     "3-4 biji cili padi",
-                    "1 inci  halia",
+                    "1 inci \u00c2\u00a0halia",
                     "1 inci kunyit hidup",
                     "secubit belacan"
                 ]
@@ -1871,7 +2401,19 @@
                     "Perasakan dengan gula dan garam secukupnya. Jangan kacau kerana ikan mudah hancur. Apabila ikan sudah masak, angkat dan hidang bersama nasi panas."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan kembung",
+                "asam gelugor",
+                "serai",
+                "daun kesum",
+                "lengkuas",
+                "cili merah",
+                "cili padi",
+                "halia",
+                "kunyit hidup",
+                "belacan"
+            ]
         }
     },
     {
@@ -1911,7 +2453,20 @@
                     "Angkat dan hidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan siakap",
+                "jus lemon",
+                "serai",
+                "daun bawang",
+                "sos ikan",
+                "tepung jagung",
+                "tomato",
+                "cili merah",
+                "halia",
+                "bawang putih",
+                "bawang merah"
+            ]
         }
     },
     {
@@ -1949,7 +2504,18 @@
                     "Apabila sudah masak, tuangkan tumisan ke atas ikan keli dan siap untuk dihidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan keli",
+                "kunyit",
+                "garam",
+                "gula",
+                "limau nipis",
+                "minyak",
+                "bawang merah",
+                "bawang putih",
+                "lada merah"
+            ]
         }
     },
     {
@@ -1982,7 +2548,18 @@
                     "akhir skali boleh masukkn bendi dan bila dah masak bolehlah padam api"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan tenggiri",
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "biji sawi",
+                "daun kesom",
+                "asam keping",
+                "asam jawa"
+            ]
         }
     },
     {
@@ -2021,7 +2598,10 @@
                     "Masukkan tomato, bawang besar dan cili yang telah dibelah. Kacau seketika hingga mendidih dan kuah menjadi sedikit pekat. Angkat dan tuangkan di atas ikan bawal yang digoreng tadi. Hiaskan dengan sedikit hirisan daun bawang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "- ikan bawal\n- cili merah\n- bawang besar\n- tomato\n- cuka makan\n- minyak masak\n- garam\n- gula\n- daun bawang\n- bawang merah\n- bawang putih\n- buah keras"
+            ]
         }
     },
     {
@@ -2036,7 +2616,7 @@
             "hidangan": "4 orang",
             "ingredients": {
                 "Bahan Utama": [
-                    "ikan (apa-apa saja) ,  kelapa parut, asam jawa, bawang merah, bawang putih,halia,kunyit hidup (serbuk kunyit pun boleh),blender. minyak masak."
+                    "ikan (apa-apa saja) , \u00c2\u00a0kelapa parut, asam jawa, bawang merah, bawang putih,halia,kunyit hidup (serbuk kunyit pun boleh),blender. minyak masak."
                 ]
             },
             "instructions": {
@@ -2046,6 +2626,16 @@
             },
             "tips_and_guides": [
                 "tunggu hingga mereneh baru masukkan asam jawa sekali lagi"
+            ],
+            "main_ingredients": [
+                "ikan",
+                "kelapa parut",
+                "asam jawa",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kunyit hidup",
+                "minyak masak"
             ]
         }
     },
@@ -2087,6 +2677,17 @@
             },
             "tips_and_guides": [
                 "To get a delicious sweet and sour flavor, use cherry tomatoes."
+            ],
+            "main_ingredients": [
+                "tomato",
+                "chili sauce",
+                "minced chili",
+                "pineapple",
+                "fish sauce",
+                "onion",
+                "shallots",
+                "garlic",
+                "ginger"
             ]
         }
     },
@@ -2134,7 +2735,23 @@
                     "Ready and served."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "shallots",
+                "bawan",
+                "ginger",
+                "onion",
+                "cooking oil",
+                "fenugreek",
+                "cinnamon stick",
+                "star anise",
+                "curry leaves",
+                "coconut milk",
+                "fish curry spice",
+                "chili powder",
+                "tomato",
+                "okra"
+            ]
         }
     },
     {
@@ -2174,7 +2791,21 @@
                     "Nota: Berhati-hati ketika memasukkan garamkerana taucusudah mempunya rasa masin yg kuat."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "siakap",
+                "taucu",
+                "sos ikan",
+                "jus limau",
+                "serai",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "cili merah",
+                "tomato",
+                "daun ketumbar",
+                "daun sup"
+            ]
         }
     },
     {
@@ -2222,7 +2853,10 @@
                     "Siap dan sedia dihidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "- Kari kepala ikan\n- Kepala ikan merah\n- Bawang merah\n- Bawang putih\n- Gula\n- Bawang besar\n- Minyak masak\n- Halba campur\n- Kulit kayu manis\n- Bunga lawang\n- Daun kari\n- Santan cair\n- Santan pekat\n- Rempah gulai ikan\n- Tomato\n- Bendi"
+            ]
         }
     },
     {
@@ -2256,10 +2890,21 @@
                     "Kemudian masukkan dalam lada yang dimasak.",
                     "Kemudian masukkan ikan patin, daun kesum, bunga kantan dan serai.",
                     "Masak sehingga sebati semuanya,dan kemudian  masukkan asam keping.",
-                    "Masukkan  garam dan gula secukup rasa"
+                    "Masukkan \u00c2\u00a0garam dan gula secukup rasa"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "ikan patin",
+                "tempoyak",
+                "kunyit hidup",
+                "tempoyak",
+                "bunga kantan",
+                "daun kesum",
+                "serai",
+                "asam keping",
+                "garam"
+            ]
         }
     },
     {
@@ -2300,6 +2945,19 @@
             },
             "tips_and_guides": [
                 "Pastikan anda tidak menggunakan api yang terlalu kuat ketika memanggang ikan kerana untuk mengelakkan dari iklan dari terlebih masak, ini akan menyebabkan ikan kehilangan lembapan dan menjadi terlalu kering atau keras"
+            ],
+            "main_ingredients": [
+                "ikan jenahak",
+                "kunyit",
+                "garam",
+                "daun pisang",
+                "kelapa parut",
+                "serai",
+                "bawang merah",
+                "halia",
+                "cili kering",
+                "garam",
+                "gula"
             ]
         }
     },
@@ -2342,6 +3000,18 @@
             },
             "tips_and_guides": [
                 "Untuk mendapatkan rasa masam manis yang sedap, gunakan tomato ceri."
+            ],
+            "main_ingredients": [
+                "tomato",
+                "sos cili",
+                "cili giling",
+                "nenas",
+                "sos ikan",
+                "bawang",
+                "Daun bawang",
+                "bawang merah",
+                "bawang putih",
+                "halia"
             ]
         }
     }

@@ -77,7 +77,7 @@
                     "Udang laut trim kepala dan misai. Kalau nak belah belakang pon boleh.",
                     "Untuk lala bilas sikit dengan air dah cukup.",
                     "Potong bulat sotong dan bahagian kepala korek buang bahagian tengah / gigi. Toskan kering air.",
-                    "Bersihkan kerang dan rebus dengan sedikit air anggaran ½ cawan dan hirisan bawang merah kecil dan bawang putih. Tutup periuk dan masak anggaran 10-15 minit atau sampai kerang masak."
+                    "Bersihkan kerang dan rebus dengan sedikit air anggaran \u00c2\u00bd cawan dan hirisan bawang merah kecil dan bawang putih. Tutup periuk dan masak anggaran 10-15 minit atau sampai kerang masak."
                 ],
                 "Untuk Sayur": [
                     "Cuci bersih dan potong brokoli, jagung dan carrot. Boleh tambah sayur lain macam capsicum atau baby corn kalau nak.",
@@ -117,6 +117,42 @@
             "tips_and_guides": [
                 "Tak perlu celur brokoli terlalu lama. Lepas angkat terus rendam dalam air sejuk untuk kekal fresh, rangup dan warna brokoli maintain hijau.",
                 "Waktu goreng sotong pastikan minyak betul-betul panas dan jangan goreng terlalu lama takut sotong liat."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "cili kering",
+                "cili kisar",
+                "udang kering",
+                "gula",
+                "minyak masak",
+                "mentega",
+                "serai",
+                "daun kari",
+                "serbuk kari",
+                "sos tiram",
+                "sos cili",
+                "jagung",
+                "karot",
+                "sayur brokoli",
+                "ketam",
+                "lala",
+                "udang",
+                "kerang",
+                "sotong",
+                "garam",
+                "lada sulah",
+                "lada hitam",
+                "limau nipis",
+                "tepung gandum",
+                "tepung jagung",
+                "putih telur",
+                "air",
+                "serbuk lada",
+                "serbuk cili",
+                "serbuk kari",
+                "serbuk pati ayam"
             ]
         }
     },
@@ -187,6 +223,9 @@
                 "Che Nom kupas dulu kulit udang baru celur, nanti kita celup sekejap je dah masak.",
                 "Boleh tambah daun pudina dalam Vietnam spring rolls untuk rasa minty dan lebih sedap.",
                 "Balut cepat-cepat Vietnam rolls  kalau tak nanti rice paper nanti jadi lembik dan melekit-lekit."
+            ],
+            "main_ingredients": [
+                "- Bihun atau suhun\n- Timun\n- Lada benggala\n- Daun bawang\n- Daun ketumbar\n- Lobak merah\n- Kulit popiah vietnam\n- Udang\n- Jejari ketam\n- Daun salad\n- Kacang tanah\n- Minyak masak\n- Bawang putih\n- Sos cili\n- Cili merah\n- Cili padi\n- Air\n- Sos ikan\n- Gula\n- Tepung jagung\n- Jus limau nipis\n- Garam"
             ]
         }
     },
@@ -243,6 +282,23 @@
                 "Sebelum rendam rice paper Che Nom dah basahkan tangan dan pinggan untuk elak rice paper melekat.",
                 "Rice paper tu jangan terlebih rendam sebab lepas angkat dia akan lembut sikit lagi.",
                 "Untuk elak rice paper cepat koyak kita kena letak salad sebagai base (Che Nom letak selepas letak crabsticks) baru letak bahan-bahan yang keras macam timun dan carrot."
+            ],
+            "main_ingredients": [
+                "Rice paper",
+                "Suhun",
+                "Timun",
+                "Lobak merah",
+                "Daun Salad",
+                "Ketam",
+                "Mayonis",
+                "Daun ketumbar",
+                "Cili padi hijau",
+                "Sos ikan",
+                "Gula perang",
+                "Air",
+                "Bawang putih",
+                "Limau nipis",
+                "Garam"
             ]
         }
     },
@@ -295,6 +351,22 @@
             "tips_and_guides": [
                 "Salut udang dengan tepung jagung dekat-dekat nak goreng sebab kita tak nak udang ni basah.",
                 "Jangan goreng udang penuh kuali, sebab nanti lambat garing dan overcook dekat dalam. Seeloknya goreng pecah kepada 2 bahagian."
+            ],
+            "main_ingredients": [
+                "udang",
+                "garam",
+                "serbuk kunyit",
+                "tepung jagung",
+                "bawang merah",
+                "bawang putih",
+                "udang kering",
+                "cili padi",
+                "daun kari",
+                "rempah kari ikan/daging",
+                "kicap manis",
+                "sos tomato",
+                "sos cili",
+                "sos tiram"
             ]
         }
     },
@@ -346,7 +418,26 @@
                     "Tabur daun kari goreng untuk hiasan dan sedia untuk dihidang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "cili merah",
+                "cili padi",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "serai",
+                "ketam nipah",
+                "minyak masak",
+                "daun kari",
+                "serbuk kari ikan",
+                "sos tiram",
+                "sos cili",
+                "sos tomato",
+                "garam",
+                "gula",
+                "Susu Isian Sejat F&N",
+                "jus limau nipis."
+            ]
         }
     },
     {
@@ -429,6 +520,35 @@
                 "Tepung beras Che Nom guna Cap Teratai, nak guna cap lain pon takpe, insyallah jadi.",
                 "Pastikan adunan tak pekat sangat, cair-cair sikit, boleh test kukus dulu sekali, kalau tak lembut tambah lagi air.",
                 "Laksam jangan tebal sangat, nanti susah pulak nak gulung."
+            ],
+            "main_ingredients": [
+                "ikan kembung",
+                "asam gelugor",
+                "halia",
+                "bawang putih",
+                "bawang merah kecil",
+                "bawang merah besar",
+                "gula melaka",
+                "kelapa",
+                "lada hitam",
+                "tepung beras",
+                "tepung gandum",
+                "air",
+                "minyak masak",
+                "cili merah besar",
+                "cili padi",
+                "belacan",
+                "cuka makan",
+                "jus limau",
+                "garam",
+                "gula",
+                "timun",
+                "bunga kantan",
+                "kacang panjang",
+                "kobis",
+                "daun kesum",
+                "taugeh",
+                "limau"
             ]
         }
     },
@@ -489,6 +609,21 @@
             "tips_and_guides": [
                 "Kalau masak blend biji cili tak hancur, boleh tambah sedikit minyak masak masa kisar.",
                 "Jangan tumis bawang sampai garing, tujuannya supaya nanti bawang akan lebur dalam sambal dan maniskan kuah."
+            ],
+            "main_ingredients": [
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "belacan",
+                "cili kering",
+                "cili kisar",
+                "sotong kering",
+                "ubat sotong",
+                "gula melaka",
+                "air asam jawa",
+                "garam",
+                "serbuk kacang tanah"
             ]
         }
     },
@@ -522,7 +657,7 @@
             "instructions": {
                 "Untuk Bersihkan Siput Sedut": [
                     "Rendam siput sampai tenggelam dan gesel-gesel kulit biar tertanggal lumpur.",
-                    "Tapis dan bilas dengan air. Ulang proses 2-3 kali sampai air jernih. Nak berus satu – satu pon boleh tapi Che Nom tak berapa rajin.",
+                    "Tapis dan bilas dengan air. Ulang proses 2-3 kali sampai air jernih. Nak berus satu \u00e2\u20ac\u201c satu pon boleh tapi Che Nom tak berapa rajin.",
                     "Rendam siput dengan air garam dan tutup selama 30 minit (tujuan untuk siput muntahkan pasir dalam siput tu). Che Nom ada baca petua gaul siput dengan kelapa parut semalaman tapi renyah jadi Che Nom guna cara yang mudah kalau nak cuba masak.",
                     "Bilas dengan air sekali lagi.",
                     "Potong buang hujung ekor cengkerang anggaran 3 ruas siput supaya ada ruang udara untuk kita sedut masa makan nanti. Che Nom guna gunting pokok kalau nak guna pisau potong daging pon boleh.",
@@ -548,6 +683,18 @@
                 "Petua untuk elak santan pecah minyak, boleh letak garam masa awal-awal masak.",
                 "Boleh kaut masuk kepala santan (bahagian santan yang pekat dan terapung) untuk masakkan lebih berlemak.",
                 "Bila santan dah mula mendidih, kerap kacau untuk elak santan pecah."
+            ],
+            "main_ingredients": [
+                "siput belitung",
+                "santan",
+                "bawang merah",
+                "bawang putih",
+                "kunyit",
+                "serai",
+                "halia",
+                "cili padi",
+                "daun kunyit",
+                "asam keping"
             ]
         }
     },
@@ -623,10 +770,10 @@
                 "Untuk Masak": [
                     "Basuh bersih sotong, kemudian selit sotong dengan lidi supaya telur tak terkeluar bila masak. (tak perlu selit dengan lidi kalau belum buang tulang sotong, tapi kalau nak cucuk dengan lidi pon boleh je).",
                     "Masak sotong atas kuali panas tanpa minyak (untuk elak sotong kecut dan jadi liat.",
-                    "Bila sotong dah kecut, bertukar warna putih dan keluar air boleh angkat dan ketepikan. Air sotong simpan untuk masak  kari.",
+                    "Bila sotong dah kecut, bertukar warna putih dan keluar air boleh angkat dan ketepikan. Air sotong simpan untuk masak \u00c2\u00a0kari.",
                     "Panaskan minyak dan tumis serai dulu sampai naik bau.",
                     "Kemudian masukkan bawang holland, daun pandan, rempah 4 sekawan, cili kering dan daun kari. Kacau sampai bawang layu.",
-                    "Masukkan bahan kisar halus yang dah bancuh dengan  rempah kari tadi.",
+                    "Masukkan bahan kisar halus yang dah bancuh dengan \u00c2\u00a0rempah kari tadi.",
                     "Masak sampai pecah minyak. Masuk 2-3 kali air dan ulang sampai pecah minyak.",
                     "Masukkan air sotong, sedikit air, sos tomato, rempah sangai dan rempah kaskas. Kacau sebati.",
                     "Masukkan sotong dan kacau sekejap biar sotong bergaul dengan rempah.",
@@ -639,6 +786,36 @@
             },
             "tips_and_guides": [
                 "Tips untuk dapatkan sotong yang tak liat dan tak kecut, sebelum masak sotong dalam kari, Che Nom masak sotong atas kuali panas tanpa minyak. Masak sampai sotong bertukar warna putih dan air keluar."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "serai",
+                "bawang holland",
+                "daun pandan",
+                "cili kering",
+                "daun kari",
+                "Rempah 4 sekawan",
+                "bawang merah kecil",
+                "bawang putih",
+                "bawang besar",
+                "lengkuas",
+                "halia",
+                "rempah kari",
+                "serbuk cili",
+                "serbuk kunyit",
+                "jintan manis",
+                "jintan putih",
+                "lada hitam",
+                "tomato",
+                "santan kotak",
+                "sos tomato",
+                "kaskas",
+                "garam",
+                "perasa",
+                "air",
+                "cili",
+                "daun pudina",
+                "daun ketumbar"
             ]
         }
     },
@@ -688,6 +865,21 @@
                 "Tips untuk bagi udang tak meletup bila goreng, tos kering udang ataupun salut dengan tepung jagung.",
                 "Goreng udang sekejap saja dengan api yang besar, udang akan garing di luar tapi masih lembut di dalam dan tak terlebih masak.",
                 "Kalau kulit udang bertukar menjadi warna putih maksudnya udang sudah masak."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "bawang besar",
+                "daun bawang",
+                "cili merah",
+                "udang",
+                "tepung jagung",
+                "minyak masak",
+                "mentega",
+                "sos tiram",
+                "serbuk cili kasar",
+                "garam",
+                "lada sulah",
+                "gula"
             ]
         }
     },
@@ -703,7 +895,7 @@
             "hidangan": "? orang",
             "ingredients": {
                 "Bahan Untuk Udang Sweet Sour": [
-                    "¼ cawan minyak masak",
+                    "\u00c2\u00bc cawan minyak masak",
                     "8-10 ekor udang besar",
                     "Sedikit serbuk kunyit dan garam",
                     "3 ulas bawang putih",
@@ -711,13 +903,13 @@
                     "1 inci halia",
                     "2 sudu besar cili kisar",
                     "1 biji tomato",
-                    "½ cawan sos cili",
+                    "\u00c2\u00bd cawan sos cili",
                     "1-2 sudu besar sos ikan",
                     "1 potong nenas",
                     "Sedikit air",
                     "Garam dan gula secukup rasa",
                     "1 sudu kecil sos tiram",
-                    "½ biji bawang holland",
+                    "\u00c2\u00bd biji bawang holland",
                     "Daun bawang"
                 ]
             },
@@ -736,6 +928,26 @@
             },
             "tips_and_guides": [
                 "TBD"
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "udang",
+                "serbuk kunyit",
+                "garam",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "cili kisar",
+                "tomato",
+                "sos cili",
+                "sos ikan",
+                "nenas",
+                "air",
+                "garam",
+                "gula",
+                "sos tiram",
+                "bawang holland",
+                "daun bawang"
             ]
         }
     },
@@ -756,12 +968,12 @@
                     "1 biji cili merah",
                     "2 ulas bawang putih",
                     "1-2 biji limau nipis",
-                    "½ biji tomato",
-                    "½ biji bawang besar",
+                    "\u00c2\u00bd biji tomato",
+                    "\u00c2\u00bd biji bawang besar",
                     "Daun ketumbar",
                     "1 kilo kerang",
                     "1-2 sb air asam jawa",
-                    "½ inci belacan bakar",
+                    "\u00c2\u00bd inci belacan bakar",
                     "2 sb sos ikan",
                     "Sedikit air",
                     "1 sk gula melaka",
@@ -790,6 +1002,22 @@
                 "Kalau nak lebih pedas boleh ganti cili merah dengan semua cili padi.",
                 "Kalau tak minat bawang putih dalam kerabu, boleh skip bawang putih",
                 "Tips untuk isi kerang lembut, rendam kerang dalam air sejuk atau air ais selepas rebus"
+            ],
+            "main_ingredients": [
+                "air",
+                "cili padi",
+                "cili merah",
+                "bawang putih",
+                "limau nipis",
+                "tomato",
+                "bawang besar",
+                "daun ketumbar",
+                "kerang",
+                "air asam jawa",
+                "belacan bakar",
+                "sos ikan",
+                "gula melaka",
+                "garam"
             ]
         }
     },
@@ -811,12 +1039,12 @@
                 ],
                 "Bahan Untuk Tepung Perapan": [
                     "1 biji telur putih",
-                    "½ sudu besar serbuk cili",
+                    "\u00c2\u00bd sudu besar serbuk cili",
                     "1 sudu kecil serbuk lada putih",
-                    "½ sudu kecil serbuk lada hitam",
-                    "½ sudu besar serbuk perasa Sedap",
+                    "\u00c2\u00bd sudu kecil serbuk lada hitam",
+                    "\u00c2\u00bd sudu besar serbuk perasa Sedap",
                     "1 sudu besar sos tiram",
-                    "½ sudu kecil garam",
+                    "\u00c2\u00bd sudu kecil garam",
                     "5 sudu besar tepung gandum",
                     "5 sudu besar tepung jagung",
                     "Sedikit air"
@@ -824,7 +1052,7 @@
                 "Bahan Untuk Tepung Salut": [
                     "1 cawan tepung jagung",
                     "1 cawan tepung gandum",
-                    "½ -1 sudu besar serbuk cili",
+                    "\u00c2\u00bd -1 sudu besar serbuk cili",
                     "1 sudu besar serbuk perasa Sedap",
                     "1 sudu kecil garam halus",
                     "1 sudu kecil baking powder",
@@ -837,7 +1065,7 @@
                     "2 cawan air",
                     "1 biji perahan jus limau nipis",
                     "ATAU 4-5 sudu besar cuka makan",
-                    "½ sudu kecil parutan halia",
+                    "\u00c2\u00bd sudu kecil parutan halia",
                     "2 sudu besar sos ikan",
                     "Akar ketumbar",
                     "Air bancuhan tepung jagung",
@@ -867,10 +1095,10 @@
                     "Masukkan tepung gandum dan tepung jagung sedikit demi sedikit. Tuang air dan gaul sehingga sebati, agak- agak sederhana cair."
                 ],
                 "Cara- Cara Untuk Tepung Salutan Dan Goreng": [
-                    "Dalam mangkuk yang berasingan, masukkan tepung jagung, tepung gandum, serbuk cili, serbuk perasa Sedap, garam, baking powder dan  tepung beras. Kacau sekata.",
+                    "Dalam mangkuk yang berasingan, masukkan tepung jagung, tepung gandum, serbuk cili, serbuk perasa Sedap, garam, baking powder dan \u00c2\u00a0tepung beras. Kacau sekata.",
                     "Salut sotong sehingga tepung bersalut sekata.",
                     "Panaskan minyak dan goreng sehingga keperangan.",
-                    "Kacau sedikit sehingga  tepung garing dan keperangan.",
+                    "Kacau sedikit sehingga \u00c2\u00a0tepung garing dan keperangan.",
                     "Angkat dan rehatkan sotong atas jaring sebelum dihidang."
                 ]
             },
@@ -879,6 +1107,39 @@
                 "Boleh ganti cuka makan dengan jus lemon ataupun jus limau nipis",
                 "Minyak kena banyak dan tenggelam sotong, takut tepung salutan tertanggal dari sotong kalau minyak kurang.",
                 "Goreng jangan terlalu lama takut sotong keras."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "garam",
+                "baking powder",
+                "telur putih",
+                "serbuk cili",
+                "serbuk lada putih",
+                "serbuk lada hitam",
+                "serbuk perasa Sedap",
+                "sos tiram",
+                "tepung gandum",
+                "tepung jagung",
+                "air",
+                "tepung jagung",
+                "tepung gandum",
+                "serbuk cili",
+                "serbuk perasa Sedap",
+                "garam halus",
+                "baking powder",
+                "tepung beras",
+                "cili merah",
+                "cili padi",
+                "bawang putih",
+                "air",
+                "jus limau nipis",
+                "cuka makan",
+                "parutan halia",
+                "sos ikan",
+                "ketumbar",
+                "bancuhan tepung jagung",
+                "gula",
+                "garam"
             ]
         }
     },
@@ -897,10 +1158,10 @@
                     "2 ulas bawang putih",
                     "2 tangkai cili padi",
                     "sedikit garam",
-                    "½ sudu kecil serbuk pati ayam",
+                    "\u00c2\u00bd sudu kecil serbuk pati ayam",
                     "1 sudu kecil gula",
                     "1 tangkai daun kari",
-                    "1 ½ cawan minyak masak",
+                    "1 \u00c2\u00bd cawan minyak masak",
                     "50g / 3 sudu besar mentega",
                     "5 biji telur kuning"
                 ],
@@ -934,6 +1195,19 @@
                 "Minyak gorengan udang boleh disimpan sebagai kegunaan masakan lain.",
                 "Bagi gorengan telur bersarang, wajib menggunakan minyak baru.",
                 "Pastikan tuang telur dengan tinggi dan jatuh bertali halus kedalam kuali sambil mengacau gorengan telur dengan putaran ataupun membulat pada satu arah."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "cili padi",
+                "garam",
+                "serbuk pati ayam",
+                "gula",
+                "daun kari",
+                "minyak masak",
+                "mentega",
+                "telur kuning",
+                "udang besar",
+                "tepung jagung"
             ]
         }
     },
@@ -1015,6 +1289,27 @@
                 "Petis udang boleh digantikan dengan belacan bakar untuk bahan kuah hitam.",
                 "Bagi menambah kesedapan kuah hitam yang perlu adanya rasa yang cukup manis, letakkan antara gula nisan atau gula melaka ataupun gula perang ke dalam kuah.",
                 "Kuah rebusan akan lebih sedap dengan menggunakan air rebusan stok ayam ataupun sayur berbanding dengan air putih sahaja."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "cili kering",
+                "cili padi",
+                "kacang tanah",
+                "tepung gandum",
+                "tepung jagung",
+                "air",
+                "sos cili",
+                "kiub pati ayam",
+                "garam",
+                "gula",
+                "petis udang",
+                "gula nisan",
+                "air rebusan udang",
+                "makanan sejuk beku",
+                "sotong",
+                "kangkung",
+                "serbuk kacang tanah",
+                "bijan."
             ]
         }
     },
@@ -1033,10 +1328,10 @@
                     "4 biji bawang merah",
                     "5 ulas bawang putih",
                     "3 batang serai",
-                    "3 inci  lengkuas",
+                    "3 inci \u00c2\u00a0lengkuas",
                     "2 inci halia",
                     "2-3 biji cili merah besar",
-                    "5-6 helai daun  limau purut",
+                    "5-6 helai daun \u00c2\u00a0limau purut",
                     "15-20 tangkai cili kering",
                     "1 sudu besar udang kering",
                     "1 cawan pati asam jawa",
@@ -1107,6 +1402,34 @@
                 "Pastikan tutup api baru masukkan jus perahan limau nipis.",
                 "Jangan buang kepala udang , bahagian kepala yang beri tomyum goong rasa lebih sedap bila dimasak.",
                 "Boleh ganti susu cair dengan susu full cream ataupun santan."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "serai",
+                "lengkuas",
+                "halia",
+                "cili merah besar",
+                "daun limau purut",
+                "cili kering",
+                "udang kering",
+                "pati asam jawa",
+                "minyak masak",
+                "serbuk ketumbar",
+                "sos ikan Thai",
+                "gula nisan atau gula melaka",
+                "tomato",
+                "akar ketumbar",
+                "cili padi",
+                "cendawan tiram",
+                "batang ketumbar",
+                "bawang holland",
+                "udang segar",
+                "garam",
+                "susu cair",
+                "kiub pati ayam",
+                "limau nipis",
+                "daun ketumbar."
             ]
         }
     },
@@ -1161,6 +1484,22 @@
                 "Kulit dan kepala udang dibiarkan untuk memberi rasa manis seafood yang sedap bila direbus.",
                 "Buang tulang tengah daun limau purut supaya kuah tak pahit.",
                 "Sotong perlu masukkan lambat sbb sotong tak boleh masak lama sgt kalau tidak sotong akan liat dan keras."
+            ],
+            "main_ingredients": [
+                "kiub ayam",
+                "serai",
+                "cendawan tiram",
+                "air",
+                "lengkuas",
+                "bawang holland",
+                "daun limau purut",
+                "udang",
+                "cili padi",
+                "sos ikan",
+                "sotong",
+                "tomato",
+                "limau nipis",
+                "daun ketumbar"
             ]
         }
     },
@@ -1212,6 +1551,27 @@
             "tips_and_guides": [
                 "Bahan-bahan yang digunakan untuk tom yam haruslah segar kerana ia akan mempengaruhi rasa tom yam nanti. Pastikan seafood juga segar dan tidak berbau.",
                 "Untuk rasa lebih pedas, anda boleh tambah cili paste Thai, atau lebihkan cili padi di dalam kuah tom yam mengikut cita rasa masing-masing."
+            ],
+            "main_ingredients": [
+                "air",
+                "Akar ketumbar",
+                "lengkuas",
+                "daun limau purut",
+                "serai",
+                "cili padi",
+                "kiub ayam",
+                "karot",
+                "isi ayam",
+                "bawang holland",
+                "pes tom yam",
+                "cendawan tiram",
+                "tomato",
+                "sos ikan",
+                "sotong",
+                "udang besar",
+                "susu cair",
+                "jus limau nipis",
+                "daun ketumbar"
             ]
         }
     },
@@ -1258,6 +1618,19 @@
             "tips_and_guides": [
                 "Masak sambal dengan minyak yang banyak supaya cili masak dengan sempurna dan sedap.",
                 "Lebihan minyak boleh dibuang kemudian selepas sambal masak."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "bawang besar",
+                "cili",
+                "air asam jawa",
+                "sos tiram",
+                "gula melaka",
+                "petai",
+                "garam",
+                "bawang merah",
+                "bawang putih",
+                "halia"
             ]
         }
     },
@@ -1275,7 +1648,7 @@
                 "Bahan Utama": [
                     "1/2 kg sotong",
                     "1 batang serai, ketuk",
-                    "2 tangkai daun  kari",
+                    "2 tangkai daun \u00c2\u00a0kari",
                     "1 helai daun pandan, potong pendek",
                     "2-3 sudu besar cili kisar",
                     "1 sudu besar serbuk ketumbar",
@@ -1313,6 +1686,27 @@
             "tips_and_guides": [
                 "Sotong harus ditos airnya supaya nanti kuah masak hitam tidak terlalu berair. Ini adalah kerana sotong itu sendiri akan mengeluarkan air apabila dimasak.",
                 "Kalau nak gantikan hirisan tomato dengan tomato puree pun boleh juga."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "serai",
+                "daun kari",
+                "daun pandan",
+                "cili kisar",
+                "serbuk ketumbar",
+                "jintan manis",
+                "jintan putih",
+                "tomato",
+                "kicap manis",
+                "sos tiram",
+                "bawang besar",
+                "bunga lawang",
+                "kulit kayu manis",
+                "buah pelaga",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kunyit hidup"
             ]
         }
     },
@@ -1355,6 +1749,21 @@
                 "Boleh juga digunakan santan kotak (1 kotak santan 200ml untuk resepi ini dan ditambah sedikit air)",
                 "Kuah harus dimasak di atas api yang perlahan dan harus kerap dikacau supaya santan tidak pecah minyak dan berketul.",
                 "Udang galah pula tidak boleh dimasak terlalu lama kerana nanti isi akan keras dan kurang sedap."
+            ],
+            "main_ingredients": [
+                "udang galah",
+                "kacang panjang",
+                "daun kunyit",
+                "serai",
+                "santan pekat",
+                "santan cair",
+                "asam gelugor",
+                "garam",
+                "gula",
+                "cili padi",
+                "kunyit hidup",
+                "bawang merah",
+                "bawang putih"
             ]
         }
     },
@@ -1398,6 +1807,19 @@
             },
             "tips_and_guides": [
                 "Udang jangan terlebih masak kerana isinya akan menjadi keras, kecut dan tidak sedap. Memadai dengan hanya kacau beberapa minit di dalam sambal dan apabila isinya sudah bertukar menjadi merah, tutup api."
+            ],
+            "main_ingredients": [
+                "udang",
+                "petai",
+                "serai",
+                "minyak masak",
+                "bawang besar",
+                "air asam jawa",
+                "sos tiram",
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "halia"
             ]
         }
     },
@@ -1446,6 +1868,26 @@
             "tips_and_guides": [
                 "Penting untuk anda mengagak sendiri bahan-bahan untuk sos. Jika kuah terlalu sedikit, boleh tambah lagi sos.",
                 "Seafood pula jangan dimasak terlalu lama kerana nanti terlebih masak dan keras."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "udang",
+                "bawang putih",
+                "halia",
+                "serai",
+                "cili kisar",
+                "daun limau purut",
+                "cili padi",
+                "kacang panjang",
+                "jagung kecil",
+                "bunga kubis",
+                "karot",
+                "minyak",
+                "sos ikan",
+                "kicap pekat manis",
+                "sos tiram",
+                "sos tomato",
+                "sos cili"
             ]
         }
     },
@@ -1492,7 +1934,28 @@
                     "Masukkan pula santan pekat, bendi dan tomato. Perasakan dengan garam dan gula secukup rasa. Apabila mendidih, angkat dan hidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sotong",
+                "minyak masak",
+                "rempah kari udang",
+                "serbuk cili",
+                "santan cair",
+                "santan pekat",
+                "sayur bendi",
+                "tomato",
+                "pati asam jawa",
+                "garam",
+                "gula",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kayu manis",
+                "bunga lawang",
+                "buah pelaga",
+                "halba campur",
+                "daun kari"
+            ]
         }
     },
     {
@@ -1531,7 +1994,19 @@
                     "Angkat dan hidangkena bersama nasi panas."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "nangka muda",
+                "santan",
+                "daun kunyit",
+                "asam gelugor",
+                "serai",
+                "bawang merah",
+                "bawang putih",
+                "cili padi",
+                "ikan bilis",
+                "belacan"
+            ]
         }
     },
     {
@@ -1547,8 +2022,8 @@
             "ingredients": {
                 "Bahan Utama": [
                     "1/2 kg lala",
-                    "1 sudu besar  sos ikan",
-                    "1 sudu besar  sos tiram",
+                    "1 sudu besar \u00c2\u00a0sos ikan",
+                    "1 sudu besar \u00c2\u00a0sos tiram",
                     "1 sudu besar sos cili",
                     "1 batang serai, dititik",
                     "2 helai daun limau purut, dicarik kasar",
@@ -1574,7 +2049,25 @@
                     "Angkat dan taburkan daun ketumbar."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "lala",
+                "sos ikan",
+                "sos tiram",
+                "sos cili",
+                "serai",
+                "daun limau purut",
+                "air asam jawa",
+                "garam",
+                "gula",
+                "minyak masak",
+                "daun ketumbar",
+                "cili merah",
+                "cili padi",
+                "halia",
+                "bawang merah",
+                "bawang putih"
+            ]
         }
     },
     {
@@ -1617,6 +2110,21 @@
             },
             "tips_and_guides": [
                 "Goreng kacang tanpa minyak (sangai) agak mengambil masa yang panjang. Jika anda tidak mempunyai masa, terus goreng kacang tanah di dalam minyak panas, buang kulit dan kisar kasar. Hati-hati kerana kacang cepat hangus jika digoreng di dalam minyak panas."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "kacang tanah",
+                "sos tiram",
+                "bawang besar",
+                "minyak masak",
+                "air asam jawa",
+                "asam keping",
+                "garam",
+                "gula",
+                "cili kering",
+                "bawang putih",
+                "bawang merah",
+                "halia"
             ]
         }
     },
@@ -1677,6 +2185,35 @@
             },
             "tips_and_guides": [
                 "Jangan rebus seafood terlalu lama kerana seafood seperti udang akan mengecut dan keras, sotong juga akan jadi liat dan keras. Memadai dengan hanya beberapa minit di dalam kuah yang mendidih."
+            ],
+            "main_ingredients": [
+                "cili kering",
+                "bawang besar",
+                "bawang putih",
+                "lengkuas",
+                "halia",
+                "daun limau purut",
+                "serbuk ketumbar",
+                "udang kering",
+                "air asam jawa",
+                "gula perang",
+                "serai",
+                "sos ikan Thai",
+                "minyak",
+                "air",
+                "ayam",
+                "udang",
+                "sotong",
+                "karot",
+                "tomato",
+                "cendawan tiram",
+                "serai",
+                "cili padi",
+                "sos ikan",
+                "limau nipis",
+                "tomyam paste",
+                "daun ketumbar",
+                "bawang holland"
             ]
         }
     },
@@ -1711,13 +2248,27 @@
             "instructions": {
                 "Penyediaan Utama": [
                     "Bersihkan ketam, dan leraikan bahagian kaki yang bersepit. Ketuk kulit ketam dengan lesung batu sehingga kulit sedikit pecah supaya senang dimakan kemudian.",
-                    "Gaulkan ketam dengan bahan kisar halus dan masak seketika selama lebih kurang 5 minit. Kemudian masukkan pati santan. Boleh juga dicairkan  kuah dengan sedikit air jika terlalu pekat.",
+                    "Gaulkan ketam dengan bahan kisar halus dan masak seketika selama lebih kurang 5 minit. Kemudian masukkan pati santan. Boleh juga dicairkan \u00c2\u00a0kuah dengan sedikit air jika terlalu pekat.",
                     "Perlahankan api dan kacau supaya santan tidak berketul. Masukkan asam keping, serai dan daun kunyit.",
                     "Masukkan garam dan gula secukup rasa dan masak sehingga mendidih."
                 ]
             },
             "tips_and_guides": [
                 "Jika ketam betina yg mempunyai telur anda tidak perlu buang kulit (seperti dalam gambar). Jika ketam biasa, buang kulit dan potong dua bahagian dan leraikan kaki bersepit."
+            ],
+            "main_ingredients": [
+                "ekor ketam",
+                "serai",
+                "daun kunyit",
+                "santan",
+                "asam gelugor",
+                "cili merah",
+                "cili api",
+                "bawang besar",
+                "kunyit hidup",
+                "bawang merah",
+                "bawang putih",
+                "belacan"
             ]
         }
     },
@@ -1761,6 +2312,21 @@
             },
             "tips_and_guides": [
                 "Udang jangan direbus terlalu lama kerana nanti udang akan menjadi keras dan tidak enak"
+            ],
+            "main_ingredients": [
+                "udang",
+                "rempah kari",
+                "halba",
+                "bunga lawang",
+                "kayu manis",
+                "daun kari",
+                "kentang",
+                "santan cair",
+                "santan pekat",
+                "pati asam jawa",
+                "bawang merah",
+                "bawang putih",
+                "halia"
             ]
         }
     },
@@ -1801,7 +2367,10 @@
                     "Hiaskan dengan taburan daun bawang dan cili merah."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "udang\ngaram\nbawang\ndaun bawang\ncili merah\nsos tiram\nkicap manis\njus pekat asam jawa\ngula\nbawang putih\nkicap cair\nlada sulah"
+            ]
         }
     },
     {
@@ -1848,7 +2417,26 @@
                     "Sebelum angkat, tabur hirisan bawang besar dan kacau dalam 2-3 minit."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sotong",
+                "cili",
+                "daun pandan",
+                "serai",
+                "tomato",
+                "serbuk ketumbar",
+                "serbuk jintan putih",
+                "kicap manis",
+                "sos tiram",
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "bunga lawang",
+                "kayu manis",
+                "cengkih",
+                "pelaga"
+            ]
         }
     },
     {
@@ -1866,7 +2454,7 @@
                     "4 ekor sotong, dibuang kulit dan kelar",
                     "6 ekor udang, dibuang kulit",
                     "1/2 biji bawang besar, hiris nipis",
-                    "sedikit  suhun ( glass noodles)",
+                    "sedikit \u00c2\u00a0suhun (\u00c2\u00a0glass noodles)",
                     "1/2 batang timun, hiris nipis",
                     "1 biji tomato, buang biji dan hiris nipis",
                     "1 tangkai daun ketumbar, cincang kasar",
@@ -1891,7 +2479,24 @@
                     "Hiaskan dengan taburan daun ketumbar, daun bawang dan hirisan cili merah."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sotong",
+                "udang",
+                "bawang besar",
+                "suhun",
+                "timun",
+                "tomato",
+                "daun ketumbar",
+                "daun bawang",
+                "serai",
+                "cili padi",
+                "bawang putih",
+                "sos ikan Thai",
+                "kicap cair",
+                "gula melaka",
+                "limau nipis"
+            ]
         }
     },
     {
@@ -1930,7 +2535,21 @@
                     "Masukkan sotong, sos tiram, dan air asam jawa. Kacau dan biarkan sehingga sotong masak. Apabila kuah sudah menjadi pekat, perasakan dengan gula dan garam secukupnya."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sotong",
+                "serai",
+                "bawang besar",
+                "minyak masak",
+                "sos tiram",
+                "air asam jawa",
+                "garam",
+                "gula",
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "halia."
+            ]
         }
     },
     {
@@ -1968,6 +2587,17 @@
             },
             "tips_and_guides": [
                 "Jangan goreng terlalu lama kerana udang akan menjadi keras kerana terlebih masak."
+            ],
+            "main_ingredients": [
+                "Kunyit goreng",
+                "serbuk kunyit",
+                "bawang putih",
+                "bawang merah",
+                "cili merah",
+                "bawang besar",
+                "daun bawang",
+                "garam",
+                "minyak masak"
             ]
         }
     },
@@ -2003,7 +2633,19 @@
                     "4.Akhir sekali masukkn udang galah yg telah digoreng Dan taburkan bawang merah besar yg dihiris bulat tadi"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "Udang galah",
+                "Bawang putih",
+                "Bawang merah",
+                "Halia",
+                "Sos tomato",
+                "Sos cili",
+                "Kicap",
+                "Gula",
+                "Garam",
+                "Air"
+            ]
         }
     },
     {
@@ -2043,6 +2685,17 @@
             "tips_and_guides": [
                 "Pastikan anda tidak memasak udang terlalu lama kerana udang boleh menjadi keras.",
                 "Semasa menumis bahan kisar pastikan betul-betul pecah minyak kerana jika tidak, kuah sambal tumis tidak masak dengan sempurnna"
+            ],
+            "main_ingredients": [
+                "udang",
+                "bawang besar",
+                "serai",
+                "air asam jawa",
+                "sos tiram",
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "cili kering"
             ]
         }
     },
@@ -2088,7 +2741,25 @@
                     "Rasa dan jika ok boleh matikan api. Siap untuk di hidangkan"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "isi kerang",
+                "cili",
+                "bwg kecik",
+                "bwg merah",
+                "bawang putih",
+                "halia",
+                "bawang kuning",
+                "garam",
+                "gula",
+                "belacan",
+                "serai",
+                "santan",
+                "jus asam jawa",
+                "sos tiram",
+                "sos cili",
+                "sos tomato"
+            ]
         }
     },
     {
@@ -2119,6 +2790,11 @@
             },
             "tips_and_guides": [
                 "Pastikan sotong di toskan hingga tiada air untuk mengelakkan daripada meletup ketika menggoreng dan jangan goreng terlalu lama kerana sotong akan menjadi liat."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "air",
+                "tepung Gogi"
             ]
         }
     },
@@ -2137,7 +2813,7 @@
                     "7-8 ekor sotong (dipotong)",
                     "lada benggala - dipotong memanjang",
                     "1 biji bawang besar dipotong gelang/ikut suka",
-                    "1 biji  tomato",
+                    "1 biji \u00c2\u00a0tomato",
                     "sedikit garam",
                     "sedikit serbuk kunyit",
                     "sedikit lada sulah",
@@ -2154,7 +2830,17 @@
                     "Gaulkan hingga rata dan siap"
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sotong",
+                "lada benggala",
+                "bawang besar",
+                "tomato",
+                "garam",
+                "serbuk kunyit",
+                "lada sulah",
+                "minyak masak"
+            ]
         }
     },
     {
@@ -2192,7 +2878,20 @@
                     "Masukkan udang, nenas dan bawang besar. Masak seketika, angkat dan hiaskan dgn daun bawang."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "udang",
+                "minyak",
+                "cili",
+                "sos tomato",
+                "nenas",
+                "bawang",
+                "daun bawang",
+                "sos ikan",
+                "bawang putih",
+                "bawang merah",
+                "halia"
+            ]
         }
     },
     {
@@ -2232,7 +2931,19 @@
                     "Tutup api dan hidangkan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "Udang",
+                "bwg merah",
+                "bwg putih",
+                "kunyit hidup",
+                "cilipadi",
+                "garam",
+                "gula",
+                "serai",
+                "santan",
+                "nenas"
+            ]
         }
     },
     {
@@ -2270,6 +2981,18 @@
             },
             "tips_and_guides": [
                 "Jangan terlebih masak kerana sotong akan menjadi keras. Anda boleh menggunakan aluminium foil jika tidak menggunakan daun pisang."
+            ],
+            "main_ingredients": [
+                "sotong",
+                "serai",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "cili kering",
+                "serbuk jintan manis",
+                "serbuk ketumbar",
+                "jintan putih"
             ]
         }
     }

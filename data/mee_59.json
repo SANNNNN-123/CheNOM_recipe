@@ -15,7 +15,7 @@
                     "3-4 ulas bawang putih",
                     "2 biji bawang merah kecil",
                     "3 sb cili kisar",
-                    "2 sb  sos tiram",
+                    "2 sb \u00c2\u00a0sos tiram",
                     "3 sb sos tomato",
                     "1/4 cwn sos cili",
                     "Kicap manis secukupnya",
@@ -48,6 +48,9 @@
             },
             "tips_and_guides": [
                 "Che Nom ketuk pecah batang sawi masa potong tujuannya bila goreng nanti akan mudah lembut dan juga serap bahan-bahan tumisan, takdelah rasa tu plain sangat kan."
+            ],
+            "main_ingredients": [
+                "mi kuning\nbawang putih\nbawang merah\ncili\nsos tiram\nsos tomato\nsos cili\nKicap manis\nkicap pekat karamel\ntelur\ntomato\nserbuk seasoning\nSayur sawi\nTaugeh\nlada sulah\nair\nLimau nipis\nTimun"
             ]
         }
     },
@@ -121,6 +124,25 @@
                 "Api kena besar masa masak char kuey teow baru dapat char tu.",
                 "Kuali jangan basuh lepas masak yang next batch tu, itulah rahsia kesedapan dari kerak-kerak yang garing.",
                 "Kalau sesiapa yang makan potion yang besar, boleh lebihkan sikit kuey teow."
+            ],
+            "main_ingredients": [
+                "gula",
+                "cili",
+                "bawang merah",
+                "serbuk seasoning",
+                "garam",
+                "minyak masak",
+                "udang",
+                "kicap cair",
+                "kicap pekat manis",
+                "sos tiram",
+                "kicap karamel pekat",
+                "pes bawang putih",
+                "kuey teow",
+                "sambal",
+                "telur",
+                "sayur kucai",
+                "taugeh"
             ]
         }
     },
@@ -188,8 +210,38 @@
             },
             "tips_and_guides": [
                 "Kalau guna santan kotak Che Nom suka guna coconut milk bukan cream, 2 kotak dah cukup untuk 1 kilo ikan, Che Nom akan lebihkan air kalau guna santan kotak. Kalau guna santan pekat dari pasar tu guna lah 1 kilo.",
-                "Lepas masuk santan pekat, kerap kacau supaya  santan tak berketul dan kuah kita tak cepat basi.",
+                "Lepas masuk santan pekat, kerap kacau supaya \u00c2\u00a0santan tak berketul dan kuah kita tak cepat basi.",
                 "lepas masuk santan biarkan kuah mereneh anggaran 1/2 jam. Kalau lepas masuk santan mendidih sekejap je dah tutup memang cepatlah basi."
+            ],
+            "main_ingredients": [
+                "ikan selayang",
+                "laksa halus",
+                "asam gelugor",
+                "bawang merah",
+                "bawang putih",
+                "santan",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "kunyit",
+                "serai",
+                "lada hitam",
+                "cili api",
+                "belacan",
+                "daun selasih",
+                "daun limau purut",
+                "garam",
+                "gula",
+                "serbuk perasa",
+                "kacang panjang",
+                "daun laksa",
+                "bunga kantan",
+                "timun",
+                "taugeh",
+                "cili padi",
+                "limau kasturi",
+                "daun selasih"
             ]
         }
     },
@@ -208,7 +260,7 @@
                     "1 pek /450g bihun",
                     "4 biji bawang merah kecil",
                     "4 ulas bawang putih",
-                    "2 sb  udang kering",
+                    "2 sb \u00c2\u00a0udang kering",
                     "6 tangkai cili kering",
                     "1 biji tomato",
                     "1 sk serbuk kunyit",
@@ -243,7 +295,22 @@
                     "Boleh hidang bihun goreng dan tabur telur dan cili potong sebagai hiasan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "bihun",
+                "bawang merah",
+                "bawang putih",
+                "udang kering",
+                "cili kering",
+                "tomato",
+                "serbuk kunyit",
+                "gula",
+                "air asam jawa",
+                "sawi",
+                "garam",
+                "serbuk seasoning",
+                "telur"
+            ]
         }
     },
     {
@@ -309,6 +376,28 @@
                 "Kalau alergik seafood, boleh ganti denga nisi ayam dan daging.",
                 "Kuetiau jangan basuh awal-awal sangat, basuh sebelum gaul dengan kicap takut nanti kembang. Dan jangan basuh beria-ria sangat takut lembut nanti.",
                 "Che Nom bajet air untuk sorang makan biasanya 1 cawan lebih, kalau 3 orang makan, boleh letak 4 atau 4 setengah cawan."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "bawang putih",
+                "udang",
+                "lobak merah",
+                "ikan",
+                "sos tiram",
+                "air",
+                "pati ayam",
+                "serbuk lada sulah",
+                "garam",
+                "air tepung jagung",
+                "sawi",
+                "telur",
+                "daun bawang",
+                "kuetiau",
+                "kicap cair",
+                "kicap pekat karamel",
+                "cili padi",
+                "limau kasturi",
+                "kicap manis"
             ]
         }
     },
@@ -385,6 +474,9 @@
             "tips_and_guides": [
                 "1 pek kuetiau anggaran 3-4 orang makan.",
                 "Kalau seorang makan Che Nom sukat 1 cawan air untuk kuah, kalau 4 orang 4 cawan air lah."
+            ],
+            "main_ingredients": [
+                "kuetiau\nKicap pekat manis\nminyak masak\ntauhu telur\nTepung jagung\nbawang putih\nisi ayam\nserbuk lada putih/hitam\nlobak merah\nCendawan\nfish cake\nsos tiram\nair\nkiub pati ayam\nGaram\ntepung jagung\ntelur\nbrokoli\nDaun bawang\nBawang goreng\nlimau nipis\ncili padi"
             ]
         }
     },
@@ -456,6 +548,35 @@
             "tips_and_guides": [
                 "Che Nom guna coconut cream, kalau guna coconut milk boleh lebihkan sikit sebab coconut milk tu lebih kepada santan asli dan mudah pecah minyak.",
                 "Boleh ganti udang kering dengan udang geragau."
+            ],
+            "main_ingredients": [
+                "ayam",
+                "minyak masak",
+                "Rempah",
+                "daun kari",
+                "halia",
+                "lengkuas",
+                "serai",
+                "bawang putih",
+                "bawang merah",
+                "udang kering",
+                "air",
+                "serbuk kari daging",
+                "cili kisar",
+                "kentang",
+                "asam gelugor",
+                "pati ayam",
+                "Garam",
+                "santan",
+                "Bebola ikan",
+                "Tauhu",
+                "Taugeh",
+                "Sawi",
+                "mee kuning",
+                "Cili merah",
+                "Limau nipis",
+                "Telur",
+                "Bawang goreng"
             ]
         }
     },
@@ -533,7 +654,29 @@
                 ]
             },
             "tips_and_guides": [
-                "Bihun sebelum masak Che Nom dah rendam ½ jam atau sampai lembut kemudian toskan air."
+                "Bihun sebelum masak Che Nom dah rendam \u00c2\u00bd jam atau sampai lembut kemudian toskan air."
+            ],
+            "main_ingredients": [
+                "bawang besar",
+                "bawang putih",
+                "cili kering",
+                "belacan",
+                "minyak masak",
+                "gula perang",
+                "pati ikan bilis",
+                "ikan bilis goreng",
+                "bawang merah kecil",
+                "udang kering",
+                "ikan bilis",
+                "cili kisar",
+                "garam",
+                "gula",
+                "bihun",
+                "sos tomato",
+                "sawi",
+                "serbuk seasoning",
+                "tauhu",
+                "telur"
             ]
         }
     },
@@ -614,6 +757,9 @@
             "tips_and_guides": [
                 "Kuah kalau kurang boleh tambah lagi air.",
                 "Masak goreng bawang putih, tak perlu tunggu panas cukup sekadar suam-suam, kalau panas takut nanti bawang putih cepat hangus."
+            ],
+            "main_ingredients": [
+                "- minyak masak\n- halia\n- bawang putih\n- ayam\n- air\n- daun sup\n- kiub pati ayam\n- garam\n- serbuk lada putih\n- bebola\n- pak choy\n- kuih ikan\n- kuetiau\n- cili padi\n- cili merah\n- bawang merah\n- bawang putih\n- kicap manis"
             ]
         }
     },
@@ -716,9 +862,45 @@
             "tips_and_guides": [
                 "Kalau alergik dengan udang boleh skip udang geragau dalam kuah.",
                 "Kalau nak tau keledek dah empuk, boleh cucuk dengan garfu, kalau lembut sampai ke tengah kira dah masak la tu.",
-                "Kalau nak campur ubi kentang pon boleh, ½ keledek oren dan ½ ubi kentang.",
+                "Kalau nak campur ubi kentang pon boleh, \u00c2\u00bd keledek oren dan \u00c2\u00bd ubi kentang.",
                 "Jangan pakai kuali non-stick untuk goreng cucur udang, nanti adunan tepung tak melekat tepi kuali.",
                 "Kalau nak simpan cucur udang, boleh simpan dalam bekas kedap udara."
+            ],
+            "main_ingredients": [
+                "daging",
+                "air",
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "keledek oren",
+                "cili kisar",
+                "sos tomato",
+                "gelugor",
+                "serbuk kari daging",
+                "gula putih",
+                "gula melaka",
+                "garam",
+                "serbuk perasa",
+                "batang daun sup",
+                "udang geragau",
+                "kacang tanah",
+                "daun sup",
+                "daun bawang",
+                "tauhu",
+                "mi kuning",
+                "limau kasturi",
+                "cili merah",
+                "cili hijau",
+                "bawang goreng",
+                "taugeh",
+                "tepung gandum",
+                "tepung beras",
+                "air bancuhan kapur makan",
+                "garam",
+                "serbuk kunyit",
+                "udang kecil",
+                "tepung jangung"
             ]
         }
     },
@@ -733,7 +915,7 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk Mee  Sup": [
+                "Bahan Untuk Mee \u00c2\u00a0Sup": [
                     "Kubis cina",
                     "Sawi",
                     "Daun sup",
@@ -795,7 +977,7 @@
                     "Tabur daun sup dan bawang goreng sebagai hiasan. Boleh tambah sedikit minyak bawang putih untuk lebih sedap."
                 ],
                 "Untuk Cili Potong": [
-                    "Potong cili padi halus-halus dan perah  jus limau.",
+                    "Potong cili padi halus-halus dan perah \u00c2\u00a0jus limau.",
                     "Masukkan kicap dan kacau sebati.",
                     "Sedia untuk dihidang."
                 ]
@@ -804,6 +986,33 @@
                 "Boleh adjust nak tambah isi apa, nak tambah seafood macam udang atau sotong pon boleh.",
                 "Kalau tak nak mee kuning putus-putus, masa celur jangan kacau atau leraikan, biarkan mee terlerai sendiri.",
                 "Lepas celur mee, bilas dengan air sejuk untuk hilangkan bau kapur dan hentikan proses masak, mee tak la lembik sangat bila makan nanti."
+            ],
+            "main_ingredients": [
+                "Kubis cina",
+                "Sawi",
+                "Daun sup",
+                "Cili padi",
+                "Mee kuning",
+                "Serbuk lada sulah",
+                "Serbuk lada hitam",
+                "Pati ayam",
+                "Ayam",
+                "Telur ayam",
+                "Bawang besar",
+                "Bawang putih",
+                "Halia",
+                "Ikan & kek ikan",
+                "Lobak merah",
+                "Garam",
+                "Serbuk ketumbar",
+                "Serbuk jintan putih",
+                "Serbuk jintan manis",
+                "Kayu manis",
+                "Bunga lawang",
+                "Cengkih",
+                "Rempah sup",
+                "Limau",
+                "Kicap pekat manis"
             ]
         }
     },
@@ -822,7 +1031,7 @@
                     "2 ketul isi ayam",
                     "1 pek/400g bihun",
                     "3-5 ulas bawang putih",
-                    "1 pek  bebola ikan",
+                    "1 pek \u00c2\u00a0bebola ikan",
                     "2-3 sb cili kisar",
                     "2 sb sos tiram",
                     "2 sb kicap cair",
@@ -870,6 +1079,9 @@
                 "Che Nom tak suka batang sawi yang keras dan rasa mentah, sebab tu Che Nom tekan pecah sebelum potong.",
                 "Che Nom tak celur bihun dalam air panas sebab risiko bihun terlalu lembik sangat tinggi.",
                 "Untuk resepi ni Che Nom tak guna telur, tapi kalau nak boleh goreng telur dadar dan hiris halus. Tabur hirisan telur masa hidangkan bihun"
+            ],
+            "main_ingredients": [
+                "ketul ayam\nbihun\nbawang putih\nbebola ikan\ncili kisar\nsos tiram\nkicap cair\nkiub pati ayam\nminyak bijan\nKicap manis\nKicap pekat karamel\nserbuk lada sulah\nsawi\nkubis\ngaram\ndaun bawang\ncili merah\ncili padi"
             ]
         }
     },
@@ -931,7 +1143,28 @@
                 "Untuk cendawan shitake kalau takda yang segar boleh guna yang kering tapi kena rendam dulu sampai lembut anggaran 5-6 jam.",
                 "Boleh kurangkan separuh cili kering kalau tak suka pedas.",
                 "Untuk kurangkan hanyir ayam, boleh masak ayam dengan bahan tumisan anggaran 2-3 minit sebelum tuang masuk air. Rasa dia akan lebih sedap dari masukkan terus dalam sizzling.",
-                "Seeloknya letak  minyak bijan akhir sekali.  Minyak bijan dapat naikkan bau dan aroma kuah sizzling."
+                "Seeloknya letak \u00c2\u00a0minyak bijan akhir sekali. \u00c2\u00a0Minyak bijan dapat naikkan bau dan aroma kuah sizzling."
+            ],
+            "main_ingredients": [
+                "halia",
+                "minyak masak",
+                "bawang putih",
+                "cili kering",
+                "ayam",
+                "serbuk lada hitam",
+                "serbuk lada sulah",
+                "air",
+                "kiub ayam",
+                "kicap manis",
+                "sos tiram",
+                "kicap cair",
+                "kicap pekat karamel",
+                "cendawan shitake",
+                "tepung jagung",
+                "minyak bijan",
+                "Yee Mee kering",
+                "sayur bok choy",
+                "telur"
             ]
         }
     },
@@ -1011,6 +1244,36 @@
             "tips_and_guides": [
                 "Selepas celur, bilas maggi dengan air sejuk untuk hentikan proses masak barulah maggi tak kembang.",
                 "Masak sotong dalam kuali panas tanpa minyak macam goreng tanpa minyak. Cara ni dapat elak sotong terlebih masak dan liat."
+            ],
+            "main_ingredients": [
+                "udang",
+                "maggi kering",
+                "bawang merah",
+                "bawang putih",
+                "sotong",
+                "lada putih",
+                "minyak masak",
+                "cili kisar",
+                "ayam",
+                "sos tiram",
+                "sos cili",
+                "sos tomato",
+                "lobak merah",
+                "bebola ikan",
+                "air rebusan udang",
+                "air putih",
+                "kicap pekat manis",
+                "sayur jagung",
+                "kiub pati ayam",
+                "garam",
+                "lada hitam",
+                "tepung jagung",
+                "tomato",
+                "sayur brokoli",
+                "cili padi",
+                "daun sup",
+                "bawang goreng",
+                "limau nipis"
             ]
         }
     },
@@ -1059,6 +1322,18 @@
             "tips_and_guides": [
                 "Batang sawi Che Nom tekan biar pecah kemudian baru potong, supaya bila masak bahan tumisan meresap kedalam batang dan tak rasa tawar bila makan.",
                 "Selepas celur maggi, angkat dan bilas dengan air paip cepat-cepat sebab tak nak maggi kembang."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "Daun sawi",
+                "tomato",
+                "telur",
+                "bawang besar",
+                "sambal nyet",
+                "perencah maggi",
+                "sos cili",
+                "kicap manis",
+                "maggi"
             ]
         }
     },
@@ -1085,7 +1360,7 @@
                     "4 ekor sotong",
                     "Serbuk parsley kering",
                     "Daun parsley segar",
-                    "Sedikit air  pasta",
+                    "Sedikit air \u00c2\u00a0pasta",
                     "Garam secukup rasa",
                     "1/2 - 1 ketul kiub ayam",
                     "Serbuk parmesan"
@@ -1119,6 +1394,23 @@
                 "Untuk rebus spaghetti gunakan periuk yang besar dan tinggi sebab kita akan guna air yang banyak.",
                 "Semasa masak Che Nom keluarkan udang sebab takut terlebih masak. Boleh biarkan kalau renyah.",
                 "Masukkan sotong lambat sikit sebab takut sotong jadi liat bila masak lama."
+            ],
+            "main_ingredients": [
+                "Minyak zaitun",
+                "bawang putih",
+                "udang",
+                "Chilli flakes",
+                "Serbuk lada hitam",
+                "tomato ceri",
+                "serbuk lada sulah",
+                "spaghetti rebus",
+                "sotong",
+                "serbuk parsley kering",
+                "daun parsley segar",
+                "air \u00c2\u00a0pasta",
+                "Garam",
+                "kiub ayam",
+                "serbuk parmesan"
             ]
         }
     },
@@ -1210,6 +1502,46 @@
             "tips_and_guides": [
                 "Cara potong timun adalah buang kulit timun, potong lebih kurang 2 inci dan potong nipis membulat sehingga ke biji timun seperti potongan membuang kulit. Gulung timun dan potong hiris membulat.",
                 "Selepas toskan air spaghetti, gaul spaghetti dengan sedikit minyak bagi mengelakkan melekat."
+            ],
+            "main_ingredients": [
+                "ikan parang",
+                "ikan selayang",
+                "air",
+                "minyak masak",
+                "serbuk kari",
+                "air rebusan kulit udang",
+                "asam gelugor",
+                "kerisik",
+                "santan kotak",
+                "kantan",
+                "daun kesum",
+                "garam",
+                "MSG",
+                "bunga kantan",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "udang kering",
+                "ikan masin kurau",
+                "serai",
+                "cili kering",
+                "isi udang segar",
+                "cili merah besar",
+                "cili padi merah",
+                "belacan bakar",
+                "jus limau kasturi",
+                "Garam",
+                "Gula",
+                "Bawang merah besar",
+                "Kacang panjang",
+                "Timun",
+                "Daun kesum",
+                "Daun selasih",
+                "Bunga kantan",
+                "Taugeh",
+                "Limau kasturi",
+                "Lobak masin"
             ]
         }
     },
@@ -1267,6 +1599,26 @@
                 "Che Nom tambah lada sulah untuk hilangkan bau hanyir telur.",
                 "Kalau nak masak daging tapi tak nak rebus, boleh ganti dengan daging bahagian potongan yang mahal (batang pinang atau sirloin).",
                 "Jangan goreng mee terlalu lama takut terlebih kembang atau kering nanti."
+            ],
+            "main_ingredients": [
+                "daging",
+                "air",
+                "minyak masak",
+                "bawang putih",
+                "bawang merah",
+                "cili kisar",
+                "kicap manis",
+                "sos tiram",
+                "sos cili",
+                "sos tomato",
+                "telur",
+                "lada sulah",
+                "sayur sawi",
+                "mi kuning",
+                "tomato",
+                "taugeh",
+                "daun bawang",
+                "cili merah"
             ]
         }
     },
@@ -1334,14 +1686,41 @@
                     "Masukkan air rebusan udang dan air udang kisar tadi dan reneh dalam 10 minit.",
                     "Masukkan pes tomyam, puri kentang dan keledek. Tambah air secukupnya dan reneh lagi 15 minit.",
                     "Masukkan gula, garam dan kiub ayam (pilihan) kemudian masak sampai mendidih.",
-                    "Masukkan udang dan rebus sampai masak kemudian cepat – cepat angkat (takut  udang terlebih masak dan keras).",
-                    "Hidangkan bersama bahan celur tadi,  tauhu goreng, hirisan cili, telur rebus, daun bawang, bawang goreng, limau nipis dan udang."
+                    "Masukkan udang dan rebus sampai masak kemudian cepat \u00e2\u20ac\u201c cepat angkat (takut \u00c2\u00a0udang terlebih masak dan keras).",
+                    "Hidangkan bersama bahan celur tadi, \u00c2\u00a0tauhu goreng, hirisan cili, telur rebus, daun bawang, bawang goreng, limau nipis dan udang."
                 ]
             },
             "tips_and_guides": [
                 "Untuk celur tauge, air tak perlu mendidih, kalau mendidih celur sekejap saja untuk maintain rangup",
                 "Tambah garam dalam air celur untuk bagi daun sawi maintain hijau lepas rebus.",
                 "Kalau terlebih lama celur mee kuning, mee akan kering jadi boleh drizzle sedikit minyak masak untuk elak melekat."
+            ],
+            "main_ingredients": [
+                "sb sos cili",
+                "ulas bawang putih",
+                "biji bawang merah",
+                "sb sos tomato",
+                "sb pes tomyam",
+                "sb cili kisar",
+                "sb serbuk kacang tanah",
+                "biji kentang",
+                "biji keledek oren",
+                "ekor udang",
+                "Air",
+                "Garam",
+                "gula",
+                "ketul kiub pati ayam",
+                "udang saiz XL",
+                "sb udang kering",
+                "pek mee kuning",
+                "ikat sawi",
+                "mangkuk taugeh",
+                "Daun bawang",
+                "Cili merah & hijau",
+                "biji telur rebus",
+                "ketul tauhu",
+                "Bawang goreng",
+                "Limau nipis"
             ]
         }
     },
@@ -1360,7 +1739,7 @@
                     "2 bungkus mee segera Kari",
                     "3 sudu besar minyak masak",
                     "3 ulas bawang putih",
-                    "1 ½ sudu besar cili kisar",
+                    "1 \u00c2\u00bd sudu besar cili kisar",
                     "1 ketul isi ayam",
                     "1 sudu kecil serbuk lada putih",
                     "2 sudu besar sos cili",
@@ -1396,6 +1775,26 @@
             },
             "tips_and_guides": [
                 "Bilas maggi dengan air sejuk selepas celur (untuk stop proses masak) supaya maggi tak terlalu kembang bila goreng."
+            ],
+            "main_ingredients": [
+                "mee segera",
+                "minyak masak",
+                "bawang putih",
+                "cili kisar",
+                "ayam",
+                "serbuk lada putih",
+                "sos cili",
+                "sos tomato",
+                "sos tiram",
+                "udang",
+                "sayur sawi",
+                "kubis cina",
+                "air",
+                "kicap",
+                "tomato",
+                "cili padi",
+                "daun bawang",
+                "limau nipis"
             ]
         }
     },
@@ -1476,6 +1875,32 @@
             },
             "tips_and_guides": [
                 "Rendam bihun dalam air sejuk selama sejam atau sampai lembut, Che Nom kurang suka celur air panas, takut mudah lembik bila goreng."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "udang kering",
+                "ikan bilis",
+                "isi ayam",
+                "serbuk lada hitam",
+                "serbuk lada putih",
+                "kek ikan",
+                "kiub pati ayam",
+                "udang",
+                "bihun",
+                "lobak merah",
+                "kicap cair",
+                "kobis",
+                "gula",
+                "garam",
+                "kuchai",
+                "tauhu",
+                "bawang besar",
+                "cili padi",
+                "limau nipis",
+                "tepung jagung",
+                "air"
             ]
         }
     },
@@ -1524,6 +1949,25 @@
                 "Cili padi, Che Nom biasanya belah hujung sikit tak nak pedas sangat bila masak.",
                 "Boleh ganti sayur bok choy, kobis cina atau bayam.",
                 "Boleh ganti sotong dan udang dengan ayam, daging atau bebola."
+            ],
+            "main_ingredients": [
+                "mee",
+                "minyak masak",
+                "bawang putih",
+                "bawang merah",
+                "sawi",
+                "karot",
+                "serbuk kari",
+                "serbuk cili",
+                "sos cili",
+                "sos tomato",
+                "sos tiram",
+                "udang",
+                "sotong",
+                "air",
+                "cili padi",
+                "tomato",
+                "limau nipis"
             ]
         }
     },
@@ -1551,9 +1995,9 @@
                 ],
                 "Bahan Lain": [
                     "Sayur taugeh",
-                    "¼ cawan minyak masak",
+                    "\u00c2\u00bc cawan minyak masak",
                     "1 sudu besar serbuk kari",
-                    "½ cawan air rebusan daging",
+                    "\u00c2\u00bd cawan air rebusan daging",
                     "Sayur sawi",
                     "3-4 sudu besar sos cili",
                     "3-4 sudu besar kicap manis",
@@ -1599,6 +2043,34 @@
                 "Rebus daging dalam anggaran masa  jam.",
                 "Tambah air rebusan daging jika mahu mee yang lebih basah atau berkuah.",
                 "Cucur udang juga sesuai untuk dijadikan tambahan hidangan bersama mee goreng ala mamak."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "cili kering",
+                "udang geragau",
+                "kacang tanah",
+                "minyak masak",
+                "taugeh",
+                "kari",
+                "air rebusan daging",
+                "sawi",
+                "sos cili",
+                "kicap manis",
+                "kicap cair",
+                "sos tiram",
+                "lada sulah",
+                "tomato",
+                "kentang rebus",
+                "garam",
+                "mee kuning",
+                "kicap pekat karamel",
+                "telur",
+                "perahan limau nipis",
+                "daun bawang",
+                "cili merah",
+                "limau nipis",
+                "bawang goreng"
             ]
         }
     },
@@ -1681,6 +2153,9 @@
                 "Rendam sayur sawi dan daun sup sebelum potong supaya sayur segar balik.",
                 "Rendam bihun  jam sebelum rebus supaya bihun lebih cepat lembut.",
                 "Rebus sup bersama tulang ayam supaya sup lebih sedap."
+            ],
+            "main_ingredients": [
+                "- Sayur sawi\n- Bawang putih\n- Bawang merah\n- Ayam\n- Serbuk black pepper\n- Serbuk lada sulah\n- Lobak merah\n- Jagung\n- Cili padi\n- Sotong\n- Sos tiram\n- Air\n- Kiub pati ayam\n- Udang\n- Garam\n- Telur\n- Daun sup\n- Jus limau nipis\n- Bihun\n- Bawang goreng\n- Cili merah\n- Belacan\n- Kicap ABC\n- Kicap manis Kipas Udang\n- Minyak\n- Gula"
             ]
         }
     },
@@ -1708,9 +2183,9 @@
                 ],
                 "Bahan Lain": [
                     "Sayur taugeh",
-                    "¼ cawan minyak masak",
+                    "\u00c2\u00bc cawan minyak masak",
                     "1 sudu besar serbuk kari",
-                    "½ cawan air rebusan daging",
+                    "\u00c2\u00bd cawan air rebusan daging",
                     "Sayur sawi",
                     "3-4 sudu besar sos cili",
                     "3-4 sudu besar kicap manis",
@@ -1752,10 +2227,37 @@
             "tips_and_guides": [
                 "Jika tiada udang geragau, boleh digantikan dengan udang kering sahaja.",
                 "Selepas potong batang sawi, tekan atau ketuk sedikit batang sawi supaya mudah lembut dan mudah meresap rencah tumis apabila dimasak.",
-                "Selain daripada merebus  kentang, ubi kentang juga boleh digoreng namun tekstur kentang akan lebih keras dan susah untuk hancur ketika digoreng berbanding dengan rebus.",
+                "Selain daripada merebus \u00c2\u00a0kentang, ubi kentang juga boleh digoreng namun tekstur kentang akan lebih keras dan susah untuk hancur ketika digoreng berbanding dengan rebus.",
                 "Rebus daging dalam anggaran masa  jam.",
                 "Tambah air rebusan daging jika mahu mee yang lebih basah atau berkuah.",
                 "Cucur udang juga sesuai untuk dijadikan tambahan hidangan bersama mee goreng ala mamak."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "cili kering",
+                "cili kisar",
+                "udang geragau",
+                "kacang tanah",
+                "minyak masak",
+                "taugeh",
+                "serbuk kari",
+                "air rebusan daging",
+                "sayur sawi",
+                "sos cili",
+                "kicap manis",
+                "kicap cair",
+                "sos tiram",
+                "serbuk lada sulah",
+                "tomato",
+                "kentang",
+                "mee kuning",
+                "kicap pekat karamel",
+                "telur",
+                "limau nipis",
+                "daun bawang",
+                "cili merah",
+                "bawang goreng."
             ]
         }
     },
@@ -1782,25 +2284,25 @@
                     "batang sup",
                     "1 kiub pati lembu",
                     "1 sudu kecil serbuk ketumbar",
-                    "½ sudu kecil serbuk jintan putih",
-                    "½ sudu kecil serbuk jintan manis",
+                    "\u00c2\u00bd sudu kecil serbuk jintan putih",
+                    "\u00c2\u00bd sudu kecil serbuk jintan manis",
                     "2-3 sudu besar sos ikan",
                     "600g daging rebus",
                     "sedikit gula atau nisan",
                     "garam secukup rasa",
-                    "½ sudu kecil serbuk lada putih",
+                    "\u00c2\u00bd sudu kecil serbuk lada putih",
                     "1-2 sudu besar kicap manis",
                     "1-2 sudu besar minyak bawang putih",
                     "taburan daun ketumbar"
                 ],
                 "Bahan Untuk Minyak Bawang Putih Rangup": [
                     "20-25 biji bawang putih",
-                    "½ - 1 cawan minyak masak"
+                    "\u00c2\u00bd - 1 cawan minyak masak"
                 ],
                 "Bahan Untuk Sambal Lada": [
                     "4 biji cili merah",
                     "4-6 biji cili padi merah",
-                    "¼ cawan cuka",
+                    "\u00c2\u00bc cawan cuka",
                     "1 sudu besar gula",
                     "sedikit garam"
                 ],
@@ -1851,8 +2353,51 @@
             "tips_and_guides": [
                 "Guna api sederhana dan pastikan kerap menggaul bawang putih yang digoreng bagi mengelakkan hangus.",
                 "Jika menggunakan stok rebusan tulang, tidak perlu lagi tambah kiub pati lembu kedalamnya.",
-                "Jika mahu menggantikan  rempah serbuk, boleh digantikan dengan rempah  sup.",
+                "Jika mahu menggantikan \u00c2\u00a0rempah serbuk, boleh digantikan dengan rempah \u00c2\u00a0sup.",
                 "Condiment yang boleh ditambah kedalam mee celop untuk menjadi lebih sedap ialah ikan bilis goreng dan cili jeruk."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "bawang merah",
+                "halia",
+                "rempah (kayu manis",
+                "kumtum bunga lawang",
+                "kuntum cengkih",
+                "buah pelaga)",
+                "serai",
+                "air rebusan daging",
+                "bunjut",
+                "ketumbar",
+                "batang sup",
+                "kiub pati lembu",
+                "serbuk ketumbar",
+                "serbuk jintan putih",
+                "serbuk jintan manis",
+                "sos ikan",
+                "daging rebus",
+                "gula",
+                "garam",
+                "serbuk lada putih",
+                "kicap manis",
+                "minyak bawang putih",
+                "daun ketumbar",
+                "bawang putih",
+                "minyak masak",
+                "cili merah",
+                "cili padi merah",
+                "cuka",
+                "gula",
+                "garam",
+                "serbuk cili",
+                "daun sup",
+                "mee/kueyteow/maggi/bihun",
+                "kangkung",
+                "taugeh",
+                "lobak masin",
+                "bawang goreng",
+                "serbuk kacang tanah",
+                "serbuk lada putih",
+                "limau nipis"
             ]
         }
     },
@@ -1889,6 +2434,10 @@
                 "Jika tidak mahu letakkan udang, ia boleh digantikan dengan sotong.",
                 "Jika sudah ada bawang goreng yang dibeli siap, tidak perlu lagi untuk menggoreng bawang bagi langkah ketiga untuk kuah mee bandung.",
                 "Ketika memasukkan telur kedalam kuah, elakkan telur daripada dikacau untuk mengelak telur menjadi hancur dan kuantiti telur bergantung kepada beberapa orang makan."
+            ],
+            "main_ingredients": [
+                "I'm sorry",
+                "but I need more information or context to provide you with a list of main ingredients. Could you please specify a recipe or dish?"
             ]
         }
     },
@@ -1907,17 +2456,17 @@
                     "3 biji bawang merah kecil",
                     "4 ulas bawang putih",
                     "6 tangkai cili padi",
-                    "1 sudu besar  udang kering"
+                    "1 sudu besar \u00c2\u00a0udang kering"
                 ],
                 "Bahan Lain": [
-                    "½ cawan minyak masak",
+                    "\u00c2\u00bd cawan minyak masak",
                     "1 mangkuk hirisan isi ayam",
                     "3 sudu besar pes tomyam",
                     "3-4 sudu besar sos cili",
                     "3 sudu besar sos tomato",
                     "2 sudu besar sos tiram",
                     "3 keping kek ikan",
-                    "½ batang karot",
+                    "\u00c2\u00bd batang karot",
                     "1 ikat sayur sawi",
                     "8-10 ekor udang",
                     "sedikit air (jika perlu)",
@@ -1928,7 +2477,7 @@
                     "garam secukup rasa",
                     "1 pokok sayur ketumbar (batang)",
                     "1 mangkuk taugeh",
-                    "sedikit perahan limau nipis (½ - 1 biji)",
+                    "sedikit perahan limau nipis (\u00c2\u00bd - 1 biji)",
                     "sedikit gula"
                 ],
                 "Bahan Untuk Hiasan": [
@@ -1955,6 +2504,35 @@
             "tips_and_guides": [
                 "Jika tiada pes tomyam, ia boleh digantikan dengan kiub tomyam.",
                 "Kalau bihun masih keras, tambahkan air sedikit masa menggoreng sehinggalah bihun menjadi lembut."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "cili padi",
+                "udang kering",
+                "minyak masak",
+                "isi ayam",
+                "pes tomyam",
+                "sos cili",
+                "sos tomato",
+                "sos tiram",
+                "kek ikan",
+                "karot",
+                "sayur sawi",
+                "udang",
+                "air",
+                "daun limau purut",
+                "bihun",
+                "serai",
+                "sos ikan",
+                "garam",
+                "sayur ketumbar",
+                "taugeh",
+                "limau nipis",
+                "gula",
+                "daun ketumbar",
+                "telur rebus",
+                "cili merah"
             ]
         }
     },
@@ -1980,15 +2558,15 @@
                     "Batang/pangkal daun bawang",
                     "2 inci halia",
                     "1 bungkus sup bunjut",
-                    "½ sudu besar serbuk jintan manis",
-                    "½ sudu besar serbuk jintan putih",
-                    "1 ½ sudu besar serbuk ketumbar",
-                    "½ sudu besar serbuk lada hitam",
+                    "\u00c2\u00bd sudu besar serbuk jintan manis",
+                    "\u00c2\u00bd sudu besar serbuk jintan putih",
+                    "1 \u00c2\u00bd sudu besar serbuk ketumbar",
+                    "\u00c2\u00bd sudu besar serbuk lada hitam",
                     "1 batang serai",
                     "Air secukupnya",
                     "Garam, secukup rasa",
                     "1 sudu kecil lada sulah",
-                    "½ kiub pati lembu/ayam",
+                    "\u00c2\u00bd kiub pati lembu/ayam",
                     "Bahan-bahan untuk rempah 4 sekawan",
                     "batang kayu manis",
                     "3 kuntum cengkih",
@@ -1997,14 +2575,14 @@
                 ],
                 "Bahan Untuk Bihun": [
                     "1 pek / 500g bihun",
-                    "½ sudu kecil serbuk kunyit"
+                    "\u00c2\u00bd sudu kecil serbuk kunyit"
                 ],
                 "Bahan Untuk Sambal Merah": [
-                    "½ cawan minyak masak",
+                    "\u00c2\u00bd cawan minyak masak",
                     "4-5 sudu besar cili kisar",
                     "2 sudu besar serbuk cili",
                     "2 sudu besar sos cili",
-                    "½ cawan air asam jawa",
+                    "\u00c2\u00bd cawan air asam jawa",
                     "garam, secukup rasa",
                     "Anggaran 2 sudu besar gula"
                 ],
@@ -2023,7 +2601,7 @@
                     "Selepas sup sudah mula mendidih, letakkan garam secukup rasa, lada sulah dan kiub pati lembu/ayam."
                 ],
                 "Untuk Bihun": [
-                    "Rendam bihun didalam air yang dimasak lalu masukkan ½ sudu serbuk kunyit dan biarkan sehingga bihun menjadi lembut.",
+                    "Rendam bihun didalam air yang dimasak lalu masukkan \u00c2\u00bd sudu serbuk kunyit dan biarkan sehingga bihun menjadi lembut.",
                     "Kemudian, toskan air dan bilas bihun dengan air sejuk agar proses pemanasan bihun berhenti."
                 ],
                 "Untuk Sambal Merah": [
@@ -2036,6 +2614,38 @@
                 "Pilihan daging untuk dibuat sup lebih sedap dan lembut pada bahagian urat jika nak dibandingkan dengan bahagian batang pinang.",
                 "Jika menggunakan pressure cooker, anggaran masa untuk merebus sup adalah selama 40-60 minit untuk daging menjadi lembut.",
                 "Sotong kering atau sedikit belacan boleh dicampurkan sekali di dalam sambal merah jika mahu."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "tulang lembu",
+                "isi daging",
+                "sup bunjut",
+                "serbuk jintan manis",
+                "serbuk jintan putih",
+                "serbuk ketumbar",
+                "serbuk lada hitam",
+                "halia",
+                "serai",
+                "kiub pati lembu/ayam",
+                "rempah 4 sekawan",
+                "kayu manis",
+                "cengkih",
+                "pelaga",
+                "bunga lawang",
+                "bihun",
+                "serbuk kunyit",
+                "minyak masak",
+                "cili kisar",
+                "serbuk cili",
+                "sos cili",
+                "air asam jawa",
+                "gula",
+                "lobak masin",
+                "limau nipis",
+                "daun sup",
+                "daun bawang",
+                "bawang goreng"
             ]
         }
     },
@@ -2050,7 +2660,7 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk  Kuah Kung Fu": [
+                "Bahan Untuk \u00c2\u00a0Kuah Kung Fu": [
                     "3 sudu besar minyak masak",
                     "3 ulas bawang putih",
                     "1 ketul isi ayam",
@@ -2113,6 +2723,29 @@
                 "Sotong masukkan last sekali dan tak nak masak lama sebab nanti sotong jadi keras dan liat.",
                 "Tepung jagung tak boleh masuk terus, bancuh dulu sebab takut kuah berketul.",
                 "Satu bungkus kuey teow anggaran 6 cawan air untuk 4 orang makan dan seorang dlm satu cawan lebih. Agak-agak kalau anda masak dlm kuantiti berlainan."
+            ],
+            "main_ingredients": [
+                "minyak masak",
+                "bawang putih",
+                "isi ayam",
+                "lada sulah",
+                "lobak merah",
+                "udang",
+                "kek ikan",
+                "bebola ikan",
+                "sayur jagung muda",
+                "sotong",
+                "air",
+                "kiub ayam",
+                "tepung jagung",
+                "cili padi",
+                "sayur pak choy",
+                "tomato",
+                "garam",
+                "daun bawang",
+                "bawang goreng",
+                "kuey teow",
+                "telur"
             ]
         }
     },
@@ -2127,8 +2760,8 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk Stok Rebusan  UdangMi goreng": [
-                    "Kulit  udang",
+                "Bahan Untuk Stok Rebusan \u00c2\u00a0UdangMi goreng": [
+                    "Kulit \u00c2\u00a0udang",
                     "2-3 cawan air",
                     "1 ulas bawang putih"
                 ],
@@ -2170,6 +2803,24 @@
             "tips_and_guides": [
                 "Tujuan tekan batang sawi bagi pecah sebab batang sawi akan serap kuah tumisan jadi lembut dan lebih sedap.",
                 "Tip untuk mee tak mudah kembang, basuh dan tos je, jangan celur dengan air panas, jika tidak mee cepat lembik bila masak."
+            ],
+            "main_ingredients": [
+                "Kulit \u00c2\u00a0udang",
+                "bawang putih",
+                "sayur sawi (daun)",
+                "minyak masak",
+                "cili kisar",
+                "kicap",
+                "sos cili",
+                "sos tiram",
+                "udang",
+                "sayur sawi (batang)",
+                "kek ikan",
+                "mi goreng",
+                "lada sulah",
+                "mee kuning",
+                "tomato",
+                "taugeh."
             ]
         }
     },
@@ -2188,12 +2839,12 @@
                     "Bihun goreng",
                     "4 biji bawang merah",
                     "3 ulas bawang putih",
-                    "1 sudu besar  udang kering"
+                    "1 sudu besar \u00c2\u00a0udang kering"
                 ],
                 "Bahan Untuk Lain": [
                     "1 ketul isi ayam",
                     "1 ketul kiub ikan bilis",
-                    "1/2 cawan  minyak masak",
+                    "1/2 cawan \u00c2\u00a0minyak masak",
                     "2 sudu besar cili kisar",
                     "3 keping fish cake",
                     "3-4 sudu besar sos cili",
@@ -2235,6 +2886,27 @@
             },
             "tips_and_guides": [
                 "Jangan masak taugeh lama sangat, sebab kita nak rasa crunchy sikit masa makan."
+            ],
+            "main_ingredients": [
+                "Bihun",
+                "bawang merah",
+                "bawang putih",
+                "udang kering",
+                "ayam",
+                "ikan bilis",
+                "minyak masak",
+                "cili kisar",
+                "fish cake",
+                "sos cili",
+                "sos tiram",
+                "kicap manis",
+                "garam",
+                "serbuk lada sulah",
+                "sayur sawi",
+                "tomato",
+                "taugeh",
+                "cili merah",
+                "daun bawang"
             ]
         }
     },
@@ -2250,19 +2922,19 @@
             "hidangan": "? orang",
             "ingredients": {
                 "Bahan Utama": [
-                    "2 pek maggi  Kari (ambil satu bungkus perencah sahaja)",
-                    "sedikit  minyak masak",
+                    "2 pek maggi \u00c2\u00a0Kari (ambil satu bungkus perencah sahaja)",
+                    "sedikit \u00c2\u00a0minyak masak",
                     "2 ulas bawang putih",
-                    "¼ biji bawang besar",
+                    "\u00c2\u00bc biji bawang besar",
                     "2 biji telur",
                     "1 ikat sayur sawi",
-                    "½ batang lobak merah",
+                    "\u00c2\u00bd batang lobak merah",
                     "sayur kobis",
                     "4 biji cili padi (tumbuk kasar)",
                     "2-3 sudu besar sos tomato",
                     "2-3 sudu besar sos cili",
                     "1-2 sudu besar kicap manis",
-                    "½ biji tomato",
+                    "\u00c2\u00bd biji tomato",
                     "limau nipis atau limau kasturi (untuk hidangan)"
                 ]
             },
@@ -2283,7 +2955,23 @@
                     "Kacau sehingga semua bahan sekata."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "Maggi Kari",
+                "minyak masak",
+                "bawang putih",
+                "bawang besar",
+                "telur",
+                "sayur sawi",
+                "lobak merah",
+                "sayur kobis",
+                "cili padi",
+                "sos tomato",
+                "sos cili",
+                "kicap manis",
+                "tomato",
+                "limau nipis/limau kasturi"
+            ]
         }
     },
     {
@@ -2328,6 +3016,9 @@
             "tips_and_guides": [
                 "Char kuey teow perlu masak asing-asing untuk sorang makan baru sedap.",
                 "Tambah lebih air atau sos char kuey teow kalau nak lebih kuah."
+            ],
+            "main_ingredients": [
+                "Could you please provide me with the list of ingredients so that I can extract the main ingredient names for you?"
             ]
         }
     },
@@ -2362,6 +3053,10 @@
             },
             "tips_and_guides": [
                 "Kulit udang jangan dibuang, boleh direbus untuk stock air rebusan udang."
+            ],
+            "main_ingredients": [
+                "I'm sorry",
+                "but I cannot provide a list of main ingredients without knowing what recipe or dish you are referring to. Can you please provide more context or specify the recipe you are interested in?"
             ]
         }
     },
@@ -2434,9 +3129,37 @@
             },
             "tips_and_guides": [
                 "Bihun jangan direbus sehingga lembut sangat kerana takut nanti lembik bila kita hidangkan bersama kuah sup yang panas. Boleh ganti kunyit dengan pewarna kuning jika suka",
-                "Boleh juga gunakan sup bunjut biasa, tapi anda perlu tambah 1 batang kayu manis, 2 kuntum bunga lawang, 4 biji buah pelaga dan beberapa tangkai bunga cengkih untuk bagi  sup lebih sedap dan kuat rasa  rempahnya.",
+                "Boleh juga gunakan sup bunjut biasa, tapi anda perlu tambah 1 batang kayu manis, 2 kuntum bunga lawang, 4 biji buah pelaga dan beberapa tangkai bunga cengkih untuk bagi \u00c2\u00a0sup lebih sedap dan kuat rasa \u00c2\u00a0rempahnya.",
                 "Lobak masin harus direbus atau celur sekejap kerana jika tidak rasanya terlalu masin.",
                 "Untuk sambal merah, Che Nom tak letakkan bawang kerana ini versi yang cepat dan mudah tapi tetap sedap rasanya. Anda boleh letak bawang jika suka."
+            ],
+            "main_ingredients": [
+                "bi hun kering",
+                "serbuk kunyit",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "ayam",
+                "minyak",
+                "rempah sup bunjut tulang Adabi",
+                "serai",
+                "daun sup",
+                "lada hitam",
+                "serbuk lada sulah",
+                "kiub ayam",
+                "minyak",
+                "serbuk cili",
+                "cili kisar",
+                "air asam jawa",
+                "sos cili",
+                "gula putih",
+                "gula melaka",
+                "garam",
+                "daun sup",
+                "daun bawang",
+                "bawang goreng",
+                "lobak masin",
+                "limau nipis."
             ]
         }
     },
@@ -2460,7 +3183,7 @@
                     "sedikit minyak masak",
                     "bahan-bahan kisar halus (atas)",
                     "1-2 sudu besar cili kisar",
-                    "2 keping  fish cake, hiris nipis",
+                    "2 keping \u00c2\u00a0fish cake, hiris nipis",
                     "2 sudu besar sos cili",
                     "1 sudu besar sos tiram",
                     "2 sudu besar kicap pekat/ caramel",
@@ -2501,6 +3224,28 @@
                 "Kuey Teow haruslah digoreng di atas api yang besar supaya tak mudah lembik dan sedap rasanya.",
                 "Boleh tuang sedikit minyak atas telur yang dipecahkan supaya kuey teow goreng tak lembik dan telur hancur dan sedikit \"garing\".",
                 "Bila dah masukkan kuchai, jangan goreng lama sangat nanti sayur kuchai jadi liat."
+            ],
+            "main_ingredients": [
+                "bawang putih",
+                "bawang merah",
+                "ikan bilis",
+                "minyak masak",
+                "cili kisar",
+                "fish cake",
+                "sos cili",
+                "sos tiram",
+                "kicap pekat",
+                "sos ikan",
+                "udang",
+                "air",
+                "serbuk lada sulah",
+                "kuey teow",
+                "telur",
+                "taugeh",
+                "daun kucai",
+                "cili padi",
+                "kicap manis",
+                "jus limau nipis."
             ]
         }
     },
@@ -2567,6 +3312,32 @@
                 "Serbuk lada sulah sangat penting untuk menghilangkan bau hanyir jika ada.",
                 "Sotong dimasukkan akhir supaya isinya tidak liat.",
                 "Kalau kurang masin, boleh tambah garam secukup rasa."
+            ],
+            "main_ingredients": [
+                "mee kuning",
+                "minyak",
+                "bawang putih",
+                "bawang merah",
+                "cili",
+                "ayam",
+                "serbuk lada sulah",
+                "karot",
+                "fishcake",
+                "air",
+                "sos tomato",
+                "sos cili",
+                "sos tiram",
+                "udang",
+                "kicap manis",
+                "baby corn",
+                "sotong",
+                "tepung jagung",
+                "tomato",
+                "garam",
+                "daun sup",
+                "bawang goreng",
+                "cili merah",
+                "limau nipis"
             ]
         }
     },
@@ -2661,6 +3432,32 @@
                 "Kalau nak guna ikan selayang segar, atau ikan parang sebagai ganti pun boleh.",
                 "Jangan letak gula  banyak sangat sebab kita tak nak kuah laksa yg manis. Cukup sekadar imbangkan rasa kuah.",
                 "Che Nom bilas sikit laksa yang sudah direbus denga  air sejuk supaya hilang kanji laksa dan tidak lembik bila dihidangkan."
+            ],
+            "main_ingredients": [
+                "ikan kembung",
+                "asam keping",
+                "bawang merah",
+                "bawang besar",
+                "bawang putih",
+                "cili padi",
+                "cili kering",
+                "sardin",
+                "tulang ikan kembung",
+                "nenas",
+                "air asam jawa",
+                "bunga kantan",
+                "daun kesum",
+                "belacan bakar",
+                "petis",
+                "garam",
+                "gula melaka",
+                "laksa kering",
+                "daun salad",
+                "daun selom",
+                "timun",
+                "cili merah",
+                "limau nipis",
+                "telur"
             ]
         }
     },
@@ -2739,6 +3536,38 @@
                 "Boleh juga masukkan fish cake jika anda suka.",
                 "Pes bancuhan rempah haruslah dimasak dengan sempurna supaya kuah kita tahan lama dan sedap rasanya.",
                 "Kalau anda gunakan santan kotak, gunakan dalam anggran 2 kotak 250ml santan."
+            ],
+            "main_ingredients": [
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "serai",
+                "udang kering",
+                "serbuk kari daging",
+                "serbuk cili",
+                "kayu manis",
+                "bunga lawang",
+                "cengkih",
+                "buah pelaga",
+                "daun kari",
+                "ayam",
+                "santan pekat",
+                "kentang",
+                "kerang",
+                "udang",
+                "air rebusan kulit udang",
+                "santan cair",
+                "fishball",
+                "tauhu puff",
+                "limau kasturi",
+                "telur",
+                "mee kuning",
+                "sawi",
+                "taugeh",
+                "bawang goreng",
+                "cili merah",
+                "cili hijau"
             ]
         }
     },
@@ -2789,6 +3618,26 @@
             },
             "tips_and_guides": [
                 "Tak perlu masukkan garam dan gula kerana rasa masin dan manis sudah cukup dari kicap, sos dan bahan-bahan lain."
+            ],
+            "main_ingredients": [
+                "mee kuning",
+                "bawang putih",
+                "cili kisar",
+                "ikan",
+                "sos cili",
+                "kicap manis",
+                "sos tiram",
+                "udang",
+                "sotong",
+                "lada sulah",
+                "tomato",
+                "air rebusan kulit udang",
+                "sawi",
+                "taugeh",
+                "bawang goreng",
+                "daun bawang",
+                "cili merah",
+                "limau kasturi"
             ]
         }
     },
@@ -2806,7 +3655,7 @@
                 "Bahan Utama": [
                     "1 paket kuey teow, 500g",
                     "1-2 biji telur",
-                    "1 sudu kecil  lada sulah"
+                    "1 sudu kecil \u00c2\u00a0lada sulah"
                 ],
                 "Bahan Untuk Kuah": [
                     "3 ulas bawang putih",
@@ -2848,6 +3697,28 @@
             },
             "tips_and_guides": [
                 "Jangan basuh kuey teow lama sangat kerana nanti kuey teow akan jadi lembik dan tak sedap bila digoreng. Lepas cuci, toskan kuey teow supaya kering air basuhannya."
+            ],
+            "main_ingredients": [
+                "kuey teow",
+                "telur",
+                "lada sulah",
+                "bawang putih",
+                "fishball atau fishcake",
+                "isi ayam",
+                "udang",
+                "sotong",
+                "sayur karot",
+                "bunga kobis",
+                "jagung muda",
+                "sayur sawi",
+                "lada sulah",
+                "serbuk pati ayam",
+                "garam",
+                "tomato",
+                "cili padi",
+                "tepung jagung",
+                "daun bawang",
+                "bawang goreng"
             ]
         }
     },
@@ -2888,6 +3759,20 @@
             },
             "tips_and_guides": [
                 "Jangan rebus maggi hingga lembut kerana kita akan masak maggi buat kali kedua, nanti maggi akan menjadi kembang dan lembik apabila digoreng nanti."
+            ],
+            "main_ingredients": [
+                "sos cili",
+                "kicap",
+                "maggi goreng segera",
+                "kari",
+                "bawang putih",
+                "telur",
+                "udang",
+                "tauhu goreng",
+                "kobis",
+                "sawi",
+                "cili padi",
+                "limau nipis"
             ]
         }
     },
@@ -2945,6 +3830,30 @@
             "tips_and_guides": [
                 "Mee hanya perlu dicelur seketika supaya tidak lembik bila dihidangkan bersama kuah mee jawa nanti.",
                 "Selepas dicelur, taburkan dengan sedikit minyak zaitun supaya mee tidak melekat apabila sejuk."
+            ],
+            "main_ingredients": [
+                "mee kuning",
+                "minyak",
+                "cili",
+                "serbuk rempah kari",
+                "keledek",
+                "kiub daging",
+                "garam",
+                "gula",
+                "bawang merah",
+                "bawang putih",
+                "serai",
+                "halia",
+                "lengkuas",
+                "udang kering",
+                "telur",
+                "taugeh",
+                "daun bawang",
+                "daun sup",
+                "Bawang putih goreng",
+                "cili merah",
+                "limau nipis",
+                "tauhu"
             ]
         }
     },
@@ -2994,6 +3903,27 @@
             },
             "tips_and_guides": [
                 "Jika bihun masih keras ketika digoreng, masukkan air sedikit demi sedikit sehingga bihun menjadi lembut. Jangan terlebih masukkan air kerana bihun akan menjadi lembik."
+            ],
+            "main_ingredients": [
+                "bihun",
+                "minyak",
+                "udang",
+                "ayam",
+                "fish cake",
+                "ikan bilis",
+                "telur",
+                "kobis",
+                "karot",
+                "sawi",
+                "taugeh",
+                "lada sulah",
+                "garan",
+                "gula",
+                "bawang goreng",
+                "daun bawang",
+                "bawang putih",
+                "bawang besar",
+                "lada hitam"
             ]
         }
     },
@@ -3069,6 +3999,31 @@
             },
             "tips_and_guides": [
                 "Boleh dihidangkan bersama belacan dan garam (ikut cara orang kelantan)"
+            ],
+            "main_ingredients": [
+                "ikan",
+                "bawang putih",
+                "serai",
+                "halia",
+                "lada hitam",
+                "asam jawa",
+                "gula melaka",
+                "kelapa",
+                "tepung beras",
+                "tepung gandum",
+                "air suam",
+                "garam",
+                "cili merah",
+                "cili padi",
+                "limau nipis",
+                "taugeh",
+                "daun kesum",
+                "kacang panjang",
+                "bunga kantan",
+                "timun",
+                "bawang besar",
+                "limau kasturi",
+                "kubis"
             ]
         }
     },
@@ -3117,7 +4072,27 @@
                     "Kacau sehingga kuah menjadi pekat. Tuang kuah ke atas kuey teow tadi dan hias dengan limau kasturi dan taburan bawang goreng."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "kuey teow",
+                "kicap manis",
+                "udang",
+                "sotong",
+                "ayam",
+                "bawang putih",
+                "cili padi",
+                "karot",
+                "sayur sawi",
+                "bunga kobis",
+                "tomato",
+                "sos tiram",
+                "kiub ayam",
+                "tepung jagung",
+                "minyak",
+                "air",
+                "limau kasturi",
+                "bawang goreng"
+            ]
         }
     },
     {
@@ -3214,8 +4189,46 @@
                 ]
             },
             "tips_and_guides": [
-                "Penggunaan jenis ikan amat mempengaruhi rasa laksa Johor. Kebiasaannya  ikan parang menjadi pilihan kerana isinya yang manis dan sedap, tetapi boleh juga dicampur bersama ikan lain seperti sardin, kembung atau selar.",
+                "Penggunaan jenis ikan amat mempengaruhi rasa laksa Johor. Kebiasaannya \u00c2\u00a0ikan parang menjadi pilihan kerana isinya yang manis dan sedap, tetapi boleh juga dicampur bersama ikan lain seperti sardin, kembung atau selar.",
                 "Kuah pula harus direneh perlahan-lahan setelah dimasukkan santan supaya kuah laksa akan pekat cantik tidak tidak terlalu pecah minyak dari lemak santan."
+            ],
+            "main_ingredients": [
+                "ikan parang",
+                "sardin",
+                "santan",
+                "rempah kari daging",
+                "minyak masak",
+                "serai",
+                "kerisik",
+                "daun kesum",
+                "bunga kantan",
+                "daun pudina",
+                "asam keping",
+                "gula melaka",
+                "garam",
+                "kulit udang",
+                "kepala udang",
+                "bawang putih",
+                "kunyit hidup",
+                "lengkuas",
+                "halia",
+                "cili kering",
+                "bawang merah",
+                "udang kering",
+                "isi udang",
+                "isi ikan kurau masin",
+                "spaghetti",
+                "timun",
+                "taugeh",
+                "kacang panjang",
+                "bawang besar",
+                "limau kasturi",
+                "lobak masin",
+                "bunga kantan",
+                "daun selasih",
+                "cili merah",
+                "cili padi",
+                "jus limau kasturi"
             ]
         }
     },
@@ -3234,8 +4247,8 @@
                     "500g mee kuning",
                     "4 ulas bawang putih, diketuk",
                     "1 mangkuk isi ayam, yang telah direbus",
-                    "1 mangkuk  udang",
-                    "3 ekor  sotong",
+                    "1 mangkuk \u00c2\u00a0udang",
+                    "3 ekor \u00c2\u00a0sotong",
                     "kicap pekat",
                     "1 sudu kecil lada hitam ATAU lada sulah",
                     "2 sudu besar sos tomato",
@@ -3262,7 +4275,24 @@
                     "Tuang kuah di atas mee dan hiaskan denagn cili merah, bawang goreng dan limau nipis."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "mee kuning",
+                "bawang putih",
+                "ayam",
+                "udang",
+                "sotong",
+                "kicap pekat",
+                "lada hitam",
+                "sos tomato",
+                "sos tiram",
+                "sayur sawi",
+                "jagung muda",
+                "karot",
+                "tomato",
+                "tepung jagung",
+                "cili merah"
+            ]
         }
     },
     {
@@ -3319,6 +4349,28 @@
             },
             "tips_and_guides": [
                 "Cara untuk celur mee: Panaskan air sehingga mendidih, masukkan mee dan rendam selama 2-3 minit dan tapis. Bilas dengan air sejuk supaya proses pemanasan terhenti dan mee tidak akan jadi kembang."
+            ],
+            "main_ingredients": [
+                "udang",
+                "mee kuning",
+                "sos cili",
+                "sos tomato",
+                "pes tomyam",
+                "cili kering",
+                "cili giling",
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "udang kering",
+                "ubi keledek merah",
+                "ubi kentang",
+                "bawang goreng",
+                "telur",
+                "tauhu",
+                "daun bawang",
+                "cili merah",
+                "sayur sawi"
             ]
         }
     },
@@ -3333,7 +4385,7 @@
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
             "ingredients": {
-                "Bahan Untuk  Rempah Tumis  Kuah Soto": [
+                "Bahan Untuk \u00c2\u00a0Rempah Tumis \u00c2\u00a0Kuah Soto": [
                     "3 biji bunga lawang",
                     "2 batang kayu manis",
                     "4 kuntum cengkih",
@@ -3387,7 +4439,38 @@
                     "Tuang ke dalam mangkuk dan perah jus limau kasturi. Kacau sebati."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "bunga lawang",
+                "kayu manis",
+                "cengkih",
+                "buah pelaga",
+                "jintan manis",
+                "jintan putih",
+                "serbuk lada putih",
+                "bawang merah",
+                "bawang putih",
+                "serai",
+                "halia",
+                "kunyit hidup",
+                "minyak masak",
+                "ayam",
+                "santan pekat",
+                "air",
+                "nasi impit",
+                "taugeh",
+                "bawang goreng",
+                "suhun",
+                "daun sup",
+                "daun bawang",
+                "cili merah",
+                "kacang tanah",
+                "begedil",
+                "kicap manis",
+                "cili padi",
+                "bawang putih",
+                "limau kasturi"
+            ]
         }
     },
     {
@@ -3457,6 +4540,34 @@
             "tips_and_guides": [
                 "1.Apabila kuah sudah siap, angkat keluar asam keping jika rasa kuah sudah masam untuk mengelakkan kuah terlebih masam.",
                 "2.Boleh juga gunakan santan kotak (1 kotak) dan campurkan sedikit air untuk kuah."
+            ],
+            "main_ingredients": [
+                "mee kuning",
+                "ayam",
+                "kerang",
+                "udang",
+                "bebola ikan",
+                "kek ikan",
+                "rempah kari ayam",
+                "asam gelugor",
+                "kentang",
+                "keledek merah",
+                "santan",
+                "kayu manis",
+                "bunga lawang",
+                "cengkih",
+                "buah pelaga",
+                "daun kari",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "serai",
+                "cili kering",
+                "udang kering",
+                "telur",
+                "sawi",
+                "bawang goreng"
             ]
         }
     },
@@ -3481,6 +4592,12 @@
             },
             "tips_and_guides": [
                 "Pastikan ikan kembung adalah segar untuk mendapat kuah laksa yang benar-benar enak."
+            ],
+            "main_ingredients": [
+                "I'm sorry",
+                "but I need more context or specific information to provide you with the list of main ingredients. Please provide me with a recipe",
+                "dish name",
+                "or any other relevant details so I can assist you better."
             ]
         }
     },
@@ -3497,9 +4614,9 @@
             "ingredients": {
                 "Bahan Utama": [
                     "1 peket bihun, rendam sehingga lembut",
-                    "1 mangkuk  udang kecil, yang telah dibuang kulit",
+                    "1 mangkuk \u00c2\u00a0udang kecil, yang telah dibuang kulit",
                     "1 mangkuk kecil isi ayam",
-                    "1 biji  tomato, hiris kasar",
+                    "1 biji \u00c2\u00a0tomato, hiris kasar",
                     "3 sudu besar cili kisar",
                     "3 sudu besar sos cili",
                     "1 sudu besar sos tiram",
@@ -3522,7 +4639,10 @@
                     "Hiaskan dengan daun bawang dan telur dadar yang dihiris nipis."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "bihun\nudang\nayam\ntomato\ncili\nsos tiram\nfishball\ntaugeh\nsawi\nbawang putih\nbawang merah\nlada sulah\nkicap manis\nkicap cair"
+            ]
         }
     },
     {
@@ -3541,7 +4661,7 @@
                     "250g taugeh, buang ekor dan celur",
                     "Limau kasturi",
                     "Bawang goreng",
-                    "3 biji  telur, direbus",
+                    "3 biji \u00c2\u00a0telur, direbus",
                     "1 tangkai daun sup, hiris halus",
                     "Cili merah, hiris nipis",
                     "Cili hijau, hiris nipis",
@@ -3576,7 +4696,31 @@
                     "Masukkan sedikit mee yang telah dicelur ke dalam pinggan. Tuangkan kuah ke atas mee. Hiaskan dengan tauhu goreng, daun bawang, telur rebus, cili merah dan hijau dan taugeh. Perahkan dengan limau kasturi. Sedia untuk dimakan."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "mee kuning",
+                "taugeh",
+                "telur",
+                "daun sup",
+                "cili merah",
+                "cili hijau",
+                "tauhu",
+                "minyak masak",
+                "daging",
+                "keledek merah",
+                "taucu",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "udang kering",
+                "serbuk kari daging",
+                "air",
+                "serbuk kacang tanah",
+                "lengkuas",
+                "tomato",
+                "garam",
+                "gula"
+            ]
         }
     },
     {
@@ -3617,7 +4761,23 @@
                     "Masak sehingga mendidih, dan tuangkan ke atas mee."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "sos tiram",
+                "telur",
+                "mee kuning",
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "udang kering",
+                "udang",
+                "daging",
+                "Garam",
+                "gula",
+                "stok daging",
+                "sawi",
+                "kubis"
+            ]
         }
     },
     {
@@ -3692,6 +4852,31 @@
             },
             "tips_and_guides": [
                 "Jika tidak menggunakan pressure cooker pastikan anda merebus tulang selama sekurang-kurangnya 2 jam untuk memastikan tulang betul-betul lembut dan lerai dengan sempurna."
+            ],
+            "main_ingredients": [
+                "tulang dan daging",
+                "bihun",
+                "kayu manis",
+                "buah pelaga",
+                "bunga lawang",
+                "cengkih",
+                "bawang putih",
+                "bawang merah",
+                "buah keras",
+                "jintan manis",
+                "lada hitam",
+                "serbuk ketumbar",
+                "jintan putih",
+                "lobak merah",
+                "kentang",
+                "tomato",
+                "serbuk cili",
+                "garam",
+                "gula",
+                "lobak masin",
+                "daun bawang",
+                "daun sup",
+                "bawang goreng"
             ]
         }
     },
@@ -3737,7 +4922,25 @@
                     "Hiaskan dengan taburan daun bawang dan bawang goreng."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "mee kuning",
+                "udang",
+                "telur",
+                "fish cake",
+                "taugeh",
+                "sawi",
+                "tomato",
+                "cili",
+                "sos cili",
+                "sos tiram",
+                "kicap manis",
+                "kicap karamel",
+                "garam",
+                "gula",
+                "bawang putih",
+                "bawang merah"
+            ]
         }
     },
     {
@@ -3753,8 +4956,8 @@
             "ingredients": {
                 "Bahan Utama": [
                     "1 bungkus kuey teow",
-                    "3 camca besar  minyak masak",
-                    "200 gram isi ayam/udangNộm saladMasakan",
+                    "3 camca besar \u00c2\u00a0minyak masak",
+                    "200 gram isi ayam/udangN\u00e1\u00bb\u2122m saladMasakan",
                     "2 fillet fish cake dipotong dadu",
                     "3 sudu besar cili kisar",
                     "2 ulas bawang putih",
@@ -3776,7 +4979,22 @@
                     "Nota: Sos ikan adalah masin. Perlu berhati-hati untuk perasakan garam."
                 ]
             },
-            "tips_and_guides": []
+            "tips_and_guides": [],
+            "main_ingredients": [
+                "kuey teow",
+                "minyak masak",
+                "ayam/udang",
+                "fish cake",
+                "cili",
+                "bawang putih",
+                "bawang merah",
+                "ikan bilis",
+                "daun kuchai",
+                "taugeh",
+                "sos tiram",
+                "kicap",
+                "sos ikan"
+            ]
         }
     }
 ]
