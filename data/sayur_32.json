@@ -629,7 +629,7 @@
                 "Che Nom akan basuh bersih sayur dan rendam dalam air sejuk selama lebih kurang \u00c2\u00bd jam sebelum dimasak untuk dapatkan sayur kalian yang segar dan rangup."
             ],
             "main_ingredients": [
-                "minyak masak\nbawang putih\ncili padi\nikan masin\nsos tiram\nkicap manis\nbawang holland\nsayur kailan\ntepung jagung"
+                "minyak masak","bawang putih","cili padi","ikan masin","sos tiram","kicap manis","bawang holland","sayur kailan","tepung jagung"
             ]
         }
     },
@@ -718,7 +718,20 @@
             "masa_memasak": "10 minit",
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Utama": [
+                    "1/2 biji kobis bulat, hiris kasar",
+                    "1/2 batang karot, hiris nipis",
+                    "1 ketul tauhu, potong kiub",
+                    "1 genggam ikan bilis, rendam dan tumbuk kasar",
+                    "1 biji cili merah, hiris nipis",
+                    "3 biji bawang merah, hiris nipis",
+                    "2 ulas bawang putih, hiris nipis",
+                    "2 cawan santan pekat",
+                    "2 cawan santan cair",
+                    "garam dan gula secukup rasa"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Panaskan santan cair di dalam periuk dengan api perlahan dan masukkan bawang merah, bawang putih, bilis tumbuk, tauhu dan karot.",
@@ -731,7 +744,17 @@
                 "Tujuan santan cair dimasukkan dahulu dan santan pekat dimasukkan kemudian ialah supaya kuah masak lemak tidak berketul dan masak sekata di akhirnya. Jika santan pekat dimasak terlalu lama, kuah menjadi tidak elok dan sekata."
             ],
             "main_ingredients": [
-                "I'm missing the main ingredients from your request. Please provide the list so I can assist you."
+                "kobis",
+                "karot",
+                "tauhu",
+                "ikan bilis",
+                "cili merah",
+                "bawang merah",
+                "bawang putih",
+                "santan pekat",
+                "santan cair",
+                "garam",
+                "gula"
             ]
         }
     },
@@ -969,7 +992,14 @@
                 "Che Nom tidak masukkan garam ke dalam kuah sos tiram kerana sos tiram dan serbuk pati ayam sudah masin rasanya."
             ],
             "main_ingredients": [
-                "- sayur Pak Choy\n- sos tiram\n- bawang putih\n- halia\n- serbuk pati ayam atau pati ikan bilis\n- tepung jagung\n- bawang goreng\n- cili api "
+                "sayur Pak Choy",
+                "sos tiram",
+                "bawang putih",
+                "halia",
+                "serbuk pati ayam atau pati ikan bilis",
+                "tepung jagung",
+                "bawang goreng",
+                "cili api"
             ]
         }
     },
@@ -1077,7 +1107,23 @@
             "masa_memasak": "5 minit",
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Utama": [
+                    "sayur kangkung, 1 ikat",
+                    "1 sudu kecil tepung jagung (jadikan pes)",
+                    "3 sudu besar minyak masak",
+                    "sedikit kicap",
+                    "garam dan gula secukup rasa"
+                ],
+                "Bahan Kisar Kasar": [
+                    "4-5 tangkai cili padi",
+                    "1 biji cili merah",
+                    "1 cm belacan",
+                    "sedikit ikan bilis",
+                    "3 ulas bawang merah",
+                    "2 ulas bawang putih"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Bersihkan kangkung dan potong kasar. Asingkan bahagian batang dan daunnya.",
@@ -1091,8 +1137,18 @@
                 "Masakan sayur kangkung harus dimasak dengan pantas. Pastikan bahan-bahan semua sudah tersedia sebelum anda mula memasak. Jika terlebih masak, sayur akan lembik dan tak sedap lagi."
             ],
             "main_ingredients": [
-                "I'm sorry",
-                "but it looks like you haven't provided any text for me to extract the main ingredients from. Could you please provide some text or a list of ingredients for me to work with?"
+                "sayur kangkung",
+                "tepung jagung",
+                "minyak masak",
+                "kicap",
+                "cili padi",
+                "cili merah", 
+                "belacan",
+                "ikan bilis",
+                "bawang merah",
+                "bawang putih",
+                "garam",
+                "gula"
             ]
         }
     },

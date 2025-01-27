@@ -106,7 +106,16 @@
                 "Gunakan api sederhana supaya ayam masak sekata dan kekal berjus di dalam."
             ],
             "main_ingredients": [
-                "- Halia\n- Bawang putih\n- Bawang merah\n- Ayam\n- Serbuk ketumbar\n- Sos tiram\n- Serbuk sedap\n- Garam\n- Serbuk kunyit\n- Minyak"
+                "Halia",
+                "Bawang putih",
+                "Bawang merah",
+                "Ayam",
+                "Serbuk ketumbar",
+                "Sos tiram",
+                "Serbuk sedap",
+                "Garam",
+                "Serbuk kunyit",
+                "Minyak"
             ]
         }
     },
@@ -310,7 +319,6 @@
             "main_ingredients": [
                 "batang kacang panjang",
                 "ayam",
-                "garam",
                 "kunyit",
                 "serbuk cili",
                 "air asam jawa",
@@ -321,8 +329,6 @@
                 "cili merah",
                 "cili padi merah",
                 "cili merah besar",
-                "kunyit hidup",
-                "kunyit",
                 "lengkuas",
                 "serai",
                 "bawang merah",
@@ -712,7 +718,6 @@
                 "buah keras",
                 "minyak masak",
                 "cili kisar",
-                "serbuk cili",
                 "air asam jawa",
                 "Garam",
                 "Gula melaka",
@@ -927,9 +932,7 @@
                 "santan",
                 "krim santan",
                 "daun kunyit",
-                "serbuk kunyit",
                 "sos tiram",
-                "garam",
                 "perasa"
             ]
         }
@@ -1069,8 +1072,6 @@
                 "gula perang",
                 "sos ikan",
                 "daun limau purut",
-                "sos tiram",
-                "garam",
                 "limau nipis"
             ]
         }
@@ -1257,8 +1258,6 @@
                 "garam",
                 "tepung jagung",
                 "bawang putih",
-                "bawang besar",
-                "cili padi",
                 "kicap manis",
                 "gula"
             ]
@@ -1484,7 +1483,72 @@
             "masa_memasak": "30 minit",
             "jumlah_masa": "1 jam",
             "hidangan": "10 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Untuk Kisar Halus": [
+                    "6 inci halia",
+                    "12 ulas bawang putih"
+                ],
+                "Bahan Untuk Ayam": [
+                    "Madu",
+                    "1 kiub pati ayam",
+                    "Daun bawang",
+                    "Pes halia & bawang putih",
+                    "2 sb sos tiram",
+                    "1 sb kicap manis",
+                    "1 sb kicap cair",
+                    "Minyak untuk menggoreng",
+                    "1 ekor ayam",
+                    "Minyak bijan"
+                ],
+                "Bahan Untuk Nasi": [
+                    "1-2 potong lemak",
+                    "1/2 senduk mentega",
+                    "Pes halia & bawang putih",
+                    "1 kayu manis",
+                    "5 biji buah pelaga",
+                    "3 kuntum bunga cengkih",
+                    "2 kuntum bunga lawang",
+                    "1 helai daun pandan",
+                    "1 batang serai",
+                    "3 cwn beras",
+                    "4 1/2 cwn air rebusan ayam",
+                    "Sedikit garam",
+                    "1 sk serbuk kunyit"
+                ],
+                "Bahan Untuk Sos": [
+                    "6-8 biji cili merah",
+                    "6 biji cili api",
+                    "Sedikit air rebusan ayam",
+                    "Pes halia & bawang putih",
+                    "2 sb jus lemon",
+                    "Gula",
+                    "Garam",
+                    "1 sb sos cili"
+                ],
+                "Bahan Untuk Kicap": [
+                    "Air lebihan perapan ayam",
+                    "1 mangkuk kecil kicap manis",
+                    "Sedikit air rebusan ayam",
+                    "Garam"
+                ],
+                "Bahan Untuk Sup": [
+                    "Lebihan air rebusan ayam",
+                    "Kaki ayam (jika suka)",
+                    "1 sup bunjut",
+                    "Lobak merah",
+                    "Kentang",
+                    "1 sk lada sulah",
+                    "Garam",
+                    "Daun sup"
+                ],
+                "Bahan Untuk Hiasan": [
+                    "Tomato",
+                    "Timun",
+                    "Salad",
+                    "Daun sup",
+                    "Daun bawang"
+                ]
+            },
             "instructions": {
                 "Untuk Bahan Kisar": [
                     "Dah siap kisar, bahagikan kepada 4 bahagian.",
@@ -1549,7 +1613,41 @@
                 "Sebelum sapu ayam goreng dengan minyak bijan dan madu, kena tunggu ayam suam-suam sikit baru sapu, kalau panas sangat, cair sapuan nanti tak melekat."
             ],
             "main_ingredients": [
-                "I need the full recipe in order to provide you with a list of main ingredients."
+                "halia",
+                "bawang putih",
+                "madu",
+                "pati ayam",
+                "daun bawang",
+                "sos tiram",
+                "kicap manis",
+                "kicap cair",
+                "minyak",
+                "ayam",
+                "minyak bijan",
+                "lemak",
+                "mentega",
+                "kayu manis",
+                "buah pelaga",
+                "bunga cengkih",
+                "bunga lawang",
+                "daun pandan",
+                "serai",
+                "beras",
+                "garam",
+                "serbuk kunyit",
+                "cili merah",
+                "cili api",
+                "jus lemon",
+                "gula",
+                "sos cili",
+                "sup bunjut",
+                "lobak merah",
+                "kentang",
+                "lada sulah",
+                "daun sup",
+                "tomato",
+                "timun",
+                "salad"
             ]
         }
     },
@@ -1972,7 +2070,22 @@
             "masa_memasak": "20 minit",
             "jumlah_masa": "40 minit",
             "hidangan": "5 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Untuk Ayam Cili Padi": [
+                    "2 biji tomato",
+                    "1/2 ekor ayam",
+                    "1 biji kentang",
+                    "Sedikit garam",
+                    "1/2 sb serbuk kunyit",
+                    "20-25 tangkai cili padi",
+                    "1 biji bawang besar",
+                    "6 ulas bawang putih",
+                    "1 batang serai",
+                    "1 sb sos tiram",
+                    "3-4 helai daun limau purut",
+                    "1 biji bawang holland"
+                ]
+            },
             "instructions": {
                 "Untuk Ayam Cili Padi": [
                     "Buang tangkai cili padi dan potong kasar,",
@@ -2004,8 +2117,18 @@
                 "Kalau tak letak tomato boleh ganti dengan air asam jawa."
             ],
             "main_ingredients": [
-                "I'm sorry",
-                "but you haven't provided any information to extract the main ingredients from. Please provide me with a list of ingredients so that I can assist you in identifying the main ingredients."
+                "tomato",
+                "ayam",
+                "kentang",
+                "garam",
+                "serbuk kunyit",
+                "cili padi",
+                "bawang besar",
+                "bawang putih",
+                "serai",
+                "sos tiram",
+                "daun limau purut",
+                "bawang holland"
             ]
         }
     },
@@ -3272,7 +3395,24 @@
                 "Tambah air sikit-sikit semasa masak sos salutan supaya tak hangus."
             ],
             "main_ingredients": [
-                "1. ayam\n2. bawang putih\n3. halia\n4. putih telur\n5. serbuk lada hitam\n6. garam\n7. tepung gandum\n8. tepung jagung\n9. sos tiram\n10. tepung beras\n11. serbuk perasa\n12. serbuk penaik\n13. minyak masak\n14. pes Gochujang\n15. kicap manis\n16. madu\n17. gula perang\n18. bijan"
+                "ayam",
+                "bawang putih",
+                "halia",
+                "putih telur",
+                "serbuk lada hitam",
+                "garam",
+                "tepung gandum",
+                "tepung jagung",
+                "sos tiram",
+                "tepung beras",
+                "serbuk perasa",
+                "serbuk penaik",
+                "minyak masak",
+                "pes Gochujang",
+                "kicap manis",
+                "madu",
+                "gula perang",
+                "bijan"
             ]
         }
     },
@@ -3461,13 +3601,11 @@
                 "bawang putih",
                 "halia",
                 "serbuk ketumbar",
-                "serbuk lada hitam",
                 "serbuk kari",
                 "serbuk paprika",
                 "serbuk seasoning",
                 "garam",
                 "serbuk lada putih",
-                "air",
                 "tepung gandum",
                 "tepung jagung",
                 "serbuk cili",
@@ -3481,10 +3619,7 @@
                 "susu full cream",
                 "kentang",
                 "mentega",
-                "susu full cream",
-                "tepung gandum",
                 "kiub pati lembu atau ayam",
-                "air",
                 "kicap",
                 "serbuk lada hitam"
             ]
@@ -3638,8 +3773,6 @@
                 "bunga lawang",
                 "cengkih",
                 "buah pelaga",
-                "biji jintan manis",
-                "biji jintan putih",
                 "cili kering",
                 "bawang besar",
                 "daun kari",
@@ -3819,7 +3952,6 @@
                 "bawang putih",
                 "bawang merah",
                 "halia",
-                "serbuk lada hitam",
                 "daun bawang",
                 "cili kering"
             ]
@@ -4187,15 +4319,12 @@
                 "majerin/mentega/minyak sapi",
                 "minyak masak",
                 "bawang besar",
-                "halia",
                 "daun pandan",
                 "rempah 4 sekawan",
                 "beras",
-                "air",
                 "susu cair",
                 "cili merah",
                 "cili padi merah",
-                "air",
                 "akar ketumbar",
                 "gula",
                 "cuka",
@@ -4497,7 +4626,6 @@
                 "garam",
                 "serbuk kunyit",
                 "minyak masak",
-                "bawang besar",
                 "kayu manis",
                 "bunga lawang",
                 "buah pelaga",
@@ -4654,7 +4782,34 @@
             "masa_memasak": "45 minit",
             "jumlah_masa": "1 jam 15 minit",
             "hidangan": "10 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Untuk Kisar Halus": [
+                    "sedikit air",
+                    "20-25 biji cili kering",
+                    "5-8 biji bawang merah",
+                    "5 ulas bawang putih",
+                    "2 inci halia",
+                    "1 biji bawang besar"
+                ],
+                "Bahan Untuk Lain": [
+                    "½ cawan kacang pis",
+                    "½ -1 ekor ayam (size kecil atau sederhana)",
+                    "sedikit garam",
+                    "1 sudu kecil serbuk kunyit",
+                    "minyak masak, anggaran 2 cawan",
+                    "½ biji bawang besar",
+                    "2 helai daun pandan",
+                    "1 batang kayu manis (boleh tambah pelaga,bunga lawang dan cengkih, jika suka)",
+                    "1 biji tomato",
+                    "1 batang serai",
+                    "sedikit air,untuk berkuah",
+                    "2 sudu besar gula melaka",
+                    "½ -1 cawan susu cair",
+                    "2 sudu besar air asam jawa",
+                    "garam, secukup rasa",
+                    "1 biji bawang Holland/bawang besar, untuk taburan akhir"
+                ]
+            },
             "instructions": {
                 "Untuk Ayam Masak Merah": [
                     "Cincang kasar kesemua bahan-bahan untuk kisar halus.",
@@ -4675,8 +4830,27 @@
                 "Jangan kisar bahan-bahan bersama tomato fresh, kerana nanti textur kuah ayam masak merah jadi kurang pekat berkilat dan rasa pun kurang sedap"
             ],
             "main_ingredients": [
-                "Sure",
-                "could you please provide me with the list of ingredients so I can extract the main ingredients for you?"
+                "cili kering",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "bawang besar",
+                "kacang pis",
+                "ayam",
+                "garam",
+                "serbuk kunyit",
+                "minyak masak",
+                "daun pandan",
+                "kayu manis",
+                "pelaga",
+                "bunga lawang",
+                "cengkih",
+                "tomato",
+                "serai",
+                "gula melaka",
+                "susu cair",
+                "asam jawa",
+                "bawang holland"
             ]
         }
     },
@@ -4905,10 +5079,7 @@
                 "kicap pekat manis",
                 "telur",
                 "tepung jagung",
-                "minyak masak",
-                "bawang putih",
                 "mentega",
-                "minyak masak",
                 "cili padi",
                 "cili merah",
                 "daun kari",
@@ -5112,7 +5283,24 @@
             },
             "tips_and_guides": [],
             "main_ingredients": [
-                "telur\ntepung jagung\nayam\nsos tiram\nkicap pekat manis\ngaram\nserbuk lada sulah\nserbuk kari\nkicap cair\ngula\nminyak masak\nudang kering\nbawang merah\nbawang putih\nserai\ndaun kari\nbawang holland\ncili padi"
+                "telur",
+                "tepung jagung",
+                "ayam",
+                "sos tiram",
+                "kicap pekat manis",
+                "garam",
+                "serbuk lada sulah",
+                "serbuk kari",
+                "kicap cair",
+                "gula",
+                "minyak masak",
+                "udang kering",
+                "bawang merah",
+                "bawang putih",
+                "serai",
+                "daun kari",
+                "bawang holland",
+                "cili padi"
             ]
         }
     },
@@ -5621,7 +5809,28 @@
             "masa_memasak": "20 minit",
             "jumlah_masa": "35 minit",
             "hidangan": "5 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Untuk Kisar Kasar": [
+                    "4-5 biji bawang merah",
+                    "4 ulas bawang putih",
+                    "1 inci halia",
+                    "10 biji cili merah besar",
+                    "6 biji cili padi merah"
+                ],
+                "Bahan Untuk Lain": [
+                    "1/2 ekor ayam",
+                    "1/2 sudu kecil serbuk kunyit",
+                    "1/2 sudu kecil garam",
+                    "Minyak secukup nya utk menggoreng",
+                    "1 batang serai",
+                    "2-3 sudu besar air asam jawa",
+                    "2 biji tomato",
+                    "2 helai daun limau purut",
+                    "Gula secukup rasa",
+                    "Garam secukup rasa",
+                    "1 biji bawang besar"
+                ]
+            },
             "instructions": {
                 "Untuk Sambal": [
                     "Hiris kasar bawang merah kecil, bawang putih, halia, cili merah besar dan cili padi.",
@@ -5647,8 +5856,21 @@
                 "Kacau dengan kerap cili ketika menumis supaya cili tak hangus dan warna sambal tidak bertukar perang."
             ],
             "main_ingredients": [
-                "Sure",
-                "I can help with that. Could you please provide me with the list of ingredients you would like me to extract the main ingredient names from?"
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "cili merah besar",
+                "cili padi merah",
+                "ayam",
+                "serbuk kunyit",
+                "garam",
+                "minyak",
+                "serai",
+                "asam jawa",
+                "tomato",
+                "daun limau purut",
+                "gula",
+                "bawang besar"
             ]
         }
     },
@@ -5727,7 +5949,6 @@
                 "kulit lemon",
                 "cuka makan",
                 "madu",
-                "tepung jagung",
                 "tepung gandum",
                 "bawang putih",
                 "halia",
@@ -5833,7 +6054,6 @@
                 "tepung jagung",
                 "garam",
                 "daun kari",
-                "halia",
                 "bawang merah",
                 "beras basmathi",
                 "daun pandan",
@@ -6221,7 +6441,6 @@
                 "cili merah",
                 "cili padi",
                 "buah keras",
-                "bawang merah",
                 "ayam",
                 "cili kisar",
                 "daun limau purut",
@@ -6567,7 +6786,18 @@
             "masa_memasak": "15 minit",
             "jumlah_masa": "25 minit",
             "hidangan": "5 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Utama": [
+                    "1/2 ekor ayam, potong kecil",
+                    "15-25 biji cili padi",
+                    "1 helai daun kunyit",
+                    "2 ketul kunyit hidup",
+                    "1 batang serai, dititik",
+                    "1 keping asam gelugor",
+                    "1 mangkuk besar santan",
+                    "garam secukup rasa"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Bersihkan ayam dan ketepikan.",
@@ -6582,8 +6812,14 @@
                 "Kalau nak lebih sedap gunalah santan segar, tapi jika nak gunakan santan kotak pun boleh cuma kena pandai agak banyak mana air yang nak ditambah ke dalam kuah."
             ],
             "main_ingredients": [
-                "I'm sorry",
-                "but I am unable to assist without more information or a specific recipe."
+                "ayam",
+                "cili padi",
+                "daun kunyit",
+                "kunyit hidup",
+                "serai",
+                "asam gelugor",
+                "santan",
+                "garam"
             ]
         }
     },
@@ -7395,7 +7631,6 @@
                 "kas kas",
                 "garam masala",
                 "serbuk cili",
-                "bawang besar",
                 "halia",
                 "bawang putih",
                 "cili kering",
@@ -7415,7 +7650,23 @@
             "masa_memasak": "15 minit",
             "jumlah_masa": "35 minit",
             "hidangan": "5 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Utama": [
+                    "500 gram ayam, potong kecil",
+                    "4 ulas bawang putih, hiris nipis",
+                    "2 cm halia, dihiris halus memanjang",
+                    "1 sudu besar kicap cair",
+                    "1 sudu besar sos tiram",
+                    "1 biji bawang besar, hiris nipis membulat",
+                    "1 biji cili merah, hiris nipis",
+                    "1 tangkai daun bawang, hiris panjang 2cm cm",
+                    "1 1/2 sudu kecil tepung jagung, bancuh dengan sedikit air",
+                    "minyak masak, untuk goreng ayam",
+                    "sedikit lada sulah atau lada hitam",
+                    "sedikit garam dan kunyit",
+                    "garam dan gula, secukup rasa"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Panaskan minyak. Gaul ayam bersama garam dan kunyit kemudian goreng separuh masak. Angkat dan ketepikan.",
@@ -7430,7 +7681,21 @@
                 "Hati-hati semasa masukkan garam kerana kicap cair sudah masin. Begitu juga ayam tadi yang sudah masin diperasakan garam semasa menggoreng."
             ],
             "main_ingredients": [
-                "Could you please provide the list of ingredients for me to extract the main ingredients?"
+                "ayam",
+                "bawang putih",
+                "halia",
+                "kicap cair",
+                "sos tiram",
+                "bawang besar",
+                "cili merah",
+                "daun bawang",
+                "tepung jagung",
+                "minyak masak",
+                "lada sulah",
+                "lada hitam",
+                "garam",
+                "kunyit",
+                "gula"
             ]
         }
     },
@@ -7911,7 +8176,6 @@
                 "jus lemon",
                 "cuka",
                 "gula",
-                "tepung jagung",
                 "lemon emulco"
             ]
         }
@@ -8157,7 +8421,7 @@
             },
             "tips_and_guides": [],
             "main_ingredients": [
-                "- ayam\n- kentang\n- serbuk kari\n- santan\n- kerisik\n- kiub ayam\n- garam\n- daun kari\n- bawang besar\n- bawang putih\n- halia"
+                "- ayam","- kentang","- serbuk kari","- santan","- kerisik","- kiub ayam","- garam","- daun kari","- bawang besar","- bawang putih","- halia"
             ]
         }
     },

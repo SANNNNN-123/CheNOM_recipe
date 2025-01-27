@@ -309,11 +309,8 @@
                 "gula melaka",
                 "air asam jawa",
                 "ikan siakap",
-                "bawang besar",
                 "tomato",
                 "cili padi",
-                "belacan bakar",
-                "air asam jawa",
                 "gula",
                 "garam",
                 "perasa",
@@ -405,7 +402,6 @@
                 "sos cili",
                 "sos tiram",
                 "gula",
-                "garam",
                 "cili merah",
                 "Daun sup"
             ]
@@ -596,7 +592,6 @@
                 "garam",
                 "bawang besar",
                 "bawang merah",
-                "bawang putih",
                 "halia",
                 "kunyit hidup",
                 "rempah gulai",
@@ -604,7 +599,6 @@
                 "cili kisar",
                 "air rebusan ikan",
                 "gula nisan",
-                "asam gelugor",
                 "kerisik"
             ]
         }
@@ -662,7 +656,21 @@
                 "Untuk tumis sambal pastikan minyak lebih sikit barulah sambal tumis masak elok."
             ],
             "main_ingredients": [
-                "- ikan kembung\n- garam halus\n- serbuk kunyit\n- bawang merah kecil\n- bawang putih\n- halia\n- cili kering\n- minyak masak\n- bawang besar\n- sos tiram\n- air asam jawa\n- gula putih\n- sos ikan\n- sos cili\n- Daun bawang"
+                "ikan kembung",
+                "garam halus",
+                "serbuk kunyit",
+                "bawang merah kecil",
+                "bawang putih",
+                "halia",
+                "cili kering",
+                "minyak masak",
+                "bawang besar",
+                "sos tiram",
+                "air asam jawa",
+                "gula putih",
+                "sos ikan",
+                "sos cili",
+                "Daun bawang"
             ]
         }
     },
@@ -720,7 +728,7 @@
                 "Selepas masukkan ikan, perlahankan api supaya ikan masak perlahan \u00e2\u20ac\u201c lahan dan tak hancur."
             ],
             "main_ingredients": [
-                "- Serbuk perasa\n- Ikan kembung\n- Kunyit\n- Garam\n- Air\n- Serai\n- Halia\n- Kunyit hidup\n- Lengkuas\n- Asam gelugor\n- Bawang putih\n- Bawang merah\n- Cili padi\n- Tomato\n- Ikan bilis\n- Sayur bendi"
+                "- Serbuk perasa","Ikan kembung","Kunyit","Garam","Air","Serai","Halia","Kunyit hidup","Lengkuas","Asam gelugor","Bawang putih","Bawang merah","Cili padi","Tomato","Ikan bilis","Sayur bendi"
             ]
         }
     },
@@ -885,7 +893,6 @@
                 "air asam jawa",
                 "daun limau purut",
                 "gula",
-                "garam",
                 "perasa"
             ]
         }
@@ -1045,7 +1052,6 @@
                 "bawang putih",
                 "kunyit hidup",
                 "serai",
-                "garam",
                 "serbuk perasa",
                 "gula",
                 "kelapa parut",
@@ -1054,11 +1060,8 @@
                 "tomato",
                 "kerisik",
                 "cili padi",
-                "cili merah",
                 "belacan",
                 "kicap manis",
-                "garam",
-                "gula",
                 "jus limau nipis",
                 "air"
             ]
@@ -1413,7 +1416,7 @@
                 "Santan pekat diletakkan lambat sebab takut kari pecah minyak dan kuah berketul- ketul."
             ],
             "main_ingredients": [
-                "- Bawang merah\n- Bawang putih\n- Halia\n- Serbuk kari ikan\n- Serbuk cili\n- Air asam jawa\n- Minyak masak\n- Halba campur\n- Daun kari\n- Ikan merah\n- Rempah\n- Santan cair\n- Cili merah besar\n- Santan pekat\n- Garam\n- Bendi\n- Tomato"
+                "- Bawang merah","Bawang putih","Halia","Serbuk kari ikan","Serbuk cili","Air asam jawa","Minyak masak","Halba campur","Daun kari","Ikan merah","Rempah","Santan cair","Cili merah besar","Santan pekat","Garam","Bendi","Tomato"
             ]
         }
     },
@@ -1907,7 +1910,20 @@
             "masa_memasak": "10 minit",
             "jumlah_masa": "20 minit",
             "hidangan": "4 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Utama": [
+                    "3-4 ekor ikan kembung",
+                    "1 keping asam gelugur/asam keping",
+                    "1-2 biji tomato, potong dadu",
+                    "1 biji bawang besar, potong dadu",
+                    "1 inci belacan, bakar sehingga wangi",
+                    "5-6 biji cili padi, hiris kecil",
+                    "2-3 biji limau kasturi",
+                    "1 mangkuk kecil pati air asam jawa",
+                    "sedikit sos ikan",
+                    "garam dan gula secukup rasa"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Dalam periuk atau kuali, tuang air anggaran tenggelam sedikit ikan dan rebus bersama asam gelugur dan sedikit garam selama 5-10 minit di atas api yang perlahan. Setelah masak, angkat ikan ke dalam bekas berasingan.",
@@ -1920,7 +1936,18 @@
                 "Cili ditambah kemudian dan dikacau dengan sudu supaya panas cili tak melekat ditangan"
             ],
             "main_ingredients": [
-                "Could you please provide me with the list of ingredients you have in mind?"
+                "ikan kembung",
+                "asam gelugur",
+                "asam keping",
+                "tomato",
+                "bawang besar",
+                "belacan",
+                "cili padi",
+                "limau kasturi",
+                "asam jawa",
+                "sos ikan",
+                "garam",
+                "gula"
             ]
         }
     },
@@ -2098,7 +2125,6 @@
                 "sos tiram",
                 "sos ikan",
                 "daun limau purut",
-                "garam",
                 "gula"
             ]
         }
@@ -2198,7 +2224,20 @@
             },
             "tips_and_guides": [],
             "main_ingredients": [
-                "ikan siakap\ntepung jagung\ngaram\ndaun ketumbar\ndaun bawang\nsos plum\nsos cili Thai\nsos ikan\nbawang merah\nbawang putih\nhalia muda\nbawang besar\ncili padi\nlimau nipis"
+                "ikan siakap",
+                "tepung jagung",
+                "garam",
+                "daun ketumbar",
+                "daun bawang",
+                "sos plum",
+                "sos cili Thai",
+                "sos ikan",
+                "bawang merah",
+                "bawang putih",
+                "halia muda",
+                "bawang besar",
+                "cili padi",
+                "limau nipis"
             ]
         }
     },
@@ -2600,7 +2639,7 @@
             },
             "tips_and_guides": [],
             "main_ingredients": [
-                "- ikan bawal\n- cili merah\n- bawang besar\n- tomato\n- cuka makan\n- minyak masak\n- garam\n- gula\n- daun bawang\n- bawang merah\n- bawang putih\n- buah keras"
+                "- ikan bawal","cili merah","bawang besar","tomato","cuka makan","minyak masak","garam","gula","daun bawang","bawang merah","bawang putih","buah keras"
             ]
         }
     },
@@ -2809,57 +2848,6 @@
         }
     },
     {
-        "title": "Kari Kepala Ikan",
-        "page_url": "https://resepichenom.com/kategori/ikan?page=4",
-        "recipe_url": "https://resepichenom.com/resepi/kari-kepala-ikan",
-        "details": {
-            "image_url": "https://resepichenom.com/images/recipes/77cc95032588f443f7393fc1d9879fb8862eaad4.jpeg",
-            "masa_penyediaan": "20 minit",
-            "masa_memasak": "20 minit",
-            "jumlah_masa": "40 minit",
-            "hidangan": "2 orang",
-            "ingredients": {
-                "Bahan Utama": [
-                    "Kari kepala ikan",
-                    "700 gram kepala ikan merah, boleh di gantikan dengan ikan lain.",
-                    "Bahan untuk di tumbuk",
-                    "3 ulas bawang merah*",
-                    "3 ulas bawan putih*",
-                    "1 inci halia.*",
-                    "1/4 biji bawang besar*",
-                    "Bahan untuk di tumis",
-                    "3 sudu besar minyak masak",
-                    "1 sudu kecil halba campur",
-                    "1 batang kecil kulit kayu manis",
-                    "2 kuntum bunga lawang",
-                    "Sedikit daun kari",
-                    "Bahan-bahan lain berkaitan",
-                    "2 cawan santan cair",
-                    "1 cawan santan pekat",
-                    "1 paket rempah gulai ikan",
-                    "1 biji tomato di potong 4",
-                    "5 batang bendi",
-                    "garam dan gula secukup rasa"
-                ]
-            },
-            "instructions": {
-                "Penyediaan Utama": [
-                    "Tumbuk kasar bahan-bahan yang bertanda *",
-                    "Bancuhan serbuk kari dan serbuk cili menjadi paste yang pekat",
-                    "Panaskan minyak dalam periuk, tumisan bahan tumbuk kasar bersama bunga lawang, kayu manis, daun kari dan halba campur hingga naik bau.",
-                    "Masukkan paste serbuk kari dan cili, tumis sehingga pecah minyak, kemudian masukkan ikan, tutup selama 3 minit di atas api sederhana.",
-                    "Masukkan 2 cawan santan cair, biarkan sehingga mendidih, kemudian masukkan satu cawan santan pekat, garam dan gula secukup rasa.",
-                    "Akhir sekali masukkan tomato dan bendi selama 2-3 minit atau hingga sedikit layu.",
-                    "Siap dan sedia dihidangkan."
-                ]
-            },
-            "tips_and_guides": [],
-            "main_ingredients": [
-                "- Kari kepala ikan\n- Kepala ikan merah\n- Bawang merah\n- Bawang putih\n- Gula\n- Bawang besar\n- Minyak masak\n- Halba campur\n- Kulit kayu manis\n- Bunga lawang\n- Daun kari\n- Santan cair\n- Santan pekat\n- Rempah gulai ikan\n- Tomato\n- Bendi"
-            ]
-        }
-    },
-    {
         "title": "Ikan Patin Masak Tempoyak",
         "page_url": "https://resepichenom.com/kategori/ikan?page=4",
         "recipe_url": "https://resepichenom.com/resepi/ikan-patin-masak-tempoyak",
@@ -2898,7 +2886,6 @@
                 "ikan patin",
                 "tempoyak",
                 "kunyit hidup",
-                "tempoyak",
                 "bunga kantan",
                 "daun kesum",
                 "serai",
@@ -2956,7 +2943,6 @@
                 "bawang merah",
                 "halia",
                 "cili kering",
-                "garam",
                 "gula"
             ]
         }

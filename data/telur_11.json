@@ -173,9 +173,7 @@
                 "kicap cair",
                 "cendawan King Oyster",
                 "air",
-                "tepung jagung",
                 "daun bawang",
-                "cili merah",
                 "telur"
             ]
         }
@@ -251,8 +249,7 @@
                 "daun selasih",
                 "bawang putih",
                 "jus limau nipis",
-                "gula thai",
-                "sos ikan"
+                "gula thai"
             ]
         }
     },
@@ -458,7 +455,19 @@
                 "Minyak yang lebih (minyak yang terapung dalam sambal) Che Nom senduk keluar, dan boleh guna untuk tumis sayur atau nasi goreng."
             ],
             "main_ingredients": [
-                "- bawang besar\n- bawang putih\n- bawang merah\n- minyak masak\n- telur\n- cili kering\n- sos tiram\n- sos cili\n- air asam jawa\n- gula melaka\n- garam\n- serbuk seasoning\n- bawang merah\n- cuka"
+                "bawang besar",
+                "bawang putih",
+                "bawang merah",
+                "minyak masak",
+                "telur",
+                "cili kering",
+                "sos tiram",
+                "sos cili",
+                "air asam jawa",
+                "gula melaka",
+                "garam",
+                "serbuk seasoning",
+                "cuka"
             ]
         }
     },

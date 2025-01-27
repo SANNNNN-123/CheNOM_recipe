@@ -80,7 +80,6 @@
                 "minyak sapi",
                 "serai",
                 "daun pandan",
-                "bawang besar",
                 "daun kari",
                 "serbuk kari daging",
                 "tomato",
@@ -366,7 +365,6 @@
                 "limau kasturi",
                 "belacan",
                 "air asam jawa",
-                "garam",
                 "gula",
                 "serbuk perasa"
             ]
@@ -1135,8 +1133,6 @@
                 "mentega",
                 "bawang holland",
                 "sup krim cendawan",
-                "air",
-                "kicap pekat manis",
                 "brokoli",
                 "kubis bunga",
                 "karot",
@@ -1334,7 +1330,35 @@
             "masa_memasak": "3 jam",
             "jumlah_masa": "3 jam 30 minit",
             "hidangan": "10 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Untuk Kisar Halus": [
+                    "7-8 biji bawang merah",
+                    "5 ulas bawang putih",
+                    "3 inci halia",
+                    "2 inci kunyit hidup",
+                    "2 inci lengkuas",
+                    "3 batang serai",
+                    "15-20 tangkai cili kering",
+                    "sedikit air"
+                ],
+                "Bahan Untuk Sangai": [
+                    "1 sudu besar biji ketumbar",
+                    "1 sudu kecil biji jintan putih",
+                    "1 sudu kecil biji jintan manis"
+                ],
+                "Bahan Untuk Lain": [
+                    "2 cawan minyak masak",
+                    "1 kilo daging lembu",
+                    "2 cawan santan cair",
+                    "1 mangkuk santan pekat",
+                    "1 keping asam keping (kalau kepingan besar, letak separuh je dulu)",
+                    "2-3 sudu besar kerisik",
+                    "1-2 helai daun kunyit",
+                    "2-3 helai daun limau purut",
+                    "gula nisan atau gula melaka secukup rasa",
+                    "garam secukup rasa"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Potong daging (arah lawan urat) kepada ketulan sederhana dalam 2 inci.",
@@ -1363,7 +1387,27 @@
                 "Lebihkan sikit minyak bila memasak sebab kita nak bagi naik bau bahan kisar dan masak garing, lebihan minyak boleh dikeluarkan nanti."
             ],
             "main_ingredients": [
-                "Sure! Please provide me with the list of ingredients so I can identify the main ingredients for you."
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "kunyit hidup",
+                "lengkuas",
+                "serai",
+                "cili kering",
+                "ketumbar",
+                "jintan putih",
+                "jintan manis",
+                "minyak masak",
+                "daging lembu",
+                "santan cair",
+                "santan pekat",
+                "asam keping",
+                "kerisik",
+                "daun kunyit",
+                "daun limau purut",
+                "gula nisan",
+                "gula melaka",
+                "garam"
             ]
         }
     },
@@ -1952,7 +1996,38 @@
             "masa_memasak": "2 jam",
             "jumlah_masa": "2 jam 30 minit",
             "hidangan": "10 orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Utama": [
+                    "2 kg daging kambing bersama tulang (bahagian kaki lebih baik)",
+                    "4 biji kentang, kupas kulit dan potong dadu besar",
+                    "2 biji tomato, potong 4",
+                    "6 sudu besar serbuk rempah kari daging",
+                    "2 cawan santan pekat",
+                    "1 cawan santan cair",
+                    "2 keping asam gelugor, atau air asam jawa",
+                    "Sedikit gula melaka",
+                    "Garam secukup rasa",
+                    "1 senduk minyak, untuk menumis"
+                ],
+                "Bahan Untuk Dibancuh Dengan Air": [
+                    "1 sudu besar serbuk cili",
+                    "2 sudu besar serbuk kurma daging",
+                    "2 sudu besar kerisik"
+                ],
+                "Bahan Untuk Dikisar": [
+                    "1 biji bawang besar",
+                    "5 biji bawang merah",
+                    "5-6 ulas bawang putih",
+                    "2 inci halia",
+                    "1 inci lengkuas"
+                ],
+                "Bahan Untuk Rempah Tumis": [
+                    "2 batang kayu manis",
+                    "5 biji buah pelaga",
+                    "2 kuntum bunga lawang",
+                    "5 batang cengkih"
+                ]
+            },
             "instructions": {
                 "Penyediaan Utama": [
                     "Basuh daging kambing bersama sedikit tepung gandum sehingga bersih dan toskan.",
@@ -1967,8 +2042,29 @@
             },
             "tips_and_guides": [],
             "main_ingredients": [
-                "I'm sorry",
-                "but you haven't provided any text for me to extract main ingredients from. Could you please provide me with a recipe or list of ingredients to work with?"
+                "daging kambing",
+                "kentang",
+                "tomato",
+                "serbuk rempah kari daging",
+                "santan pekat",
+                "santan cair",
+                "asam gelugor",
+                "asam jawa",
+                "gula melaka",
+                "garam",
+                "minyak",
+                "serbuk cili",
+                "serbuk kurma daging",
+                "kerisik",
+                "bawang besar",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "kayu manis",
+                "buah pelaga",
+                "bunga lawang",
+                "cengkih"
             ]
         }
     },

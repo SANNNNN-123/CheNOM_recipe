@@ -339,7 +339,7 @@
                 "Tepung salut ayam goreng kalau banyak sangat sisa ketulan, tapis buang dan guna semula."
             ],
             "main_ingredients": [
-                "isi ayam\ntepung goreng serbaguna\nserbuk kari\nminyak masak\nbawang putih\ncili kisar\nkicap manis\nsos tomato\ngula\ngaram\nbijan\nbrokoli\npasta\nminyak zaitun\nsosej\nair rebus spaghetti\nkiub pati ayam\npasli daun rata\npasli itali\nparsli kering\norigano kering\nherba campuran itali\ntomato\nlada benggala\ndaun salad\nkeju parmesan"
+                "isi ayam","tepung goreng serbaguna","serbuk kari","minyak masak","bawang putih","cili kisar","kicap manis","sos tomato","gula","garam","bijan","brokoli","pasta","minyak zaitun","sosej","air rebus spaghetti","kiub pati ayam","pasli daun rata","pasli itali","parsli kering","origano kering","herba campuran itali","tomato","lada benggala","daun salad","keju parmesan"
             ]
         }
     },
@@ -404,7 +404,7 @@
                 "Air tomato tidak diperlukan untuk memasak sos kerana air tomato akan melambatkan proses memasak sos Bolognese."
             ],
             "main_ingredients": [
-                "tomato\nminyak zaitun\nbawang putih\nbawang holland\ndaging kisar\nserbuk lada hitam\nkarot\nlada benggala\ntomato puree\npes tomato\nherba Itali\nparseli kering\noregano kering\nkiub pati lembu\nsusu full cream\ncendawan butang\ngaram\nspaghetti kering\nair\ncheese parmesan"
+                "tomato","minyak zaitun","bawang putih","bawang holland","daging kisar","serbuk lada hitam","karot","lada benggala","tomato puree","pes tomato","herba Itali","parseli kering","oregano kering","kiub pati lembu","susu full cream","cendawan butang","garam","spaghetti kering","air","cheese parmesan"
             ]
         }
     },
@@ -515,7 +515,6 @@
                 "garam",
                 "air",
                 "keju mozarella",
-                "capsicum",
                 "parseli kering"
             ]
         }
@@ -614,9 +613,7 @@
                 "cendawan butang",
                 "mentega tak bergaram",
                 "tepung gandum",
-                "serbuk cheese parmesan",
                 "keju cheddar",
-                "serbuk lada hitam",
                 "cheese mozarella",
                 "serbuk cheese parmesan",
                 "kepingan lasagna."
@@ -741,7 +738,6 @@
                 "bawang putih",
                 "black pepper",
                 "Italian herbs",
-                "sos pasta tomato",
                 "cheese parmesan",
                 "hirisan beef pepperoni",
                 "daun basil"
@@ -824,7 +820,7 @@
                 "Jangan masukkan pasta ketika air belum mendidih kerana pasta akan jadi lembik di luar dan tak masak dengan sempurna di dalam."
             ],
             "main_ingredients": [
-                "- spaghetti\n- garam\n- minyak zaitun\n- bawang Holland\n- bawang putih\n- capsicum hijau\n- karot\n- tomato\n- cendawan\n- daging kisar\n- sos Bolognese\n- tomato puree\n- Italian herbs\n- air pasta\n- parmesan\n- susu full cream"
+                "- spaghetti","- garam","- minyak zaitun","- bawang Holland","- bawang putih","- capsicum hijau","- karot","- tomato","- cendawan","- daging kisar","- sos Bolognese","- tomato puree","- Italian herbs","- air pasta","- parmesan","- susu full cream"
             ]
         }
     },
@@ -1193,7 +1189,7 @@
                 "Jika tiada olive oil boleh sahaja diganti dengan minyak masak."
             ],
             "main_ingredients": [
-                "- Pasta spaghetti\n- Udang/Sotong/Lala\n- Button mushroom\n- Lada benggala\n- Bawang holland\n- Lada hitam\n- Bawang putih\n- Cili kering\n- Sos tiram\n- Cuka\n- Knorr ikan bilis\n- Serbuk Cajun\n- Italian herbs"
+                "- Pasta spaghetti","- Udang/Sotong/Lala","- Button mushroom","- Lada benggala","- Bawang holland","- Lada hitam","- Bawang putih","- Cili kering","- Sos tiram","- Cuka","- Knorr ikan bilis","- Serbuk Cajun","- Italian herbs"
             ]
         }
     },
@@ -1313,7 +1309,7 @@
             "tips_and_guides": [],
             "main_ingredients": [
                 "gula kastor",
-                "tepung \u00c2\u00a0roti",
+                "tepung roti",
                 "yis kering",
                 "minyak zaitun extra virgin",
                 "garam",

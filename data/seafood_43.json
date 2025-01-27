@@ -151,7 +151,6 @@
                 "air",
                 "serbuk lada",
                 "serbuk cili",
-                "serbuk kari",
                 "serbuk pati ayam"
             ]
         }
@@ -225,7 +224,28 @@
                 "Balut cepat-cepat Vietnam rolls  kalau tak nanti rice paper nanti jadi lembik dan melekit-lekit."
             ],
             "main_ingredients": [
-                "- Bihun atau suhun\n- Timun\n- Lada benggala\n- Daun bawang\n- Daun ketumbar\n- Lobak merah\n- Kulit popiah vietnam\n- Udang\n- Jejari ketam\n- Daun salad\n- Kacang tanah\n- Minyak masak\n- Bawang putih\n- Sos cili\n- Cili merah\n- Cili padi\n- Air\n- Sos ikan\n- Gula\n- Tepung jagung\n- Jus limau nipis\n- Garam"
+                "Bihun atau suhun",
+                "Timun",
+                "Lada benggala",
+                "Daun bawang",
+                "Daun ketumbar",
+                "Lobak merah",
+                "Kulit popiah vietnam",
+                "Udang",
+                "Jejari ketam",
+                "Daun salad",
+                "Kacang tanah",
+                "Minyak masak",
+                "Bawang putih",
+                "Sos cili",
+                "Cili merah",
+                "Cili padi",
+                "Air",
+                "Sos ikan",
+                "Gula",
+                "Tepung jagung",
+                "Jus limau nipis",
+                "Garam"
             ]
         }
     },
@@ -943,7 +963,6 @@
                 "sos ikan",
                 "nenas",
                 "air",
-                "garam",
                 "gula",
                 "sos tiram",
                 "bawang holland",
@@ -1120,26 +1139,18 @@
                 "sos tiram",
                 "tepung gandum",
                 "tepung jagung",
-                "air",
-                "tepung jagung",
-                "tepung gandum",
-                "serbuk cili",
-                "serbuk perasa Sedap",
                 "garam halus",
-                "baking powder",
                 "tepung beras",
                 "cili merah",
                 "cili padi",
                 "bawang putih",
-                "air",
                 "jus limau nipis",
                 "cuka makan",
                 "parutan halia",
                 "sos ikan",
                 "ketumbar",
                 "bancuhan tepung jagung",
-                "gula",
-                "garam"
+                "gula"
             ]
         }
     },
@@ -2207,7 +2218,6 @@
                 "karot",
                 "tomato",
                 "cendawan tiram",
-                "serai",
                 "cili padi",
                 "sos ikan",
                 "limau nipis",
@@ -2369,7 +2379,7 @@
             },
             "tips_and_guides": [],
             "main_ingredients": [
-                "udang\ngaram\nbawang\ndaun bawang\ncili merah\nsos tiram\nkicap manis\njus pekat asam jawa\ngula\nbawang putih\nkicap cair\nlada sulah"
+                "udang","garam","bawang","daun bawang","cili merah","sos tiram","kicap manis","jus pekat asam jawa","gula","bawang putih","kicap cair","lada sulah"
             ]
         }
     },

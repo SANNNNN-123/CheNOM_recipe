@@ -58,7 +58,6 @@
                 "bawang putih",
                 "ikan bilis",
                 "kiub pati ikan bilis",
-                "bawang merah",
                 "air asam jawa",
                 "minyak gorengan ikan bilis",
                 "daun pandan",
@@ -258,7 +257,6 @@
             ],
             "main_ingredients": [
                 "minyak sapi",
-                "minyak masak",
                 "Rempah 4 sekawan",
                 "daun salam",
                 "bawang holland",
@@ -280,7 +278,6 @@
                 "Daun pudina",
                 "air",
                 "beras basmati",
-                "minyak masak",
                 "bawang goreng",
                 "Pewarna kuning & oren"
             ]
@@ -847,7 +844,6 @@
                 "minyak masak",
                 "kiub ikan bilis",
                 "garam",
-                "minyak masak",
                 "isi ayam",
                 "telur",
                 "pes nasi goreng",
@@ -856,8 +852,6 @@
                 "nasi sejuk",
                 "kicap pekat manis",
                 "timun",
-                "telur",
-                "garam",
                 "serbuk kunyit",
                 "keropok",
                 "ikan bilis goreng"
@@ -947,8 +941,6 @@
                 "kunyit hidup",
                 "bawang putih",
                 "bawang merah kecil",
-                "bawang merah besar",
-                "halia",
                 "serai",
                 "cili padi",
                 "buah keras",
@@ -1159,8 +1151,6 @@
                 "rempah",
                 "serbuk cili",
                 "bawang besar",
-                "bawang putih",
-                "santan",
                 "air asam jawa"
             ]
         }
@@ -1410,7 +1400,6 @@
                 "ikan bilis",
                 "bawang besar",
                 "bawang merah",
-                "bawang putih",
                 "cili merah",
                 "cili padi",
                 "tomato",
@@ -1560,7 +1549,6 @@
                 "telur",
                 "kicap manis",
                 "sambal belacan",
-                "ikan bilis",
                 "Timun",
                 "Cili merah"
             ]
@@ -1765,8 +1753,6 @@
                 "pewarna",
                 "saffron",
                 "kiub pati ayam",
-                "garam",
-                "minyak sapi",
                 "badam atau gajus",
                 "kismis",
                 "pelaga",
@@ -1777,19 +1763,11 @@
                 "serbuk cili",
                 "serbuk kunyit",
                 "timun",
-                "tomato",
-                "cengkih",
                 "ketumbar",
-                "lada hitam",
-                "gula",
-                "garam",
                 "jus lemon",
                 "cili padi",
-                "bawang putih",
                 "cili merah",
                 "tomato",
-                "ketumbar",
-                "jus lemon",
                 "gula",
                 "garam"
             ]
@@ -1921,7 +1899,6 @@
                 "cili hijau besar",
                 "kismis goreng",
                 "tomato",
-                "tomato puree",
                 "sos cili",
                 "daun bay",
                 "yogurt asli",
@@ -1930,22 +1907,16 @@
                 "Garam",
                 "Daun ketumbar",
                 "minyak masak",
-                "bawang putih kisar",
-                "halia kisar",
-                "daun pandan",
-                "tomato",
                 "beras",
                 "air",
                 "gula batu",
                 "kismis",
-                "susu cair",
                 "kuah ayam briyani",
                 "Pewarna oren & kuning",
                 "minyak sapi cair",
                 "Cili padi",
                 "timun",
                 "karot",
-                "bawang besar",
                 "nenas",
                 "jus limau",
                 "pati oren sunquick",
@@ -2085,7 +2056,6 @@
                 "rempah briyani",
                 "Akar ketumbar",
                 "Batang sup",
-                "tomato",
                 "beras",
                 "kismis",
                 "air rebusan daging",
@@ -2093,7 +2063,6 @@
                 "kiub ayam",
                 "daun ketumbar",
                 "bawang goreng",
-                "air rebusan daging",
                 "lada sulah",
                 "daun sup",
                 "daun salad"
@@ -2206,10 +2175,10 @@
                 "Untuk bancuhan air tepung jagung, bancuh 1 sudu besar tepung jagung dan sedikit air sampai larut sebati."
             ],
             "main_ingredients": [
-                "- Beras\n- Susu cair\n- Minyak masak\n- Minyak sapi\n- Rempah sekawan (kayu manis",
+                "Beras","Susu cair","Minyak masak","Minyak sapi","Rempah sekawan (kayu manis",
                 "bunga lawang",
                 "pelaga",
-                "cengkih)\n- Bawang putih\n- Bawang merah\n- Halia\n- Ketumbar\n- Gula\n- Kiub pati ayam\n- Tomato\n- Peha ayam\n- Serbuk rempah kurma\n- Serbuk kari ayam\n- Serbuk ketumbar\n- Serbuk jintan manis\n- Serbuk kunyit\n- Ayam\n- Serai\n- Kunyit hidup\n- Sos tiram\n- Serbuk perasa\n- Garam\n- Pewarna merah\n- Gula\n- Limau\n- Tepung jagung/gandum\n- Cili merah\n- Cili padi\n- Sos cili\n- Sos ikan\n- Cuka\n- Daun ketumbar"
+                "cengkih)","Bawang putih","Bawang merah","Halia","Ketumbar","Kiub pati ayam","Tomato","Peha ayam","Serbuk rempah kurma","Serbuk kari ayam","Serbuk ketumbar","Serbuk jintan manis","Serbuk kunyit","Ayam","Serai","Kunyit hidup","Sos tiram","Serbuk perasa","Garam","Pewarna merah","Gula","Limau","Tepung jagung/gandum","Cili merah","Cili padi","Sos cili","Sos ikan","Cuka","Daun ketumbar"
             ]
         }
     },
@@ -2416,7 +2385,6 @@
                 "beras",
                 "garam",
                 "cili merah",
-                "daun bawang",
                 "lada putih",
                 "minyak bijan",
                 "bawang goreng",
@@ -2520,7 +2488,6 @@
                 "daun pandan",
                 "garam",
                 "bawang merah kecil",
-                "ikan bilis",
                 "telur rebus",
                 "telur goreng",
                 "timun"
@@ -2537,7 +2504,46 @@
             "masa_memasak": "30 minit",
             "jumlah_masa": "N/A",
             "hidangan": "? orang",
-            "ingredients": {},
+            "ingredients": {
+                "Bahan Untuk Gulai": [
+                    "½ cawan minyak masak",
+                    "3 biji bawang merah",
+                    "3 ulas bawang putih",
+                    "1 inci halia",
+                    "1 inci lengkuas",
+                    "2 sudu besar serbuk kari daging",
+                    "1 sudu besar serbuk rempah kerutuk",
+                    "1 sudu besar cili kisar atau serbuk cili",
+                    "1 mangkuk ayam (bahagian kaki, tulang dan leher)",
+                    "3 batang kacang panjang",
+                    "1 biji terung panjang",
+                    "1 cawan santan segar/½ kotak kecil santan",
+                    "sedikit gula nisan",
+                    "garam secukup rasa",
+                    "1 keping asam keping",
+                    "5-6 tangkai cili padi"
+                ],
+                "Bahan Untuk Sambal Belacan": [
+                    "15-20 biji cili padi",
+                    "3-4 biji cili merah",
+                    "4 biji limau kasturi (buang biji)",
+                    "1 inci belacan",
+                    "½ cawan air pati asam jawa",
+                    "gula",
+                    "garam",
+                    "serbuk perasa"
+                ],
+                "Bahan Untuk Ayam Goreng": [
+                    "½ ekor/600g ayam",
+                    "1-2 sudu kecil garam",
+                    "2 sudu kecil serbuk kunyit",
+                    "1 sudu besar serbuk cili",
+                    "½ sudu besar serbuk kari daging",
+                    "1-2 tangkai daun kari",
+                    "1-2 sudu besar tepung goreng ayam segera/tepung beras/tepung jagung",
+                    "minyak untuk menggoreng"
+                ]
+            },
             "instructions": {
                 "Untuk Gulai": [
                     "Kisar halus bawang merah, bawang putih, halia dan lengkuas.",
@@ -2566,7 +2572,29 @@
                 "Perap ayam dahulu sebelum membuat sambal belacan. Selepas sambal belacan siap, barulah goreng ayam kerana akan lebih sedap jika dihidang ayam yang masih panas bersama nasi, gulai dan sambal belacan."
             ],
             "main_ingredients": [
-                "Sure! Can you please provide me with the list of ingredients so I can extract the main ones for you?"
+                "minyak masak",
+                "bawang merah",
+                "bawang putih",
+                "halia",
+                "lengkuas",
+                "serbuk kari daging",
+                "serbuk rempah kerutuk",
+                "cili kisar",
+                "ayam",
+                "kacang panjang",
+                "terung",
+                "santan",
+                "gula nisan",
+                "garam",
+                "asam keping",
+                "cili padi",
+                "cili merah",
+                "limau kasturi",
+                "belacan",
+                "asam jawa",
+                "serbuk kunyit",
+                "daun kari",
+                "tepung goreng ayam"
             ]
         }
     },
@@ -2728,39 +2756,21 @@
                 "kismis hitam",
                 "garam",
                 "minyak masak",
-                "daun salam",
-                "kayu manis",
-                "lada hitam",
-                "bawang holland",
                 "air",
                 "kiub ayam",
                 "rempah mandy",
                 "minyak zaitun",
                 "serbuk smoked paprika/serbuk cili",
                 "pewarna kuning",
-                "jus lemon",
-                "daun ketumbar",
                 "timun",
                 "tomato",
                 "gula",
-                "serbuk lada hitam",
-                "jus lemon",
                 "ulas bawang putih",
-                "tomato",
-                "cili padi",
                 "lemon",
                 "cili merah",
-                "ketumbar",
-                "jus lemon",
-                "garam",
-                "gula",
                 "air rebusan ayam",
-                "garam",
                 "serbuk kunyit",
-                "serbuk lada hitam",
                 "serbuk lada sulah",
-                "daun ketumbar",
-                "minyak masak",
                 "arang"
             ]
         }
@@ -3262,8 +3272,7 @@
                 "pewarna kuning",
                 "timun",
                 "lemon",
-                "gula",
-                "garam"
+                "gula"
             ]
         }
     },
@@ -3614,7 +3623,6 @@
                 "udang",
                 "sayur campur",
                 "lada sulah",
-                "ayam",
                 "minyak bijan",
                 "minyak",
                 "bawang putih",
@@ -3820,7 +3828,6 @@
                 "cili padi",
                 "cili merah",
                 "bawang merah",
-                "bawang putih",
                 "tomato",
                 "belacan bakar",
                 "ikan bilis",
