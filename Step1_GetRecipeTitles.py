@@ -92,7 +92,7 @@ def scrape_recipes(url, max_retries=3):
 def save_recipes(recipes_data, filename="recipes.json"):
     if recipes_data:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"recipes_{timestamp}.json"
+        filename = f"recipes_page.json"
         
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(recipes_data, f, indent=4, ensure_ascii=False)

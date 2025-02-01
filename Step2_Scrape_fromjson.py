@@ -5,7 +5,17 @@ import random
 from datetime import datetime
 from tqdm import tqdm
 import argparse
-import os
+
+def load_recipe_urls(json_file):
+    """Load recipe URLs from a JSON file"""
+    try:
+        with open(json_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            recipe_urls = [recipe["recipe_url"] for recipe in data]
+            return recipe_urls
+    except Exception as e:
+        print(f"Error loading JSON file: {str(e)}")
+        return []
 
 def scrape_recipe_details(context, recipe_url):
     """Scrape details for a single recipe URL using human-like behavior"""
@@ -15,12 +25,12 @@ def scrape_recipe_details(context, recipe_url):
         print(f"\nScraping details from: {recipe_url}")
         
         # Add reduced random delay before navigation
-        page.wait_for_timeout(random.randint(200, 500))
+        page.wait_for_timeout(random.randint(500, 1000))
         
         # Navigate to the page with human-like behavior
         page.goto(recipe_url, wait_until="domcontentloaded")
         page.mouse.move(random.randint(100, 500), random.randint(100, 500))
-        page.wait_for_timeout(random.randint(200, 500))
+        page.wait_for_timeout(random.randint(500, 1000))
         
         # Scroll down slowly like a human (with reduced interval)
         page.evaluate('''() => {
@@ -38,7 +48,7 @@ def scrape_recipe_details(context, recipe_url):
             });
         }''')
         
-        page.wait_for_timeout(random.randint(200, 500))
+        page.wait_for_timeout(random.randint(500, 1000))
 
         # Extract all data using JavaScript evaluation
         details = page.evaluate('''() => {
@@ -152,8 +162,14 @@ def scrape_recipe_details(context, recipe_url):
         print(f"Error scraping recipe details: {str(e)}")
         return {"recipe_url": recipe_url, "details": {}}
 
-def scrape_single_recipe(url, max_retries=3):
-    """Scrape a single recipe from a given URL"""
+def scrape_recipes_from_json(json_file, max_retries=3):
+    """Scrape recipes using URLs from a JSON file"""
+    # Load recipe URLs from the JSON file
+    recipe_urls = load_recipe_urls(json_file)
+    if not recipe_urls:
+        print("No recipe URLs found in the JSON file.")
+        return None
+    
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -171,85 +187,68 @@ def scrape_single_recipe(url, max_retries=3):
             }
         )
 
-        recipe_data = None
-        for attempt in range(max_retries):
-            try:
-                recipe_data = scrape_recipe_details(context, url)
-                break
-            except TimeoutError:
-                if attempt < max_retries - 1:
-                    print(f"\nTimeout occurred. Retrying... ({attempt + 1}/{max_retries})")
-                    time.sleep(3)
-                    continue
-                else:
-                    print("\nMax retries reached. Could not scrape recipe.")
-                    recipe_data = {"recipe_url": url, "details": {}}
-            except Exception as e:
-                print(f"\nError occurred: {str(e)}")
-                if attempt < max_retries - 1:
-                    print("Retrying...")
-                    time.sleep(3)
-                    continue
-                recipe_data = {"recipe_url": url, "details": {}}
-
+        # Scrape details for each recipe with progress bar
+        detailed_recipes = []
+        with tqdm(total=len(recipe_urls), desc="Scraping recipes") as pbar:
+            for recipe_url in recipe_urls:
+                for attempt in range(max_retries):
+                    try:
+                        detailed_recipe = scrape_recipe_details(context, recipe_url)
+                        detailed_recipes.append(detailed_recipe)
+                        time.sleep(0.5)  # Reduced delay between requests
+                        break
+                    except TimeoutError:
+                        if attempt < max_retries - 1:
+                            print(f"\nTimeout occurred. Retrying... ({attempt + 1}/{max_retries})")
+                            time.sleep(3)
+                            continue
+                        else:
+                            print("\nMax retries reached. Could not scrape recipe.")
+                            detailed_recipes.append({"recipe_url": recipe_url, "details": {}})
+                    except Exception as e:
+                        print(f"\nError occurred: {str(e)}")
+                        if attempt < max_retries - 1:
+                            print("Retrying...")
+                            time.sleep(3)
+                            continue
+                        detailed_recipes.append({"recipe_url": recipe_url, "details": {}})
+                pbar.update(1)
+        
         context.close()
         browser.close()
-        return recipe_data
+        return detailed_recipes
 
-def save_recipe(recipe_data, filename):
-    """Save recipe data to a file, appending if the file exists"""
-    if recipe_data:
-        existing_data = []
+def save_recipes(recipes_data, filename="recipes.json"):
+    if recipes_data:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"recipes_{timestamp}.json"
         
-        # If file exists, load existing data
-        if os.path.exists(filename):
-            try:
-                with open(filename, "r", encoding="utf-8") as f:
-                    existing_data = json.load(f)
-                    if not isinstance(existing_data, list):
-                        existing_data = [existing_data]
-            except json.JSONDecodeError:
-                print(f"Warning: Existing file {filename} is not valid JSON. Creating new file.")
-                existing_data = []
-            
-        # Append new recipe data
-        if isinstance(recipe_data, list):
-            existing_data.extend(recipe_data)
-        else:
-            existing_data.append(recipe_data)
-        
-        # Save combined data
         with open(filename, "w", encoding="utf-8") as f:
-            json.dump(existing_data, f, indent=4, ensure_ascii=False)
+            json.dump(recipes_data, f, indent=4, ensure_ascii=False)
         
-        print(f"\nSuccessfully scraped recipe!")
-        print(f"Data {'appended to' if os.path.exists(filename) else 'saved to'}: {filename}")
+        print(f"\nSuccessfully scraped {len(recipes_data)} recipes!")
+        print(f"Data saved to: {filename}")
     else:
-        print("\nNo recipe to save.")
+        print("\nNo recipes to save.")
 
 def main():
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description="Scrape recipe details from MyResipi.com")
-    parser.add_argument("url", help="URL of the recipe to scrape")
-    parser.add_argument("filename", nargs="?", default=None, help="Optional: Name of the file to save/append the recipe data")
+    parser.add_argument("json_file", help="Path to the JSON file containing recipe URLs")
     args = parser.parse_args()
-
-    # If no filename is provided, create one with timestamp
-    if args.filename is None:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        args.filename = f"recipe_{timestamp}.json"
 
     start_time = time.time()
     
-    print("\nScraping recipe from MyResipi.com")
+    print("\nScraping recipes from MyResipi.com")
     print("=============================================================================================================")
     
-    # Scrape the single recipe
-    recipe_data = scrape_single_recipe(args.url)
-    save_recipe(recipe_data, args.filename)
+    # Scrape recipes using URLs from the JSON file
+    recipes_data = scrape_recipes_from_json(args.json_file)
+    save_recipes(recipes_data)
     
     elapsed_time = time.time() - start_time
     print(f"\nScraping completed in {elapsed_time:.2f} seconds")
+    print(f"Total recipes scraped: {len(recipes_data) if recipes_data else 0}")
 
 if __name__ == "__main__":
     main()
